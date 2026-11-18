@@ -1,0 +1,16 @@
+{
+  "name": "Trung Thảo Dược – Từ điển dược liệu 中草藥",
+  "short_name": "Trung Thảo Dược",
+  "description": "Tra cứu dược liệu Trung Hoa với chữ phồn thể, giản thể, pinyin và tên Việt.",
+  "lang": "vi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f1e6",
+  "theme_color": "#1f4d3a",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
