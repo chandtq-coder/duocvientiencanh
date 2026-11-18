@@ -7,9 +7,9 @@ var GROUPS = [
   ["bo","Bổ hư 補虛"],["giaibieu","Giải biểu 解表"],["thanhnhiet","Thanh nhiệt 清熱"],
   ["taha","Tả hạ 瀉下"],["loithuy","Lợi thủy · Hóa thấp 利水化濕"],["only","Ôn lý 溫裡"],
   ["hoathuyet","Hoạt huyết 活血"],["hoadam","Hóa đàm · Bình can 化痰平肝"],
-  ["thusap","Thu sáp 收澀"],["lykhi","Lý khí · Tiêu thực 理氣消食"]
+  ["khuphong","Khu phong thấp 祛風濕"],["thusap","Thu sáp 收澀"],["lykhi","Lý khí · Tiêu thực 理氣消食"]
 ];
-var GICON={bo:"🌱",giaibieu:"🍃",thanhnhiet:"❄️",taha:"🌊",loithuy:"💧",only:"🔥",hoathuyet:"🌸",hoadam:"🍵",thusap:"🍇",lykhi:"🍊"};
+var GICON={bo:"🌱",giaibieu:"🍃",thanhnhiet:"❄️",taha:"🌊",loithuy:"💧",only:"🔥",hoathuyet:"🌸",hoadam:"🍵",thusap:"🍇",khuphong:"🦴",lykhi:"🍊"};
 var GNAME = {}; GROUPS.forEach(function(g){GNAME[g[0]]=g[1];});
 var TOX = window.TOX || {}, UNV = window.UNVERIFIED || {}, FIX = window.FIXED || {};
 var TOXICON = {doc:"☠",manh:"⚠",luu:"ⓘ"};

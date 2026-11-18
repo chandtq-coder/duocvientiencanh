@@ -34,5 +34,16 @@ window.TOX={
 "xuyen-boi-mau":{lv:"luu",lab:"KỴ Ô ĐẦU · HÀNG GIẢ",txt:"Dược điển ghi không dùng chung với Xuyên ô, Thảo ô, Phụ tử. Thị trường nhiều hàng giả hoặc nhầm với Chiết bối mẫu; mua nơi uy tín."},
 "chi-tu":{lv:"luu",lab:"RẤT LẠNH · GAN (LIỀU CAO)",txt:"Tính rất lạnh: người tỳ vị hư hàn, tiêu chảy không dùng. Geniposide liều cao gây độc gan trên động vật nên không tự tăng liều hay dùng dài ngày."},
 "tay-duong-sam":{lv:"luu",lab:"KỴ LÊ LÔ · TƯƠNG TÁC THUỐC",txt:"Dược điển ghi không dùng chung với Lê lô. Có thể tương tác với thuốc chống đông, thuốc đái tháo đường."},
-"dang-sam":{lv:"luu",lab:"KỴ LÊ LÔ",txt:"Dược điển ghi không dùng chung với Lê lô. Người thực nhiệt, đầy bụng khí trệ thận trọng."}
+"dang-sam":{lv:"luu",lab:"KỴ LÊ LÔ",txt:"Dược điển ghi không dùng chung với Lê lô. Người thực nhiệt, đầy bụng khí trệ thận trọng."},
+"hanh-nhan":{lv:"doc",lab:"CÓ ĐỘC NHẸ (小毒)",txt:"Dược điển ghi ‘có độc nhẹ’ và ‘không dùng quá liều’. Nhân đắng chứa amygdalin, khi thủy phân giải phóng hydro cyanide; ăn sống nhiều (nhất là trẻ em) có thể gây ngộ độc nặng. Chỉ dùng loại đã chế, đúng liều. Không nhầm với hạnh nhân ngọt ăn được."},
+"ngo-thu-du":{lv:"doc",lab:"CÓ ĐỘC NHẸ (小毒)",txt:"Dược điển ghi ‘có độc nhẹ’. Liều cao hoặc dùng dài ngày gây buồn nôn, đau đầu, ảo giác, kích ứng. Âm hư có nhiệt không dùng; phụ nữ có thai thận trọng."},
+"bo-cot-chi":{lv:"manh",lab:"NHẠY SÁNG · NGUY CƠ GAN",txt:"Furanocoumarin (psoralen) gây nhạy cảm ánh sáng: viêm da, sạm da khi phơi nắng. Có nhiều báo cáo tổn thương gan do chế phẩm Bổ cốt chi. Người bệnh gan, đang dùng thuốc độc gan không dùng; tránh nắng khi dùng; theo dõi chức năng gan nếu dùng kéo dài."},
+"phong-ky":{lv:"manh",lab:"DỄ NHẦM VỚI LOÀI ĐỘC THẬN",txt:"‘Phòng kỷ’ thật là Stephania tetrandra. Quảng phòng kỷ, Mộc phòng kỷ (Aristolochia) chứa aristolochic acid gây suy thận mạn và ung thư đường tiết niệu; từng gây ‘bệnh thận do thuốc giảm cân’ ở Bỉ khi bị dùng nhầm. Chỉ mua hàng có xác định loài; phụ nữ có thai không dùng."},
+"mau-don-bi":{lv:"luu",lab:"THAI KỲ",txt:"Dược điển ghi 孕妇慎用; kinh nguyệt nhiều, tỳ vị hư hàn không dùng."},
+"huyen-sam":{lv:"luu",lab:"KỴ LÊ LÔ",txt:"Dược điển ghi không dùng chung với Lê lô. Tỳ vị hư hàn, tiêu chảy không dùng."},
+"hoang-ba":{lv:"luu",lab:"RẤT ĐẮNG LẠNH",txt:"Dễ hại vị: tỳ vị hư hàn, tiêu chảy lạnh không dùng; thai kỳ thận trọng. Berberine có thể tương tác thuốc chuyển hóa qua CYP."},
+"long-dom":{lv:"luu",lab:"RẤT ĐẮNG LẠNH",txt:"Không dùng dài ngày; tỳ vị hư hàn, tiêu chảy không dùng; thai kỳ thận trọng."},
+"moc-huong":{lv:"luu",lab:"CITES · DỄ NHẦM THANH MỘC HƯƠNG",txt:"Saussurea costus hoang dã thuộc Phụ lục I CITES (hạn chế buôn bán). ‘Thanh mộc hương’ (Aristolochia) chứa aristolochic acid độc thận, gây ung thư — tuyệt đối không dùng thay Mộc hương."},
+"hoa-ma-nhan":{lv:"luu",lab:"PHÁP LÝ · ĂN NHIỀU",txt:"Cây Cannabis bị quản lý nghiêm tại Việt Nam; chỉ dùng hạt hợp pháp đã xử lý. Ăn nhiều gây tiêu chảy, buồn nôn, đau đầu; phụ nữ có thai thận trọng."},
+"can-khuong":{lv:"luu",lab:"RẤT CAY NÓNG",txt:"Âm hư nội nhiệt, thực nhiệt, ho ra máu do nhiệt không dùng; phụ nữ có thai thận trọng."}
 };

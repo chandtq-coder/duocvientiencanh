@@ -4,6 +4,8 @@ Từ điển tra cứu dược liệu Trung Hoa dạng PWA (HTML/CSS/JS thuần,
 Mỗi vị có chữ **phồn thể**, **giản thể**, **pinyin**, **chữ Việt (Hán Việt)**, kèm tên khoa học, tính vị quy kinh,
 sinh trưởng, công dụng khoa học, dân gian, cách dùng, liều, độc tính và kết quả đối chiếu Dược điển.
 
+Bản chạy trực tuyến (GitHub Pages): https://chandtq-coder.github.io/duocvientiencanh/
+
 ## Chạy thử
 ```bash
 python -m http.server 8770
@@ -12,7 +14,7 @@ python -m http.server 8770
 
 ## Cấu trúc
 - `index.html`, `style.css`, `app.js`, `scene.js` — giao diện và cảnh nền
-- `data/h*.js` — dữ liệu dược liệu; `data/toxic.js` — độc tính; `data/verify.js` — đối chiếu Dược điển; `data/credits.js` — ghi công ảnh
+- `data/h1..h9.js` — dữ liệu dược liệu; `data/toxic.js` — độc tính; `data/verify.js` — đối chiếu Dược điển; `data/credits.js` — ghi công ảnh
 - `img/` — ảnh WebP đã nén; `sw.js`, `manifest.webmanifest`, `icons/` — PWA
 
 ## Lưu ý

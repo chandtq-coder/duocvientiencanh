@@ -9,6 +9,9 @@ window.UNVERIFIED={
 "trach-ta":"Không tìm được nguyên văn Dược điển 2020; nguồn thứ cấp (sao chép Dược điển) ghi hàn, ngọt nhạt, quy Thận – Bàng quang, 6–10 g, khớp với trang.",
 "dong-trung-ha-thao":"Không tìm được nguyên văn Dược điển 2020; nguồn thứ cấp ghi ngọt, bình, quy Phế – Thận, 3–9 g, khớp với trang.",
 "sa-nhan":"Không tìm được nguyên văn Dược điển 2020 trên nguồn đã tra; nguồn thứ cấp ghi cay, ấm, quy Tỳ – Vị – Thận, 3–6 g, cho vào sau, khớp với trang.",
+"moc-huong":"Không tìm được nguyên văn Dược điển 2020; nguồn thứ cấp ghi cay, đắng, ấm, quy Tỳ – Vị – Đại trường – Tam tiêu – Đởm, 3–6 g, khớp với trang.",
+"phong-ky":"Không tìm được nguyên văn Dược điển 2020 về liều và chú ý; nguồn thứ cấp ghi Stephania tetrandra, đắng, lạnh, quy Bàng quang – Phế, 5–10 g. Việc Dược điển loại Quảng phòng kỷ và Quan mộc thông vì chứa aristolochic acid mới có bằng chứng gián tiếp.",
+"hoa-ma-nhan":"Không tìm được nguyên văn Dược điển 2020 trên nguồn đã tra; số liệu (ngọt, bình, 10–15 g) theo giáo trình Trung dược học.",
 "quyet-minh-tu":"Không tìm được nguyên văn Dược điển 2020; nguồn thứ cấp (Hồng Kông) ghi ngọt đắng mặn, hơi lạnh, quy Can – Đại trường, khớp với trang. Dược điển gồm cả Cassia obtusifolia và C. tora."
 };
 window.FIXED={

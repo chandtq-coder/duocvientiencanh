@@ -516,5 +516,145 @@ window.CREDITS={
   "artist": "Shizhao",
   "page": "https://commons.wikimedia.org/wiki/File:Plantago_asiatica.jpg",
   "note": ""
+ },
+ "tho-ty-tu": {
+  "file": "Cuscuta_chinensis_04.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Vinayaraj",
+  "page": "https://commons.wikimedia.org/wiki/File:Cuscuta_chinensis_04.JPG",
+  "note": ""
+ },
+ "bo-cot-chi": {
+  "file": "Psoralea_corylifolia_-_Agri-Horticultural_Society_of_India_-_Alipore_-_Kolkata_2013-01-05_2282.JPG",
+  "lic": "CC BY 3.0",
+  "artist": "Biswarup Ganguly",
+  "page": "https://commons.wikimedia.org/wiki/File:Psoralea_corylifolia_-_Agri-Horticultural_Society_of_India_-_Alipore_-_Kolkata_2013-01-05_2282.JPG",
+  "note": ""
+ },
+ "nu-trinh-tu": {
+  "file": "Ligustrum lucidum fruit NC1.jpg",
+  "lic": "CC BY 2.0",
+  "artist": "Macleay Grass Man",
+  "page": "https://commons.wikimedia.org/wiki/File:Ligustrum_lucidum_fruit_NC1.jpg",
+  "note": ""
+ },
+ "ngoc-truc": {
+  "file": "Angular_solomons-seal_Polygonatum_odoratum.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Myrabella",
+  "page": "https://commons.wikimedia.org/wiki/File:Angular_solomons-seal_Polygonatum_odoratum.jpg",
+  "note": ""
+ },
+ "lien-tu": {
+  "file": "Lotus fruit seeds.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "Basile Morin",
+  "page": "https://commons.wikimedia.org/wiki/File:Lotus_fruit_seeds.jpg",
+  "note": ""
+ },
+ "o-mai": {
+  "file": "Prunus_mume.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Kakidai",
+  "page": "https://commons.wikimedia.org/wiki/File:Prunus_mume.JPG",
+  "note": ""
+ },
+ "hoang-ba": {
+  "file": "Phellodendron_chinense_var._yunnanensis_-_Kunming_Botanical_Garden_-_DSC03155.JPG",
+  "lic": "Public domain",
+  "artist": "Daderot",
+  "page": "https://commons.wikimedia.org/wiki/File:Phellodendron_chinense_var._yunnanensis_-_Kunming_Botanical_Garden_-_DSC03155.JPG",
+  "note": ""
+ },
+ "long-dom": {
+  "file": "Gentiana_scabra2.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Gentiana_scabra2.jpg",
+  "note": ""
+ },
+ "mau-don-bi": {
+  "file": "洛阳牡丹.jpg",
+  "lic": "Public domain",
+  "artist": "Aberlin",
+  "page": "https://commons.wikimedia.org/wiki/File:%E6%B4%9B%E9%98%B3%E7%89%A1%E4%B8%B9.jpg",
+  "note": ""
+ },
+ "huyen-sam": {
+  "file": "Scrophularia_ningpoensis_Kew.jpg",
+  "lic": "CC0",
+  "artist": "Kew (mẫu tiêu bản)",
+  "page": "https://commons.wikimedia.org/wiki/File:Scrophularia_ningpoensis_Kew.jpg",
+  "note": ""
+ },
+ "ha-kho-thao": {
+  "file": "Prunella_vulgaris_-_harilik_käbihein.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Ivar Leidus",
+  "page": "https://commons.wikimedia.org/wiki/File:Prunella_vulgaris_-_harilik_k%C3%A4bihein.jpg",
+  "note": ""
+ },
+ "hanh-nhan": {
+  "file": "Apricot kernel in bowl.jpg",
+  "lic": "CC0",
+  "artist": "Shisma",
+  "page": "https://commons.wikimedia.org/wiki/File:Apricot_kernel_in_bowl.jpg",
+  "note": ""
+ },
+ "can-khuong": {
+  "file": "Dried ginger rhizome.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Friday musa",
+  "page": "https://commons.wikimedia.org/wiki/File:Dried_ginger_rhizome.jpg",
+  "note": ""
+ },
+ "ngo-thu-du": {
+  "file": "Rutaceae_sp_SZ21_clean.png",
+  "lic": "Public domain",
+  "artist": "Siebold & Zuccarini (hình vẽ)",
+  "page": "https://commons.wikimedia.org/wiki/File:Rutaceae_sp_SZ21_clean.png",
+  "note": "Hình vẽ cổ trên Wikipedia dùng cho Tetradium ruticarpum; nên đối chiếu thêm với ảnh thực vật"
+ },
+ "moc-huong": {
+  "file": "Saussurea costus fresh dry roots.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Plantagenet",
+  "page": "https://commons.wikimedia.org/wiki/File:Saussurea_costus_fresh_dry_roots.jpg",
+  "note": ""
+ },
+ "phong-ky": {
+  "file": "Stephania_tetrandra_imported_from_iNaturalist_photo_285506865_on_17_February_2024.jpg",
+  "lic": "CC0",
+  "artist": "iNaturalist (no rights reserved)",
+  "page": "https://commons.wikimedia.org/wiki/File:Stephania_tetrandra_imported_from_iNaturalist_photo_285506865_on_17_February_2024.jpg",
+  "note": ""
+ },
+ "doc-hoat": {
+  "file": "Angelica_pubescens_-_Flickr_-_odako1.jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "Koichi Oda",
+  "page": "https://commons.wikimedia.org/wiki/File:Angelica_pubescens_-_Flickr_-_odako1.jpg",
+  "note": ""
+ },
+ "nhan-tran": {
+  "file": "Artemisia_capillaris_3.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Qwert1234",
+  "page": "https://commons.wikimedia.org/wiki/File:Artemisia_capillaris_3.JPG",
+  "note": ""
+ },
+ "hoa-ma-nhan": {
+  "file": "Shelled hemp seeds.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "ElinorD",
+  "page": "https://commons.wikimedia.org/wiki/File:Shelled_hemp_seeds.jpg",
+  "note": ""
+ },
+ "tan-giao": {
+  "file": "Gentiana_macrophylla_Orchi_04.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Orchi",
+  "page": "https://commons.wikimedia.org/wiki/File:Gentiana_macrophylla_Orchi_04.jpg",
+  "note": ""
  }
 };
