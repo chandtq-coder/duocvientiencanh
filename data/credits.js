@@ -656,5 +656,145 @@ window.CREDITS={
   "artist": "Orchi",
   "page": "https://commons.wikimedia.org/wiki/File:Gentiana_macrophylla_Orchi_04.jpg",
   "note": ""
+ },
+ "xuyen-o": {
+  "file": "Aconitum_carmichaelli_'arendsii'_27-10-2005_16.09.36.JPG",
+  "lic": "CC BY 2.5",
+  "artist": "TeunSpaans (giả định)",
+  "page": "https://commons.wikimedia.org/wiki/File:Aconitum_carmichaelli_%27arendsii%27_27-10-2005_16.09.36.JPG",
+  "note": "Ảnh hoa của cùng loài Aconitum carmichaelii; phần dùng thuốc là rễ mẹ (Ô đầu)"
+ },
+ "thien-nam-tinh": {
+  "file": "Arisaema_erubescens_Arizema_2019-06-09_14.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Agnieszka Kwiecień",
+  "page": "https://commons.wikimedia.org/wiki/File:Arisaema_erubescens_Arizema_2019-06-09_14.jpg",
+  "note": ""
+ },
+ "ma-tien-tu": {
+  "file": "Strychnos_nux-vomica_-_Köhler–s_Medizinal-Pflanzen-266.jpg",
+  "lic": "Public domain",
+  "artist": "Franz Eugen Köhler (hình vẽ)",
+  "page": "https://commons.wikimedia.org/wiki/File:Strychnos_nux-vomica_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-266.jpg",
+  "note": ""
+ },
+ "bach-qua": {
+  "file": "Peeled ginkgo nuts.jpg",
+  "lic": "CC0",
+  "artist": "Fumikas Sagisavas",
+  "page": "https://commons.wikimedia.org/wiki/File:Peeled_ginkgo_nuts.jpg",
+  "note": ""
+ },
+ "ba-kich": {
+  "file": "Dried morinda officinale.jpg",
+  "lic": "CC0",
+  "artist": "Fumikas Sagisavas",
+  "page": "https://commons.wikimedia.org/wiki/File:Dried_morinda_officinale.jpg",
+  "note": ""
+ },
+ "tuc-doan": {
+  "file": "川續斷 Dipsacus asper -昆明世博園 Kunming Expo Garden, China- (9229879102).jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "阿橋 HQ",
+  "page": "https://commons.wikimedia.org/wiki/File:%E5%B7%9D%E7%BA%8C%E6%96%B7_Dipsacus_asper_-%E6%98%86%E6%98%8E%E4%B8%96%E5%8D%9A%E5%9C%92_Kunming_Expo_Garden%2C_China-_%289229879102%29.jpg",
+  "note": ""
+ },
+ "nhuc-dau-khau": {
+  "file": "Myristica_fragrans_-_Köhler–s_Medizinal-Pflanzen-097.jpg",
+  "lic": "Public domain",
+  "artist": "Franz Eugen Köhler (hình vẽ)",
+  "page": "https://commons.wikimedia.org/wiki/File:Myristica_fragrans_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-097.jpg",
+  "note": ""
+ },
+ "thuong-truat": {
+  "file": "Atractylodes lancea Rhizome.jpg",
+  "lic": "Public domain",
+  "artist": "Lee Chul Ho",
+  "page": "https://commons.wikimedia.org/wiki/File:Atractylodes_lancea_Rhizome.jpg",
+  "note": ""
+ },
+ "hoac-huong": {
+  "file": "Pogostemon_cablin_001.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Valérie75 (giả định)",
+  "page": "https://commons.wikimedia.org/wiki/File:Pogostemon_cablin_001.jpg",
+  "note": ""
+ },
+ "chi-thuc": {
+  "file": "Citrus_aurantium.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "A. Barra",
+  "page": "https://commons.wikimedia.org/wiki/File:Citrus_aurantium.jpg",
+  "note": "Ảnh quả chín của cam đắng (Citrus aurantium); Chỉ thực dùng quả non phơi khô"
+ },
+ "dinh-huong": {
+  "file": "Syzygium_aromaticum_-_Köhler–s_Medizinal-Pflanzen-030.jpg",
+  "lic": "Public domain",
+  "artist": "Franz Eugen Köhler (hình vẽ)",
+  "page": "https://commons.wikimedia.org/wiki/File:Syzygium_aromaticum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-030.jpg",
+  "note": ""
+ },
+ "hoa-tieu": {
+  "file": "Zanthoxylum_bungeanum_in_Palm_House_Schoenbrunn_(2).jpg",
+  "lic": "CC BY 4.0",
+  "artist": "Tournasol7",
+  "page": "https://commons.wikimedia.org/wiki/File:Zanthoxylum_bungeanum_in_Palm_House_Schoenbrunn_%282%29.jpg",
+  "note": ""
+ },
+ "bach-mao-can": {
+  "file": "Imperata_cylindrica_tigaya_colony.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Keisotyo (giả định)",
+  "page": "https://commons.wikimedia.org/wiki/File:Imperata_cylindrica_tigaya_colony.jpg",
+  "note": ""
+ },
+ "dia-du": {
+  "file": "Sanguisorba_officinalis.jpg",
+  "lic": "Public domain",
+  "artist": "Carl Axel Magnus Lindman (hình vẽ)",
+  "page": "https://commons.wikimedia.org/wiki/File:Sanguisorba_officinalis.jpg",
+  "note": ""
+ },
+ "bach-cap": {
+  "file": "Bletilla_striata_2007-05-13_375.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "BS Thurner Hof",
+  "page": "https://commons.wikimedia.org/wiki/File:Bletilla_striata_2007-05-13_375.jpg",
+  "note": ""
+ },
+ "uat-kim": {
+  "file": "Curcuma aromatica.jpg",
+  "lic": "CC BY 2.0",
+  "artist": "goldentakin",
+  "page": "https://commons.wikimedia.org/wiki/File:Curcuma_aromatica.jpg",
+  "note": "Ảnh loài cùng chi Curcuma aromatica; Dược điển dùng Curcuma wenyujin, C. longa, C. kwangsiensis, C. phaeocaulis"
+ },
+ "vien-chi": {
+  "file": "YUAN ZHI - Polygala tenuifolia.jpg",
+  "lic": "Public domain",
+  "artist": "Tecophila Colla-Billotti",
+  "page": "https://commons.wikimedia.org/wiki/File:YUAN_ZHI_-_Polygala_tenuifolia.jpg",
+  "note": ""
+ },
+ "khoan-dong-hoa": {
+  "file": "Coltsfoot.jpg",
+  "lic": "CC BY-SA 2.5",
+  "artist": "Andreas Trepte",
+  "page": "https://commons.wikimedia.org/wiki/File:Coltsfoot.jpg",
+  "note": ""
+ },
+ "ty-ba-diep": {
+  "file": "Loquat-0.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Aftabbanoori",
+  "page": "https://commons.wikimedia.org/wiki/File:Loquat-0.jpg",
+  "note": ""
+ },
+ "nguu-bang-tu": {
+  "file": "ArctiumLappa1.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Christian Fischer",
+  "page": "https://commons.wikimedia.org/wiki/File:ArctiumLappa1.jpg",
+  "note": ""
  }
 };

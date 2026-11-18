@@ -45,5 +45,18 @@ window.TOX={
 "long-dom":{lv:"luu",lab:"RẤT ĐẮNG LẠNH",txt:"Không dùng dài ngày; tỳ vị hư hàn, tiêu chảy không dùng; thai kỳ thận trọng."},
 "moc-huong":{lv:"luu",lab:"CITES · DỄ NHẦM THANH MỘC HƯƠNG",txt:"Saussurea costus hoang dã thuộc Phụ lục I CITES (hạn chế buôn bán). ‘Thanh mộc hương’ (Aristolochia) chứa aristolochic acid độc thận, gây ung thư — tuyệt đối không dùng thay Mộc hương."},
 "hoa-ma-nhan":{lv:"luu",lab:"PHÁP LÝ · ĂN NHIỀU",txt:"Cây Cannabis bị quản lý nghiêm tại Việt Nam; chỉ dùng hạt hợp pháp đã xử lý. Ăn nhiều gây tiêu chảy, buồn nôn, đau đầu; phụ nữ có thai thận trọng."},
-"can-khuong":{lv:"luu",lab:"RẤT CAY NÓNG",txt:"Âm hư nội nhiệt, thực nhiệt, ho ra máu do nhiệt không dùng; phụ nữ có thai thận trọng."}
+"can-khuong":{lv:"luu",lab:"RẤT CAY NÓNG",txt:"Âm hư nội nhiệt, thực nhiệt, ho ra máu do nhiệt không dùng; phụ nữ có thai thận trọng."},
+"xuyen-o":{lv:"doc",lab:"ĐỘC MẠNH (大毒)",txt:"Rễ mẹ của cây Ô đầu: chứa aconitine độc tim, độc thần kinh cực mạnh, vài miligam có thể gây tử vong. Tuyệt đối không dùng sống, không ngâm rượu uống. Chỉ dùng loại đã chế do thầy thuốc kê, sắc trước và lâu. Cấm khi mang thai; kỵ Bán hạ, Qua lâu, Bối mẫu, Bạch liễm, Bạch cập. Ngộ độc: tê môi lưỡi, buồn nôn, loạn nhịp tim — cấp cứu ngay."},
+"thien-nam-tinh":{lv:"doc",lab:"CÓ ĐỘC (củ sống)",txt:"Củ sống chứa tinh thể calcium oxalate và chất kích ứng, gây tê rát, sưng phù miệng họng, có thể ngạt thở. Chỉ dùng loại đã chế. Không nhầm với các cây họ Ráy ăn được; phụ nữ có thai thận trọng."},
+"ma-tien-tu":{lv:"doc",lab:"ĐỘC MẠNH (大毒)",txt:"Chứa strychnine gây co giật toàn thân, tử vong do liệt cơ hô hấp; liều gây chết chỉ khoảng vài chục miligam. Chỉ dùng loại đã chế, liều rất nhỏ, vào hoàn tán, do thầy thuốc kê. Không sắc uống. Cấm cho phụ nữ có thai, trẻ em, vận động viên."},
+"bach-qua":{lv:"doc",lab:"CÓ ĐỘC (hạt sống)",txt:"Nhân hạt chứa ginkgotoxin gây co giật, hôn mê, nhất là ở trẻ em ăn nhiều (trên khoảng 10 hạt); lớp thịt ngoài gây dị ứng da. Không ăn sống, không ăn nhiều, nấu chín kỹ."},
+"khoan-dong-hoa":{lv:"luu",lab:"ALKALOID PYRROLIZIDINE · GAN",txt:"Chứa pyrrolizidine alkaloid có thể độc gan, gây đột biến. Không dùng dài ngày hoặc liều cao; người bệnh gan, phụ nữ có thai và cho con bú không dùng."},
+"nhuc-dau-khau":{lv:"luu",lab:"QUÁ LIỀU GÂY ẢO GIÁC",txt:"Myristicin ở liều cao (vài gram sống) gây buồn nôn, ảo giác, nhịp tim nhanh; dùng thuốc phải chế (nướng) và đúng liều, không dùng như chất kích thích."},
+"dinh-huong":{lv:"luu",lab:"KỴ UẤT KIM · DẦU NGUYÊN CHẤT",txt:"Y văn truyền thống ghi không dùng chung với Uất kim. Dầu đinh hương nguyên chất gây bỏng niêm mạc, độc với trẻ em; không nuốt nguyên chất."},
+"uat-kim":{lv:"luu",lab:"KỴ ĐINH HƯƠNG",txt:"Y văn truyền thống ghi không dùng chung với Đinh hương. Phụ nữ có thai thận trọng."},
+"bach-cap":{lv:"luu",lab:"KỴ Ô ĐẦU",txt:"Không dùng chung với Xuyên ô, Thảo ô, Phụ tử (‘phản ô đầu’)."},
+"chi-thuc":{lv:"luu",lab:"THAI KỲ · SYNEPHRINE",txt:"Giáo trình ghi thận trọng khi có thai. Chứa synephrine có thể làm nhịp tim, huyết áp tăng nhẹ ở người nhạy cảm."},
+"dia-du":{lv:"luu",lab:"KHÔNG BÔI DIỆN BỎNG RỘNG",txt:"Tannin hấp thu qua diện bỏng rộng có thể gây độc gan; không bôi chế phẩm Địa du lên vết bỏng lớn. Tỳ vị hư hàn, tiêu chảy lạnh không dùng."},
+"bach-mao-can":{lv:"luu",lab:"NHIỀU KALI",txt:"Hàm lượng kali cao: người suy thận, đang dùng thuốc giữ kali thận trọng. Tính lạnh, tỳ vị hư hàn không dùng."},
+"vien-chi":{lv:"luu",lab:"KÍCH ỨNG DẠ DÀY",txt:"Saponin gây kích ứng niêm mạc, buồn nôn: người loét dạ dày, viêm dạ dày thận trọng; thường chế Cam thảo để giảm kích ứng."}
 };
