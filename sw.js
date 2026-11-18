@@ -1,5 +1,5 @@
 /* Service worker: lưu sẵn toàn bộ khung app + ảnh để dùng offline. Đổi VERSION khi sửa nội dung. */
-const VERSION = "ttd-v6";
+const VERSION = "ttd-v7";
 const SHELL = [
   "./", "index.html", "style.css", "app.js", "scene.js", "manifest.webmanifest",
   "data/h1.js", "data/h2.js", "data/h3.js", "data/h4.js", "data/h5.js", "data/h6.js", "data/h7.js", "data/h8.js", "data/h9.js", "data/credits.js", "data/toxic.js", "data/verify.js",
