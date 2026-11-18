@@ -936,5 +936,145 @@ window.CREDITS={
   "artist": "Dinesh Valke",
   "page": "https://commons.wikimedia.org/wiki/File:Taxillus_tomentosus_(5657747969).jpg",
   "note": "Ảnh loài cùng chi Taxillus tomentosus; Dược điển dùng Taxillus chinensis"
+ },
+ "son-dau-can": {
+  "file": "越南槐(山豆根) Sophora tonkinensis -深圳仙湖植物園 Fairy Lake Botanical Garden, China- (9213334873).jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "阿橋 HQ",
+  "page": "https://commons.wikimedia.org/wiki/File:%E8%B6%8A%E5%8D%97%E6%A7%90(%E5%B1%B1%E8%B1%86%E6%A0%B9)_Sophora_tonkinensis_-%E6%B7%B1%E5%9C%B3%E4%BB%99%E6%B9%96%E6%A4%8D%E7%89%A9%E5%9C%92_Fairy_Lake_Botanical_Garden,_China-_(9213334873).jpg",
+  "note": ""
+ },
+ "nga-truat": {
+  "file": "Curcuma zedoaria 3zz.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "David J. Stang",
+  "page": "https://commons.wikimedia.org/wiki/File:Curcuma_zedoaria_3zz.jpg",
+  "note": "Ảnh loài cùng chi Curcuma zedoaria; Dược điển dùng C. phaeocaulis, C. kwangsiensis, C. wenyujin"
+ },
+ "thang-ma": {
+  "file": "Cimicifuga foetida Ypey99.jpg",
+  "lic": "Public domain",
+  "artist": "Ypey (hình vẽ)",
+  "page": "https://commons.wikimedia.org/wiki/File:Cimicifuga_foetida_Ypey99.jpg",
+  "note": "Hình vẽ Cimicifuga foetida"
+ },
+ "dam-truc-diep": {
+  "file": "淡竹葉 Lophatherum gracile -香港動植物公園 Hong Kong Botanical Garden- (9222671532).jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "阿橋 HQ",
+  "page": "https://commons.wikimedia.org/wiki/File:%E6%B7%A1%E7%AB%B9%E8%91%89_Lophatherum_gracile_-%E9%A6%99%E6%B8%AF%E5%8B%95%E6%A4%8D%E7%89%A9%E5%85%AC%E5%9C%92_Hong_Kong_Botanical_Garden-_(9222671532).jpg",
+  "note": ""
+ },
+ "tan-lang": {
+  "file": "Whole and sliced Areca nut with other betel nut chewing components from Bangladesh.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Sm faysal",
+  "page": "https://commons.wikimedia.org/wiki/File:Whole_and_sliced_Areca_nut_with_other_betel_nut_chewing_components_from_Bangladesh.jpg",
+  "note": "Ảnh hạt cau nguyên và thái lát"
+ },
+ "man-kinh-tu": {
+  "file": "Vitex_trifolia_at_Kavvaayi_(6).jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Vinayaraj",
+  "page": "https://commons.wikimedia.org/wiki/File:Vitex_trifolia_at_Kavvaayi_(6).jpg",
+  "note": ""
+ },
+ "thuong-nhi-tu": {
+  "file": "Xanthium_strumarium_2026_G1.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "George Chernilevsky",
+  "page": "https://commons.wikimedia.org/wiki/File:Xanthium_strumarium_2026_G1.jpg",
+  "note": "Ảnh Xanthium strumarium (X. sibiricum là tên đồng nghĩa dùng trong Dược điển)"
+ },
+ "tan-di": {
+  "file": "Magnolia_biondii_-_Quarryhill_Botanical_Garden_-_DSC03294.JPG",
+  "lic": "CC0",
+  "artist": "Daderot",
+  "page": "https://commons.wikimedia.org/wiki/File:Magnolia_biondii_-_Quarryhill_Botanical_Garden_-_DSC03294.JPG",
+  "note": ""
+ },
+ "tu-to-diep": {
+  "file": "Perilla_frutescens_frutescens_732814283.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "Alex Abair",
+  "page": "https://commons.wikimedia.org/wiki/File:Perilla_frutescens_frutescens_732814283.jpg",
+  "note": ""
+ },
+ "lo-can": {
+  "file": "Reed_panicle_at_Brodalen_1.jpg",
+  "lic": "CC0",
+  "artist": "W.carter",
+  "page": "https://commons.wikimedia.org/wiki/File:Reed_panicle_at_Brodalen_1.jpg",
+  "note": "Ảnh bông lau sậy Phragmites australis; phần dùng thuốc là thân rễ"
+ },
+ "thien-hoa-phan": {
+  "file": "Trichosanthes_kirilowii.jpg",
+  "lic": "CC BY 2.5",
+  "artist": "Michael Wolf",
+  "page": "https://commons.wikimedia.org/wiki/File:Trichosanthes_kirilowii.jpg",
+  "note": ""
+ },
+ "xa-can": {
+  "file": "Belamcanda_chinensis_2007.jpg",
+  "lic": "CC BY 2.5",
+  "artist": "Tom Murphy VII",
+  "page": "https://commons.wikimedia.org/wiki/File:Belamcanda_chinensis_2007.jpg",
+  "note": ""
+ },
+ "ma-xi-hien": {
+  "file": "Common_Purslane,_United_States_imported_from_iNaturalist_photo_541953905.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "Tyler Ekholm (iNaturalist)",
+  "page": "https://commons.wikimedia.org/wiki/File:Common_Purslane,_United_States_imported_from_iNaturalist_photo_541953905.jpg",
+  "note": ""
+ },
+ "dai-ke": {
+  "file": "Flower_of_Japanese_thistle_01.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "小石川人晃",
+  "page": "https://commons.wikimedia.org/wiki/File:Flower_of_Japanese_thistle_01.jpg",
+  "note": ""
+ },
+ "trac-ba-diep": {
+  "file": "Platycladus_orientalis_Simatai.jpg",
+  "lic": "CC BY 2.0",
+  "artist": "yeowatzup (Flickr)",
+  "page": "https://commons.wikimedia.org/wiki/File:Platycladus_orientalis_Simatai.jpg",
+  "note": "Ảnh cây Platycladus orientalis; phần dùng thuốc là cành lá"
+ },
+ "hoe-hoa": {
+  "file": "Styphnolobium japonicum 6612.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Peter coxhead",
+  "page": "https://commons.wikimedia.org/wiki/File:Styphnolobium_japonicum_6612.jpg",
+  "note": "Ảnh hoa cây Sophora japonica (Styphnolobium japonicum)"
+ },
+ "tang-bach-bi": {
+  "file": "Rosales_-_Morus_alba_-_3.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Emőke Dénes",
+  "page": "https://commons.wikimedia.org/wiki/File:Rosales_-_Morus_alba_-_3.jpg",
+  "note": "Ảnh cành lá cây dâu; phần dùng thuốc là vỏ rễ"
+ },
+ "xuyen-luyen-tu": {
+  "file": "Melia toosendan seeds - Kunming Botanical Garden - DSC03222.JPG",
+  "lic": "Public domain",
+  "artist": "Daderot",
+  "page": "https://commons.wikimedia.org/wiki/File:Melia_toosendan_seeds_-_Kunming_Botanical_Garden_-_DSC03222.JPG",
+  "note": "Ảnh quả/hạt đúng loài Melia toosendan"
+ },
+ "o-duoc": {
+  "file": "Lindera_aggregata1.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "KENPEI",
+  "page": "https://commons.wikimedia.org/wiki/File:Lindera_aggregata1.jpg",
+  "note": ""
+ },
+ "phat-thu": {
+  "file": "Chinesische_Zedrat_Zitrone.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Johann Werfring",
+  "page": "https://commons.wikimedia.org/wiki/File:Chinesische_Zedrat_Zitrone.jpg",
+  "note": "Ảnh quả Citrus medica (Phật thủ là biến chủng var. sarcodactylis)"
  }
 };

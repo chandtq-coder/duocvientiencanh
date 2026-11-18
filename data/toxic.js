@@ -68,5 +68,12 @@ window.TOX={
 "tieu-hoi-huong":{lv:"luu",lab:"DẠNG TINH DẦU · KHÔNG NHẦM ĐẠI HỒI",txt:"Estragole ở liều cao kéo dài có nguy cơ trên động vật; hạn chế tinh dầu liều cao. Không nhầm với Đại hồi; Illicium anisatum (Mãng thảo) có độc, từng bị trộn lẫn."},
 "bach-bo":{lv:"luu",lab:"QUÁ LIỀU GÂY BUỒN NÔN",txt:"Alkaloid Stemona liều cao hoặc dài ngày gây buồn nôn, chóng mặt, kích ứng dạ dày; tỳ vị hư yếu, thai kỳ thận trọng."},
 "cao-luong-khuong":{lv:"luu",lab:"TƯƠNG TÁC THUỐC",txt:"Galangin ức chế men chuyển hóa thuốc (CYP); người dùng nhiều thuốc cần hỏi thầy thuốc. Âm hư hỏa vượng không dùng."},
-"tru-linh":{lv:"luu",lab:"LỢI TIỂU MẠNH",txt:"Dùng dài ngày dễ mất tân dịch; âm hư không có thấp không dùng."}
+"tru-linh":{lv:"luu",lab:"LỢI TIỂU MẠNH",txt:"Dùng dài ngày dễ mất tân dịch; âm hư không có thấp không dùng."},
+"thuong-nhi-tu":{lv:"doc",lab:"CÓ ĐỘC",txt:"Chứa carboxyatractyloside độc gan, thận, tim; quá liều hoặc dùng sống gây buồn nôn, đau bụng, tổn thương gan nặng, suy thận, có thể tử vong, nhất là trẻ em. Chỉ dùng loại đã sao, đúng liều, theo thầy thuốc; trẻ em, phụ nữ có thai, người bệnh gan thận không dùng."},
+"son-dau-can":{lv:"doc",lab:"CÓ ĐỘC",txt:"Alkaloid (matrine, oxymatrine) liều cao gây buồn nôn, chóng mặt, run, tê, khó thở. Không dùng quá liều hay dài ngày; trẻ em, phụ nữ có thai không dùng. Không nhầm với Bắc đậu căn (Menispermum)."},
+"xuyen-luyen-tu":{lv:"doc",lab:"CÓ ĐỘC NHẸ (小毒)",txt:"Dược điển ghi ‘có độc nhẹ’. Toosendanin độc gan và thần kinh; không dùng quá liều hoặc dài ngày; người bệnh gan, thận, phụ nữ có thai, tỳ vị hư hàn không dùng."},
+"tan-lang":{lv:"manh",lab:"ARECOLINE · NGUY CƠ UNG THƯ",txt:"Nhai hạt cau/trầu cau lâu dài làm tăng nguy cơ ung thư khoang miệng, xơ hóa dưới niêm mạc (IARC nhóm 1) và gây nghiện nhẹ. Liều thuốc đúng chỉ định; liều diệt sán (30–60 g) chỉ dùng theo thầy thuốc; người hen, nhịp tim chậm, phụ nữ có thai thận trọng."},
+"nga-truat":{lv:"luu",lab:"CẤM KHI CÓ THAI",txt:"Dược điển ghi 孕妇禁用 (cấm khi có thai). Phá huyết mạnh: người rong kinh, dễ chảy máu, huyết hư không dùng."},
+"thien-hoa-phan":{lv:"luu",lab:"THAI KỲ · KỴ Ô ĐẦU",txt:"Dược điển ghi 孕妇慎用; kỵ Xuyên ô, Phụ tử, Thảo ô. Trichosanthin có thể gây sảy thai, dị ứng nặng. Phụ nữ có thai thận trọng, nên tránh; tỳ vị hư hàn, tiêu chảy không dùng."},
+"thang-ma":{lv:"luu",lab:"LIỀU CAO",txt:"Liều cao gây buồn nôn, chóng mặt, đau đầu; âm hư hỏa vượng, hồi hộp, hen suyễn không dùng. Không nhầm với black cohosh (Cimicifuga racemosa) có báo cáo độc gan."}
 };
