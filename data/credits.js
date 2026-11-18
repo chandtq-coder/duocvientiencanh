@@ -242,7 +242,7 @@ window.CREDITS={
   "lic": "CC BY 4.0",
   "artist": "Robert Flogaus-Faust",
   "page": "https://commons.wikimedia.org/wiki/File:Alisma_plantago-aquatica_2_RF.jpg",
-  "note": "Ảnh loài cùng chi Alisma plantago-aquatica; dược điển TQ dùng A. orientale"
+  "note": ""
  },
  "tran-bi": {
   "file": "Citrus_reticulata_April_2013_Nordbaden.JPG",
@@ -796,5 +796,145 @@ window.CREDITS={
   "artist": "Christian Fischer",
   "page": "https://commons.wikimedia.org/wiki/File:ArctiumLappa1.jpg",
   "note": ""
+ },
+ "thien-mon-dong": {
+  "file": "天門冬.jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "Shih-Shiuan Kao",
+  "page": "https://commons.wikimedia.org/wiki/File:%E5%A4%A9%E9%96%80%E5%86%AC.jpg",
+  "note": ""
+ },
+ "ich-tri-nhan": {
+  "file": "Alpinia_oxyphylla01.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Meneerke bloem",
+  "page": "https://commons.wikimedia.org/wiki/File:Alpinia_oxyphylla01.JPG",
+  "note": ""
+ },
+ "khiem-thuc": {
+  "file": "Junicho-Gata_lagoon_Euryale_feroxe_habitat_07.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "さかおり",
+  "page": "https://commons.wikimedia.org/wiki/File:Junicho-Gata_lagoon_Euryale_feroxe_habitat_07.jpg",
+  "note": ""
+ },
+ "tru-linh": {
+  "file": "Polyporus_umbellatus.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "László Németh, Dr.",
+  "page": "https://commons.wikimedia.org/wiki/File:Polyporus_umbellatus.jpg",
+  "note": ""
+ },
+ "xuyen-tam-lien": {
+  "file": "Andrographis_paniculata_(Kalpa)_in_Narshapur_forest,_AP_W2_IMG_0867.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "J.M.Garg",
+  "page": "https://commons.wikimedia.org/wiki/File:Andrographis_paniculata_(Kalpa)_in_Narshapur_forest,_AP_W2_IMG_0867.jpg",
+  "note": ""
+ },
+ "bach-hoa-xa-thiet-thao": {
+  "file": "Oldenlandia_diffusa.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Divya Dutta",
+  "page": "https://commons.wikimedia.org/wiki/File:Oldenlandia_diffusa.jpg",
+  "note": ""
+ },
+ "cau-dang": {
+  "file": "Uncaria_rhynchophylla_kagikzr01.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "keisotyo",
+  "page": "https://commons.wikimedia.org/wiki/File:Uncaria_rhynchophylla_kagikzr01.jpg",
+  "note": ""
+ },
+ "bach-bo": {
+  "file": "Stemona_tuberosa-5-60_feet_bridge-yercaud-salem-India.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Yercaud-elango",
+  "page": "https://commons.wikimedia.org/wiki/File:Stemona_tuberosa-5-60_feet_bridge-yercaud-salem-India.jpg",
+  "note": "Ảnh Stemona tuberosa (một trong các loài Dược điển dùng)"
+ },
+ "tu-uyen": {
+  "file": "Aster_Tataricus.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Pascalou petit",
+  "page": "https://commons.wikimedia.org/wiki/File:Aster_Tataricus.JPG",
+  "note": ""
+ },
+ "chiet-boi-mau": {
+  "file": "Fritillaria_thunbergii.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "James Steakley",
+  "page": "https://commons.wikimedia.org/wiki/File:Fritillaria_thunbergii.jpg",
+  "note": ""
+ },
+ "la-bac-tu": {
+  "file": "Radish_3371103037_4ab07db0bf_o.jpg",
+  "lic": "Public domain",
+  "artist": "Jengod",
+  "page": "https://commons.wikimedia.org/wiki/File:Radish_3371103037_4ab07db0bf_o.jpg",
+  "note": "Ảnh cây Raphanus sativus; phần dùng thuốc là hạt"
+ },
+ "tieu-hoi-huong": {
+  "file": "Foeniculum_July_2011-1a.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Alvesgaspar",
+  "page": "https://commons.wikimedia.org/wiki/File:Foeniculum_July_2011-1a.jpg",
+  "note": ""
+ },
+ "cao-luong-khuong": {
+  "file": "Alpinia_officinarum_-_Köhler–s_Medizinal-Pflanzen-156.jpg",
+  "lic": "Public domain",
+  "artist": "Franz Eugen Köhler (hình vẽ)",
+  "page": "https://commons.wikimedia.org/wiki/File:Alpinia_officinarum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-156.jpg",
+  "note": ""
+ },
+ "phan-ta-diep": {
+  "file": "Senna_alexandrina_Mill.-Cassia_angustifolia_L._(Senna_Plant).jpg",
+  "lic": "CC BY 2.0",
+  "artist": "Lalithamba from India",
+  "page": "https://commons.wikimedia.org/wiki/File:Senna_alexandrina_Mill.-Cassia_angustifolia_L._(Senna_Plant).jpg",
+  "note": ""
+ },
+ "moc-qua": {
+  "file": "WitteHeinrichFlora1868-035-Chaenomeles_speciosa.png",
+  "lic": "Public domain",
+  "artist": "Abraham Jacobus Wendel (hình vẽ)",
+  "page": "https://commons.wikimedia.org/wiki/File:WitteHeinrichFlora1868-035-Chaenomeles_speciosa.png",
+  "note": "Hình vẽ Chaenomeles speciosa (thế kỷ 19)"
+ },
+ "xich-thuoc": {
+  "file": "Paeonia_anomala_subsp._veitchii1UME.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Epibase",
+  "page": "https://commons.wikimedia.org/wiki/File:Paeonia_anomala_subsp._veitchii1UME.jpg",
+  "note": "Ảnh hoa loài Paeonia veitchii (một trong hai loài Dược điển dùng); phần dùng thuốc là rễ"
+ },
+ "kim-anh-tu": {
+  "file": "Cherokee_rose.jpg",
+  "lic": "Public domain",
+  "artist": "Chính phủ Liên bang Hoa Kỳ",
+  "page": "https://commons.wikimedia.org/wiki/File:Cherokee_rose.jpg",
+  "note": "Ảnh hoa Rosa laevigata; phần dùng thuốc là quả"
+ },
+ "kim-tien-thao": {
+  "file": "過路黃(金錢草) Lysimachia christinae -香港花展 Hong Kong Flower Show- (9216110490).jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "阿橋 HQ",
+  "page": "https://commons.wikimedia.org/wiki/File:%E9%81%8E%E8%B7%AF%E9%BB%83(%E9%87%91%E9%8C%A2%E8%8D%89)_Lysimachia_christinae_-%E9%A6%99%E6%B8%AF%E8%8A%B1%E5%B1%95_Hong_Kong_Flower_Show-_(9216110490).jpg",
+  "note": ""
+ },
+ "ke-huyet-dang": {
+  "file": "Spatholobus stem slices.jpg",
+  "lic": "CC0",
+  "artist": "Fumikas Sagisavas",
+  "page": "https://commons.wikimedia.org/wiki/File:Spatholobus_stem_slices.jpg",
+  "note": "Ảnh lát thân Spatholobus (đúng dược liệu)"
+ },
+ "tang-ky-sinh": {
+  "file": "Taxillus tomentosus (5657747969).jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "Dinesh Valke",
+  "page": "https://commons.wikimedia.org/wiki/File:Taxillus_tomentosus_(5657747969).jpg",
+  "note": "Ảnh loài cùng chi Taxillus tomentosus; Dược điển dùng Taxillus chinensis"
  }
 };
