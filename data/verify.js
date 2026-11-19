@@ -2,6 +2,14 @@
    Chỉ đối chiếu: loài gốc, tính, vị, quy kinh, liều, cách dùng đặc biệt, nhãn độc, câu kiêng kỵ. Chưa đối chiếu với sách in. */
 window.VERIFY_SRC="Dược điển Trung Quốc 2020 (một)";
 window.UNVERIFIED={
+"cat-hoa":"Không có chuyên luận Cát hoa trong bản quét Dược điển 2020 (URL 葛花.pdf trả về 404); số liệu về tính vị, quy kinh, liều theo giáo trình/y văn, cần đối chiếu lại. Cần đối chiếu lại.",
+"dien-co-hoang":"Không có chuyên luận Điền cơ hoàng trong bản quét Dược điển 2020 (田基黄.pdf và 地耳草.pdf đều 404); tính vị, quy kinh, liều theo giáo trình/y văn nên ghi chưa thống nhất, cần đối chiếu lại. Cần đối chiếu lại.",
+"bai-tuong":"Không tìm thấy bản quét chuyên luận Bại tương trong kho Dược điển 2020 (cả tên 败酱草 và 败酱 đều 404; Dược điển 2020 mục một có vẻ không thu nhận). Số liệu tính vị, quy kinh, liều lấy theo giáo trình Trung dược học, cần đối chiếu sách in. Cần đối chiếu lại.",
+"lao-quan-thao":"Không tìm thấy tệp Dược điển 2020 cho 老鹳草 (cũng thử 老鸛草): tính vị, quy kinh và liều ghi theo giáo trình, chưa đối chiếu trang Dược điển. Cần đối chiếu lại.",
+"ngoc-mi-tu":"Không tìm thấy tệp Dược điển 2020 cho 玉米须 (thử cả 玉米鬚); nhiều khả năng không thuộc chuyên luận của Dược điển Trung Quốc 2020, chuyên luận có thể nằm trong tiêu chuẩn địa phương. Tính vị, liều ghi theo giáo trình. Cần đối chiếu lại.",
+"phu-tieu-mach":"Không tìm được bản quét chuyên luận 浮小麦 trong kho Dược điển 2020 (cả hai cách viết 浮小麦, 浮小麥 đều 404); số liệu theo giáo trình Trung dược học, cần đối chiếu lại nếu có nguồn. Cần đối chiếu lại.",
+"chu-thuc-tu":"Không tìm được bản quét chuyên luận 楮实子 trong kho Dược điển 2020 (cả hai cách viết 楮实子, 楮實子 đều 404); số liệu theo giáo trình Trung dược học và y văn, cần đối chiếu lại nếu có nguồn. Cần đối chiếu lại.",
+"lang-tieu-hoa":"Không tìm thấy bản quét Dược điển 2020 (HTTP 404 với các tên 凌霄花, 凌霄, 紫葳花); nội dung viết theo giáo trình, cần đối chiếu khi có bản Dược điển. Cần đối chiếu lại.",
 "nguyen-hoa":"Không có bản quét chuyên luận Nguyên hoa trong kho đã dùng (nhiều tên tệp đều 404); số liệu theo giáo trình Trung dược học. Cần đối chiếu lại.",
 "le-lo":"Không có bản quét chuyên luận Lê lô trong kho đã dùng (404); số liệu theo giáo trình Trung dược học. Cần đối chiếu lại.",
 "nam-qua-tu":"Không có bản quét chuyên luận Nam qua tử trong kho đã dùng (404), có thể không thu trong Dược điển 2020 phần Một; số liệu theo giáo trình. Cần đối chiếu lại.",
