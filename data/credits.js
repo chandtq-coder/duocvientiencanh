@@ -3015,5 +3015,320 @@ window.CREDITS={
   "artist": "Rob Hille",
   "page": "https://commons.wikimedia.org/wiki/File:Thladiantha_dubia_R.H_(22).jpg",
   "note": "Ảnh Thladiantha dubia (cùng họ Bầu bí)"
+ },
+ "nhan-sam-diep": {
+  "file": "Ginsengpflanze.jpg",
+  "lic": "CC BY 3.0",
+  "artist": "FloraFarm GmbH / Katharina Lohrie",
+  "page": "https://commons.wikimedia.org/wiki/File:Ginsengpflanze.jpg",
+  "note": ""
+ },
+ "che-ha-thu-o": {
+  "file": "Fallopia multiflora leaf.jpg",
+  "lic": "CC BY 2.5",
+  "artist": "Doronenko",
+  "page": "https://commons.wikimedia.org/wiki/File:Fallopia_multiflora_leaf.jpg",
+  "note": "Ảnh lá; phần dùng thuốc là rễ củ đã chế"
+ },
+ "phan-cat": {
+  "file": "Pueraria montana 190929 05.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Schurdl",
+  "page": "https://commons.wikimedia.org/wiki/File:Pueraria_montana_190929_05.jpg",
+  "note": ""
+ },
+ "dai-dau-hoang-quyen": {
+  "file": "Soybean.USDA.jpg",
+  "lic": "Public domain",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Soybean.USDA.jpg",
+  "note": "Ảnh quả khô; phần dùng thuốc là hạt đậu nành nảy mầm"
+ },
+ "nam-ban-lam-can": {
+  "file": "Chinese rain bell (60512).jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Rhododendrites",
+  "page": "https://commons.wikimedia.org/wiki/File:Chinese_rain_bell_(60512).jpg",
+  "note": "Ảnh cây; phần dùng thuốc là rễ và thân rễ"
+ },
+ "tu-quy-thanh": {
+  "file": "Ilex chinensis6.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "KENPEI",
+  "page": "https://commons.wikimedia.org/wiki/File:Ilex_chinensis6.jpg",
+  "note": ""
+ },
+ "uy-lang-thai": {
+  "file": "Potentilla chinensis1.jpg",
+  "lic": "CC BY 3.0",
+  "artist": "KENPEI",
+  "page": "https://commons.wikimedia.org/wiki/File:Potentilla_chinensis1.jpg",
+  "note": ""
+ },
+ "cuu-tat-ung": {
+  "file": "W kuroganemoti3101.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "カールおじさん",
+  "page": "https://commons.wikimedia.org/wiki/File:W_kuroganemoti3101.jpg",
+  "note": ""
+ },
+ "cam-dang-lung": {
+  "file": "Physalis alkekengi franchetii1SHSU.jpg",
+  "lic": "CC BY 3.0",
+  "artist": "Shu Suehiro",
+  "page": "https://commons.wikimedia.org/wiki/File:Physalis_alkekengi_franchetii1SHSU.jpg",
+  "note": ""
+ },
+ "moc-phu-dung-diep": {
+  "file": "Mufurong1.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "User ???? on zh.wikipedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Mufurong1.jpg",
+  "note": ""
+ },
+ "cam-toai": {
+  "file": "Euphorbia cyparissias quadrat.jpg",
+  "lic": "CC BY-SA 2.5",
+  "artist": "Richard Bartz, Munich Makro Freak",
+  "page": "https://commons.wikimedia.org/wiki/File:Euphorbia_cyparissias_quadrat.jpg",
+  "note": "Ảnh Euphorbia cyparissias (cùng chi)"
+ },
+ "xuyen-moc-thong": {
+  "file": "Clematis armandii01-4035~2015 03 22.JPG",
+  "lic": "CC BY-SA 4.0",
+  "artist": "This picture is a work by Emmanuel Douzery.\nPlease credit this with: Picture : Emmanuel Douzery in t",
+  "page": "https://commons.wikimedia.org/wiki/File:Clematis_armandii01-4035~2015_03_22.JPG",
+  "note": ""
+ },
+ "hoang-thuc-quy-hoa": {
+  "file": "Abelmoschus manihot ssp tetraphyllus W IMG 2157.jpg",
+  "lic": "CC BY 3.0",
+  "artist": "J.M.Garg",
+  "page": "https://commons.wikimedia.org/wiki/File:Abelmoschus_manihot_ssp_tetraphyllus_W_IMG_2157.jpg",
+  "note": ""
+ },
+ "cang-ban-quy": {
+  "file": "Persicaria perfoliata 5.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Dalgial",
+  "page": "https://commons.wikimedia.org/wiki/File:Persicaria_perfoliata_5.JPG",
+  "note": ""
+ },
+ "huong-gia-bi": {
+  "file": "Periploca-sepium-fruits.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Sten Porse",
+  "page": "https://commons.wikimedia.org/wiki/File:Periploca-sepium-fruits.jpg",
+  "note": ""
+ },
+ "ap-chich-thao": {
+  "file": "Tagblume Commelina communis stack25 2019-08-05-RM-8050218-PSD.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Ermell",
+  "page": "https://commons.wikimedia.org/wiki/File:Tagblume_Commelina_communis_stack25_2019-08-05-RM-8050218-PSD.jpg",
+  "note": ""
+ },
+ "ot-cay": {
+  "file": "Capsicum annuum - Köhler–s Medizinal-Pflanzen-027.jpg",
+  "lic": "Public domain",
+  "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "page": "https://commons.wikimedia.org/wiki/File:Capsicum_annuum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-027.jpg",
+  "note": "Tranh thực vật; phần dùng thuốc là quả"
+ },
+ "phao-khuong": {
+  "file": "Koeh-146-no text.jpg",
+  "lic": "Public domain",
+  "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "page": "https://commons.wikimedia.org/wiki/File:Koeh-146-no_text.jpg",
+  "note": "Tranh thực vật Zingiber; phần dùng thuốc là thân rễ sao"
+ },
+ "ha-thien-vo": {
+  "file": "Corydalis decumbens 5.JPG",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Qwert1234",
+  "page": "https://commons.wikimedia.org/wiki/File:Corydalis_decumbens_5.JPG",
+  "note": ""
+ },
+ "can-tat": {
+  "file": "Toxicodendron vernicifluum 01.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Aomorikuma",
+  "page": "https://commons.wikimedia.org/wiki/File:Toxicodendron_vernicifluum_01.jpg",
+  "note": "Ảnh cây; phần dùng thuốc là nhựa khô"
+ },
+ "cap-tinh-tu": {
+  "file": "Impatiens balsamina 28 08 2009.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Joydeep",
+  "page": "https://commons.wikimedia.org/wiki/File:Impatiens_balsamina_28_08_2009.JPG",
+  "note": ""
+ },
+ "xung-uy-tu": {
+  "file": "Leonurus japonicus - Guangfeng, Jiangxi, China 2014.05.24 15-59-28.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Zhangzhugang",
+  "page": "https://commons.wikimedia.org/wiki/File:Leonurus_japonicus_-_Guangfeng,_Jiangxi,_China_2014.05.24_15-59-28.jpg",
+  "note": "Ảnh cây; phần dùng thuốc là quả"
+ },
+ "binh-boi-mau": {
+  "file": "Рябчик уссурийский (2).jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Tamaravn1973",
+  "page": "https://commons.wikimedia.org/wiki/File:%D0%A0%D1%8F%D0%B1%D1%87%D0%B8%D0%BA_%D1%83%D1%81%D1%81%D1%83%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_(2).jpg",
+  "note": ""
+ },
+ "mau-kinh-diep": {
+  "file": "Vitex negundo 415167855.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "Alex Abair",
+  "page": "https://commons.wikimedia.org/wiki/File:Vitex_negundo_415167855.jpg",
+  "note": ""
+ },
+ "quat-hong": {
+  "file": "Citrus reticulata April 2013 Nordbaden.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "4028mdk09",
+  "page": "https://commons.wikimedia.org/wiki/File:Citrus_reticulata_April_2013_Nordbaden.JPG",
+  "note": "Ảnh quả; phần dùng thuốc là vỏ quả"
+ },
+ "thien-son-tuyet-lien": {
+  "file": "Saussurea alpina esthonica - Eesti soojumikas - Niitvälja soo2.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Ivar Leidus",
+  "page": "https://commons.wikimedia.org/wiki/File:Saussurea_alpina_esthonica_-_Eesti_soojumikas_-_Niitv%C3%A4lja_soo2.jpg",
+  "note": ""
+ },
+ "hoc-ky-sinh": {
+  "file": "Viscum coloratum 53361502.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "Repina Tatyana",
+  "page": "https://commons.wikimedia.org/wiki/File:Viscum_coloratum_53361502.jpg",
+  "note": "Ảnh cành mang quả"
+ },
+ "da-moc-qua": {
+  "file": "野木瓜 Stauntonia chinensis -香港西貢獅子會自然教育中心 Saikung, Hong Kong- (9219890787).jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "阿橋 HQ",
+  "page": "https://commons.wikimedia.org/wiki/File:%E9%87%8E%E6%9C%A8%E7%93%9C_Stauntonia_chinensis_-%E9%A6%99%E6%B8%AF%E8%A5%BF%E8%B2%A2%E7%8D%85%E5%AD%90%E6%9C%83%E8%87%AA%E7%84%B6%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83_Saikung,_Hong_Kong-_(9219890787).jpg",
+  "note": "Ảnh hoa; phần dùng thuốc là thân"
+ },
+ "tay-thanh-qua": {
+  "file": "Harra (Terminalia chebula) leafless tree at 23 Mile, Duars, WB W IMG 5905.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "J.M.Garg",
+  "page": "https://commons.wikimedia.org/wiki/File:Harra_(Terminalia_chebula)_leafless_tree_at_23_Mile,_Duars,_WB_W_IMG_5905.jpg",
+  "note": "Ảnh cây; phần dùng thuốc là quả non"
+ },
+ "quang-tao": {
+  "file": "Choerospondias axillaris, Hangzhou Botanical Garden 2018.06.03 15-22-57.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Zhangzhugang",
+  "page": "https://commons.wikimedia.org/wiki/File:Choerospondias_axillaris,_Hangzhou_Botanical_Garden_2018.06.03_15-22-57.jpg",
+  "note": "Ảnh thân và lá; phần dùng thuốc là quả"
+ },
+ "bo-tra-diep": {
+  "file": "Microcos paniculata L. (28506922434).jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "Dinesh Valke from Thane, India",
+  "page": "https://commons.wikimedia.org/wiki/File:Microcos_paniculata_L._(28506922434).jpg",
+  "note": ""
+ },
+ "tang-xuong-bo": {
+  "file": "Acorus calamus1.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "J.F. Gaffard, Autoreille, France",
+  "page": "https://commons.wikimedia.org/wiki/File:Acorus_calamus1.jpg",
+  "note": "Ảnh cây; phần dùng thuốc là thân rễ"
+ },
+ "tu-ki-quan-chung": {
+  "file": "Osmunda japonica leaf.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Loasa",
+  "page": "https://commons.wikimedia.org/wiki/File:Osmunda_japonica_leaf.jpg",
+  "note": ""
+ },
+ "lang-doc": {
+  "file": "Euphorbia fischeriana 112017971.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "Ochirnima Nimaev",
+  "page": "https://commons.wikimedia.org/wiki/File:Euphorbia_fischeriana_112017971.jpg",
+  "note": "Ảnh cây; phần dùng thuốc là rễ"
+ },
+ "hong-ky": {
+  "file": "Hedysarum drobovii medium.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "Carpodacus",
+  "page": "https://commons.wikimedia.org/wiki/File:Hedysarum_drobovii_medium.jpg",
+  "note": "Ảnh Hedysarum drobovii (cùng chi)"
+ },
+ "dong-lang-thao": {
+  "file": "Isodon rubescens and Euonymus sp (22106590511).jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "peganum from Small Dole, England",
+  "page": "https://commons.wikimedia.org/wiki/File:Isodon_rubescens_and_Euonymus_sp_(22106590511).jpg",
+  "note": ""
+ },
+ "son-huong-vien-diep": {
+  "file": "Turpinia cochinchinensis.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Abhirami C",
+  "page": "https://commons.wikimedia.org/wiki/File:Turpinia_cochinchinensis.jpg",
+  "note": "Ảnh Turpinia cochinchinensis (cùng chi)"
+ },
+ "phien-bach-thao": {
+  "file": "Potentilla diversifolia 5996.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Walter Siegmund (talk)",
+  "page": "https://commons.wikimedia.org/wiki/File:Potentilla_diversifolia_5996.JPG",
+  "note": "Ảnh Potentilla diversifolia (cùng chi)"
+ },
+ "kho-dia-dinh": {
+  "file": "Corydalis ambigua.jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "arudhio",
+  "page": "https://commons.wikimedia.org/wiki/File:Corydalis_ambigua.jpg",
+  "note": "Ảnh Corydalis ambigua (cùng chi)"
+ },
+ "doan-huyet-luu": {
+  "file": "Clinopodium vulgare01.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Clinopodium_vulgare01.jpg",
+  "note": "Ảnh Clinopodium vulgare (cùng chi)"
+ },
+ "y-boi-mau": {
+  "file": "Fritillaria eduardii, jardín botánico de Tallinn, Estonia, 2012-08-13, DD 01.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Diego Delso",
+  "page": "https://commons.wikimedia.org/wiki/File:Fritillaria_eduardii,_jard%C3%ADn_bot%C3%A1nico_de_Tallinn,_Estonia,_2012-08-13,_DD_01.JPG",
+  "note": "Ảnh Fritillaria eduardii (cùng chi)"
+ },
+ "ho-bac-boi-mau": {
+  "file": "Fritillaria montana 01HD.jpg",
+  "lic": "Public domain",
+  "artist": "DHochmayr",
+  "page": "https://commons.wikimedia.org/wiki/File:Fritillaria_montana_01HD.jpg",
+  "note": "Ảnh Fritillaria montana (cùng chi)"
+ },
+ "dinh-cong-dang": {
+  "file": "Erycibe paniculata-cropped.jpg",
+  "lic": "Public domain",
+  "artist": "Roxburgh, William; Banks, Joseph, Sir; Mackenzie, D.; Nicol, George; Bulmer, W.",
+  "page": "https://commons.wikimedia.org/wiki/File:Erycibe_paniculata-cropped.jpg",
+  "note": "Tranh thực vật Erycibe paniculata (cùng chi)"
+ },
+ "kim-thiet-toa": {
+  "file": "Dettaglio - Caryophyllaceae - Silene Conica L. Erbario Frizzi Perugia n. 3355.jpg",
+  "lic": "Public domain",
+  "artist": "Giuseppe Frizzi",
+  "page": "https://commons.wikimedia.org/wiki/File:Dettaglio_-_Caryophyllaceae_-_Silene_Conica_L._Erbario_Frizzi_Perugia_n._3355.jpg",
+  "note": "Ảnh tiêu bản cây cùng họ Cẩm chướng"
+ },
+ "a-nguy": {
+  "file": "Ferula field1.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Khoshhat",
+  "page": "https://commons.wikimedia.org/wiki/File:Ferula_field1.jpg",
+  "note": "Ảnh cánh đồng Ferula (cùng chi); phần dùng thuốc là nhựa"
  }
 };
