@@ -3638,5 +3638,138 @@ window.CREDITS={
   "artist": "Sm faysal",
   "page": "https://commons.wikimedia.org/wiki/File:Whole_and_sliced_Areca_nut_with_other_betel_nut_chewing_components_from_Bangladesh.jpg",
   "note": "Dùng chung ảnh với vị gốc (tan-lang); đây là dạng sao cháy của cùng vị"
+ },
+ "giao-co-lam": {
+  "file": "Kluse - Gynostemma pentaphyllum - Jiaogulan 01 ies.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Frank Vincentz",
+  "page": "https://commons.wikimedia.org/wiki/File:Kluse_-_Gynostemma_pentaphyllum_-_Jiaogulan_01_ies.jpg",
+  "note": "Ảnh lá; phần dùng thuốc là toàn cây"
+ },
+ "quy-cham-thao": {
+  "file": "Bidens pilosa-Silent Valley-2016-08-13-001.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Jeevan Jose, Kerala, India",
+  "page": "https://commons.wikimedia.org/wiki/File:Bidens_pilosa-Silent_Valley-2016-08-13-001.jpg",
+  "note": "Ảnh Bidens pilosa (cùng chi)"
+ },
+ "phuong-vi-thao": {
+  "file": "Pteris multifida--IMG 20180715 075446.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "Sun Jiao (Interaccoonale)",
+  "page": "https://commons.wikimedia.org/wiki/File:Pteris_multifida--IMG_20180715_075446.jpg",
+  "note": "Ảnh cây; phần dùng thuốc là toàn cây"
+ },
+ "long-quy": {
+  "file": "Solanum nigrum flower.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Harald Hubich",
+  "page": "https://commons.wikimedia.org/wiki/File:Solanum_nigrum_flower.jpg",
+  "note": "Ảnh hoa; phần dùng thuốc là toàn cây"
+ },
+ "xa-moi": {
+  "file": "2025-06-21 17 35 08 Mock strawberry along Aquetong Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Famartin",
+  "page": "https://commons.wikimedia.org/wiki/File:2025-06-21_17_35_08_Mock_strawberry_along_Aquetong_Lane_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+  "note": "Ảnh hoa và quả; phần dùng thuốc là toàn cây"
+ },
+ "bach-anh": {
+  "file": "Solanum lyratum 2.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Dalgial",
+  "page": "https://commons.wikimedia.org/wiki/File:Solanum_lyratum_2.JPG",
+  "note": "Ảnh Solanum lyratum; phần dùng thuốc là toàn cây"
+ },
+ "xu-mau-don": {
+  "file": "Нікітінський ботанічний сад, квіти1.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Xtreme77700",
+  "page": "https://commons.wikimedia.org/wiki/File:%D0%9D%D1%96%D0%BA%D1%96%D1%82%D1%96%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4,_%D0%BA%D0%B2%D1%96%D1%82%D0%B81.jpg",
+  "note": "Ảnh hoa; phần dùng thuốc là thân và lá"
+ },
+ "ma-de-kim": {
+  "file": "Dichondra micrantha kz02.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Krzysztof Ziarnek, Kenraiz",
+  "page": "https://commons.wikimedia.org/wiki/File:Dichondra_micrantha_kz02.jpg",
+  "note": "Ảnh Dichondra micrantha (loài nguồn); phần dùng thuốc là toàn cây"
+ },
+ "toan-tuong-thao": {
+  "file": "Oxalis corniculata23.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Norio Nomura",
+  "page": "https://commons.wikimedia.org/wiki/File:Oxalis_corniculata23.jpg",
+  "note": "Ảnh hoa; phần dùng thuốc là toàn cây"
+ },
+ "tuoc-sang": {
+  "file": "Rostellularia procumbens by kadavoor.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Jeevan Jose, Kerala, India",
+  "page": "https://commons.wikimedia.org/wiki/File:Rostellularia_procumbens_by_kadavoor.jpg",
+  "note": "Ảnh hoa; phần dùng thuốc là toàn cây"
+ },
+ "luat-thao": {
+  "file": "Humulus japonicus kz02.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Kenraiz",
+  "page": "https://commons.wikimedia.org/wiki/File:Humulus_japonicus_kz02.jpg",
+  "note": "Ảnh Humulus japonicus; phần dùng thuốc là toàn cây"
+ },
+ "tru-ma-can": {
+  "file": "Boehmeria nivea.jpg",
+  "lic": "CC BY 3.0",
+  "artist": "A. Barra",
+  "page": "https://commons.wikimedia.org/wiki/File:Boehmeria_nivea.jpg",
+  "note": "Ảnh cây; phần dùng thuốc là rễ"
+ },
+ "moc-can-hoa": {
+  "file": "Hibiscus Syriacus.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Eric Kounce TexasRaiser",
+  "page": "https://commons.wikimedia.org/wiki/File:Hibiscus_Syriacus.JPG",
+  "note": "Ảnh hoa"
+ },
+ "ma-lan": {
+  "file": "Kalimeris-indica-by-Taraxacumseeds-01.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Taraxacumseeds",
+  "page": "https://commons.wikimedia.org/wiki/File:Kalimeris-indica-by-Taraxacumseeds-01.jpg",
+  "note": "Ảnh hoa; phần dùng thuốc là toàn cây"
+ },
+ "te-thai": {
+  "file": "A Field of Shepherd’s-purse.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "SaltySemanticSchmuck",
+  "page": "https://commons.wikimedia.org/wiki/File:A_Field_of_Shepherd%E2%80%99s-purse.jpg",
+  "note": "Ảnh cánh đồng; phần dùng thuốc là toàn cây"
+ },
+ "luc-dau": {
+  "file": "Mung beans (Vigna radiata).jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Ivar Leidus",
+  "page": "https://commons.wikimedia.org/wiki/File:Mung_beans_(Vigna_radiata).jpg",
+  "note": "Ảnh hạt"
+ },
+ "tri-le": {
+  "file": "Ficus pumila (Leafs).jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Ixitixel",
+  "page": "https://commons.wikimedia.org/wiki/File:Ficus_pumila_(Leafs).jpg",
+  "note": "Ảnh lá; phần dùng thuốc là thân dây và quả"
+ },
+ "thiet-hien-thai": {
+  "file": "Acalypha australis 5.JPG",
+  "lic": "CC BY 3.0",
+  "artist": "Dalgial",
+  "page": "https://commons.wikimedia.org/wiki/File:Acalypha_australis_5.JPG",
+  "note": "Ảnh cây; phần dùng thuốc là toàn cây"
+ },
+ "kho-qua": {
+  "file": "Momordica charantia Blanco2.357.png",
+  "lic": "Public domain",
+  "artist": "Francisco Manuel Blanco (O.S.A.)",
+  "page": "https://commons.wikimedia.org/wiki/File:Momordica_charantia_Blanco2.357.png",
+  "note": "Tranh thực vật; phần dùng thuốc là quả"
  }
 };

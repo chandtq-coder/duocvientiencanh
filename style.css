@@ -425,3 +425,19 @@ main#app .heroTop .big,main#app .card,main#app .card *,main#app .today,main#app 
   color:#c2540e;text-shadow:0 0 10px rgba(255,248,214,.95),0 0 3px rgba(255,255,255,.9);line-height:1;pointer-events:none}
 :root[data-theme="dark"] .orb::after{color:#8a3f9b;text-shadow:0 0 10px rgba(255,244,250,.95),0 0 3px rgba(255,255,255,.9)}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .orb::after{color:#8a3f9b;text-shadow:0 0 10px rgba(255,244,250,.95),0 0 3px rgba(255,255,255,.9)}}
+/* 7 tiên nữ bay theo sau hạc tiên */
+.fairies{position:absolute;left:0;top:22%;width:0;height:0;font-size:clamp(52px,7vw,96px);will-change:transform;animation:cfly 46s linear infinite;animation-delay:-10s}
+.fairy{position:absolute;top:var(--dy);left:calc(var(--n) * -1.62em - 3.1em);width:1.6em;animation:fbob 3.4s ease-in-out infinite;animation-delay:calc(var(--n) * -.55s)}
+.fairy svg{display:block;width:100%;height:auto;overflow:visible;filter:drop-shadow(0 3px 7px rgba(255,255,255,.55)) drop-shadow(0 0 8px var(--c2))}
+@keyframes fbob{0%,100%{transform:translateY(0) rotate(-2deg)}50%{transform:translateY(-.22em) rotate(2deg)}}
+.fairy .fr{fill:var(--c2);opacity:.88;transform-box:fill-box;transform-origin:100% 50%;animation:frsway 1.7s ease-in-out infinite;animation-delay:calc(var(--n) * -.3s)}
+.fairy .fs{fill:var(--c1);opacity:.95;transform-box:fill-box;transform-origin:100% 20%;animation:frsway 2.1s ease-in-out infinite reverse}
+.fairy .fb{fill:var(--c1)}
+.fairy .fh,.fairy .fh2{fill:#2a2140}
+.fairy .fk{fill:#ffe3cf}
+.fairy .fa{fill:none;stroke:#ffe3cf;stroke-width:3.4;stroke-linecap:round}
+.fairy .ff{fill:#ff7aa8}.fairy .fc{fill:#ffe27a}
+.fairy .fg{fill:#ffd36a}
+@keyframes frsway{0%,100%{transform:skewY(-5deg) scaleX(1)}50%{transform:skewY(6deg) scaleX(.9)}}
+@media (max-width:640px){.fairies{font-size:34px}.fairy:nth-child(n+6){display:none}}
+@media (prefers-reduced-motion:reduce){.fairies{display:none}}
