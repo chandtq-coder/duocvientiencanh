@@ -13,6 +13,15 @@ var GROUPS = [
 var GICON={bo:"🌱",giaibieu:"🍃",thanhnhiet:"❄️",taha:"🌊",loithuy:"💧",only:"🔥",hoathuyet:"🌸",hoadam:"🍵",thusap:"🍇",khuphong:"🦴",lykhi:"🍊",khutrung:"🐛",congdoc:"☠️"};
 var GNAME = {}; GROUPS.forEach(function(g){GNAME[g[0]]=g[1];});
 var TOX = window.TOX || {}, UNV = window.UNVERIFIED || {}, FIX = window.FIXED || {};
+/* Nguồn tham khảo cho vị chưa đối chiếu được Dược điển: sách cổ ghi trong `src` + giáo trình + y văn */
+function refSrc(h){
+  var r=[],s=h.src||"";
+  if(s.indexOf("神農本草經")>=0)r.push("《神農本草經》"+(h.kinh?" (có trích dẫn nguyên văn ở mục Nguồn cổ)":""));
+  else if(s.indexOf("《")===0){var m=/《[^》]+》(?:\s*\([^)]*\))?/.exec(s);if(m)r.push(m[0]);}
+  r.push("giáo trình 《中药学》 (Trung dược học)");
+  r.push("y văn Trung thảo dược 中草藥");
+  return esc(r.join("; "));
+}
 var TOXICON = {doc:"☠",manh:"⚠",luu:"ⓘ"};
 var TOXLBL = {doc:"CÓ ĐỘC",manh:"TÁC DỤNG MẠNH",luu:"LƯU Ý AN TOÀN"};
 function toxBadge(id){var t=TOX[id];return t?'<span class="tb tb-'+t.lv+'">'+TOXICON[t.lv]+' '+esc(t.lab)+'</span>':"";}
@@ -126,7 +135,7 @@ function renderDetail(id){
    '<div><dt>Vị (味)</dt><dd>'+esc(h.vj)+'</dd></div>'+
    '<div><dt>Quy kinh (歸經)</dt><dd>'+esc(h.qk)+'</dd></div>'+
    '<div><dt>Nguồn cổ</dt><dd>'+esc(h.src)+'</dd></div>'+
-   '<div><dt>Đối chiếu Dược điển</dt><dd>'+(UNV[h.id]?'<span class="vf vf-no">⚠ Chưa đối chiếu được</span> '+esc(UNV[h.id]):'<span class="vf vf-ok">✔ Đã đối chiếu Dược điển TQ 2020</span> (tính, vị, quy kinh, liều, loài gốc)'+(FIX[h.id]?'<br><small>Đã chỉnh theo đối chiếu: '+esc(FIX[h.id])+'.</small>':''))+'</dd></div></dl>'+
+   '<div><dt>Đối chiếu Dược điển</dt><dd>'+(UNV[h.id]?'<span class="vf vf-no">⚠ Chưa đối chiếu được</span> '+esc(UNV[h.id])+'<br><small>Nguồn tham khảo: '+refSrc(h)+'.</small>':'<span class="vf vf-ok">✔ Đã đối chiếu Dược điển TQ 2020</span> (tính, vị, quy kinh, liều, loài gốc)'+(FIX[h.id]?'<br><small>Đã chỉnh theo đối chiếu: '+esc(FIX[h.id])+'.</small>':''))+'</dd></div></dl>'+
    (h.kinh?'<div class="kinh"><div class="lbl">Trích cổ thư · 《神農本草經》</div><p class="z">'+esc(h.kinh)+'</p><p class="v">'+esc(h.kv)+'</p><p class="note">Trích theo bản lưu hành phổ biến; các bản chép có dị bản chữ. Bản dịch tiếng Việt chỉ mang tính tham khảo.</p></div>':'')+
    sec("生","Sinh trưởng &amp; thu hái".replace("&amp;","&"),h.grow)+
    sec("科","Công dụng theo khoa học hiện đại",h.sci)+
