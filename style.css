@@ -98,9 +98,9 @@ main.enter>*{animation:rise .55s cubic-bezier(.2,.8,.2,1) both}
 @keyframes ink{from{opacity:0;filter:blur(14px);letter-spacing:.4em}to{opacity:1}}
 .heroTop .sub{margin:2px 0 0;font:600 clamp(15px,2.8vw,20px) var(--serif);letter-spacing:.18em;color:var(--gold)}
 .heroTop .lead{max-width:560px;margin:12px auto 0;color:var(--mut)}
-.lantern{position:absolute;top:6px;width:38px;height:56px;border-radius:44% 44% 40% 40%;background:radial-gradient(circle at 50% 40%,#ffe9a0,#f0902f 70%,#c4402a);box-shadow:0 0 30px 10px rgba(255,170,70,.5);animation:sway 5s ease-in-out infinite;transform-origin:50% -30px}
+.lantern{position:absolute;top:6px;width:56px;height:82px;border-radius:44% 44% 40% 40%;background:radial-gradient(circle at 50% 40%,#ffe9a0,#f0902f 70%,#c4402a);box-shadow:0 0 30px 10px rgba(255,170,70,.5);animation:sway 5s ease-in-out infinite;transform-origin:50% -30px}
 .lantern::before{content:"";position:absolute;left:50%;top:-30px;width:1.5px;height:30px;background:var(--gold)}
-.lantern::after{content:"福";position:absolute;inset:0;display:grid;place-items:center;color:#7a1f10;font:700 16px var(--serif)}
+.lantern::after{content:"康";position:absolute;inset:0;display:grid;place-items:center;color:#6e1608;font:700 36px var(--serif);text-shadow:0 0 6px rgba(255,236,170,.9),0 0 2px rgba(255,240,190,1)}
 .lantern.l1{left:6%}.lantern.l2{right:6%;animation-delay:-2.2s;top:22px;transform:scale(.8)}
 @keyframes sway{50%{transform:rotate(7deg)}}
 @media (max-width:640px){.lantern{display:none}}
@@ -417,3 +417,6 @@ main#app .heroTop .big,main#app .card,main#app .card *,main#app .today,main#app 
   -webkit-text-stroke:6px #fff;paint-order:stroke fill;filter:drop-shadow(0 4px 14px rgba(24,12,70,.6))}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .heroTop .big{background:none;-webkit-background-clip:border-box;background-clip:border-box;color:#2fd49a;
   -webkit-text-stroke:6px #fff;paint-order:stroke fill;filter:drop-shadow(0 4px 14px rgba(24,12,70,.6))}}
+
+/* chữ 天 trên đỉnh chòi đảo tiên */
+.isl-svg .pchar{font:700 44px var(--serif);fill:var(--roof);stroke:#fff;stroke-width:4.5px;paint-order:stroke fill;stroke-linejoin:round}
