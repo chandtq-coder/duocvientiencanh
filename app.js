@@ -1,3 +1,4 @@
+var BASE=(function(){try{return new URL('./',document.currentScript.src).pathname;}catch(e){return location.pathname.replace(/[^\/]*$/,'');}})();
 (function(){
 "use strict";
 var H = window.HERBS || [], CR = window.CREDITS || {};
@@ -62,7 +63,7 @@ function filtered(){
 }
 
 function cardHTML(h){
-  return '<li class="card"><a href="#'+h.id+'"><div class="ph">'+img(h)+'<span class="gi" title="'+esc(GNAME[h.g]||"")+'">'+(GICON[h.g]||"🌿")+'</span><span class="zhov han">'+esc(h.t)+'</span></div><div class="tx">'+
+  return '<li class="card"><a href="'+BASE+h.id+'"><div class="ph">'+img(h)+'<span class="gi" title="'+esc(GNAME[h.g]||"")+'">'+(GICON[h.g]||"🌿")+'</span><span class="zhov han">'+esc(h.t)+'</span></div><div class="tx">'+
    '<div class="py">'+esc(h.py)+'</div><div class="vi">'+esc(h.vi)+'</div>'+(h.s!==h.t?'<div class="alt han">'+esc(h.s)+'</div>':'')+toxBadge(h.id)+'</div></a>'+
    '<button class="fav" data-fav="'+h.id+'" aria-pressed="'+(!!favs[h.id])+'" aria-label="Yêu thích '+esc(h.vi)+'">'+(favs[h.id]?"♥":"♡")+'</button></li>';
 }
@@ -77,7 +78,7 @@ function renderList(){
   app.innerHTML=
    '<div class="heroTop"><span class="lantern l1"></span><span class="lantern l2"></span><h1 class="big">藥園仙境</h1><p class="sub">DƯỢC VIÊN TIÊN CẢNH</p>'+
    '<p class="lead">Lạc vào khu vườn thuốc: '+H.length+' vị dược liệu Trung Hoa với chữ phồn thể, giản thể, pinyin và tên Việt — từ sinh trưởng đến công dụng, độc tính.</p></div>'+
-   '<a class="today" href="#'+td.id+'"><div class="ph">'+img(td)+'</div><div class="tx"><div class="eyebrow">✦ Vị thuốc hôm nay</div><div class="zh han">'+esc(td.t)+'</div><div class="py" style="color:var(--lotus)">'+esc(td.py)+'</div><div class="vi">'+esc(td.vi)+'</div><p>'+esc(td.cat)+' · '+esc(td.tinh.split(".")[0].split(";")[0])+'</p></div></a>'+
+   '<a class="today" href="'+BASE+td.id+'"><div class="ph">'+img(td)+'</div><div class="tx"><div class="eyebrow">✦ Vị thuốc hôm nay</div><div class="zh han">'+esc(td.t)+'</div><div class="py" style="color:var(--lotus)">'+esc(td.py)+'</div><div class="vi">'+esc(td.vi)+'</div><p>'+esc(td.cat)+' · '+esc(td.tinh.split(".")[0].split(";")[0])+'</p></div></a>'+
    '<div class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>'+
    '<input id="q" type="search" inputmode="search" autocomplete="off" placeholder="Tìm: 人參, 人参, rénshēn, nhân sâm, bổ khí…" value="'+esc(st.q)+'" aria-label="Tìm dược liệu">'+
    (st.q?'<button id="clr" aria-label="Xóa">×</button>':'')+'</div>'+
@@ -98,13 +99,13 @@ function refreshGrid(){
 function sec(ic,title,txt,cls){return txt?'<section class="s '+(cls||"")+'"><h2><span aria-hidden="true">'+ic+'</span>'+title+'</h2><p>'+esc(txt)+'</p></section>':"";}
 
 function renderDetail(id){
-  var h=byId[id]; if(!h){location.hash="";return;}
+  var h=byId[id]; if(!h){history.replaceState(null,"",BASE);renderList();return;}
   var i=H.indexOf(h),p=H[(i+H.length-1)%H.length],n=H[(i+1)%H.length],c=CR[id];
   document.title=h.vi+" "+h.t+" · Trung Thảo Dược";
   var cap=c?'Ảnh: '+esc(c.artist||"Wikimedia Commons")+' · '+esc(c.lic)+' · <a href="'+esc(c.page)+'" target="_blank" rel="noopener">nguồn</a>'+(c.note?'<br><b>'+esc(c.note)+'</b>':''):'';
   var tc=tinhClass(h.tinh);
   app.innerHTML=
-   '<a class="back" href="#">← Danh sách</a>'+
+   '<a class="back" href="'+BASE+'">← Danh sách</a>'+
    '<div class="hero"><span class="water han" aria-hidden="true">'+esc(h.t.charAt(0))+'</span><figure><div class="frame">'+img(h)+'</div><figcaption>'+cap+'</figcaption></figure>'+
    '<div class="names"><h1>'+esc(h.vi)+'</h1><p class="al">'+esc(h.al)+'</p>'+
    '<dl class="four"><div><dt>Phồn thể 繁體</dt><dd class="han">'+esc(h.t)+'</dd></div>'+
@@ -132,7 +133,7 @@ function renderDetail(id){
    sec("民","Công dụng dân gian &amp; y học cổ truyền".replace("&amp;","&"),h.folk)+
    sec("用","Cách dùng",h.use+(h.dose?" Liều tham khảo: "+h.dose+".":""))+
    sec("慎","Kiêng kỵ &amp; thận trọng".replace("&amp;","&"),h.avoid,"warn")+
-   '<div class="pager"><a href="#'+p.id+'"><small>← Trước</small>'+esc(p.vi)+' '+esc(p.t)+'</a><a href="#'+n.id+'"><small>Sau →</small>'+esc(n.vi)+' '+esc(n.t)+'</a></div>';
+   '<div class="pager"><a href="'+BASE+p.id+'"><small>← Trước</small>'+esc(p.vi)+' '+esc(p.t)+'</a><a href="'+BASE+n.id+'"><small>Sau →</small>'+esc(n.vi)+' '+esc(n.t)+'</a></div>';
   window.scrollTo({top:0,behavior:"instant"});enter();reveal(app);if(window.TTD_chime)TTD_chime();
 }
 
@@ -154,25 +155,43 @@ function renderAbout(){
   '<tr><th>Quy kinh (歸經)</th><td>Các tạng phủ/đường kinh mà vị thuốc ‘hướng tới’ trong lý luận Trung y.</td></tr></table>'+
   '<h2>Miễn trừ trách nhiệm</h2><p>Thông tin chỉ phục vụ học tập và tham khảo văn hóa – dược học; <b>không phải lời khuyên y tế</b>. Dược liệu có thể tương tác với thuốc, gây dị ứng, có độc hoặc không an toàn khi mang thai/cho con bú. Hãy hỏi thầy thuốc hoặc dược sĩ có chuyên môn trước khi dùng. Tuyệt đối không tự điều trị bệnh nặng (sốt rét, ung thư, tim mạch, đái tháo đường…) bằng dược liệu thay cho điều trị y khoa.</p>'+
   '<h2>Nguồn ảnh &amp; giấy phép</h2><p class="cred">Toàn bộ ảnh lấy từ Wikimedia Commons (giấy phép Creative Commons hoặc phạm vi công cộng), đã thu nhỏ và nén WebP. Vui lòng giữ ghi công khi sử dụng lại. Với Hoàng liên và Trạch tả, ảnh là loài cùng chi (xem chú thích dưới ảnh).</p><ul class="cred">'+rows+'</ul>'+
-  '<p><a class="btn" href="#">← Về tra cứu</a></p></div>';
+  '<p><a class="btn" href="'+BASE+'">← Về tra cứu</a></p></div>';
   window.scrollTo({top:0,behavior:"instant"});enter();
 }
 
-/* Địa chỉ gọn: #ma-xi-hien (vị thuốc), #gioi-thieu, để trống = danh sách. Vẫn nhận kiểu cũ #/h/id, #/about */
-function hashKey(){
-  var k=(location.hash||"").replace(/^#\/?/,"").replace(/^h\//,"").replace(/\/$/,"");
-  if(k==="about")k="gioi-thieu";
+/* Địa chỉ gọn, không dùng dấu #: /ma-xi-hien (vị thuốc), /gioi-thieu, gốc = danh sách.
+   Vẫn nhận link cũ #/h/id, #id, #/about và tự đổi sang địa chỉ mới. */
+function pathKey(){
+  var p=location.pathname,k=p.indexOf(BASE)===0?p.slice(BASE.length):"";
+  k=k.replace(/^index\.html$/,"").replace(/\/+$/,"");
+  if(!k&&location.hash){
+    k=location.hash.replace(/^#\/?/,"").replace(/^h\//,"").replace(/\/$/,"");
+    if(k==="about")k="gioi-thieu";
+    if(byId[k]||k==="gioi-thieu")history.replaceState(null,"",BASE+k);else k="";
+  }
   return k;
 }
 function route(){
-  var k=hashKey(),old=location.hash;
-  if(old&&old!=="#"+k&&(byId[k]||k==="gioi-thieu")&&history.replaceState)history.replaceState(null,"","#"+k);
+  var k=pathKey();
   document.querySelectorAll("[data-nav]").forEach(function(a){a.classList.toggle("on",(a.dataset.nav==="about")===(k==="gioi-thieu"));});
   if(byId[k])renderDetail(k);
   else if(k==="gioi-thieu")renderAbout();
   else {document.title="Trung Thảo Dược · Tra cứu dược liệu";renderList();}
 }
+window.addEventListener("popstate",route);
 window.addEventListener("hashchange",route);
+document.addEventListener("click",function(e){
+  var a=e.target.closest&&e.target.closest("a[href]");
+  if(!a||e.defaultPrevented||e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey||a.target)return;
+  var u=new URL(a.href,location.href);
+  if(u.origin!==location.origin||u.pathname.indexOf(BASE)!==0||u.hash)return;
+  var k=u.pathname.slice(BASE.length).replace(/\/+$/,"");
+  if(k===""||k==="gioi-thieu"||byId[k]){
+    e.preventDefault();
+    if(u.pathname!==location.pathname)history.pushState(null,"",u.pathname);
+    route();
+  }
+});
 
 app.addEventListener("input",function(e){
   if(e.target.id==="q"){st.q=e.target.value;saveSt();refreshGrid();
@@ -188,7 +207,7 @@ app.addEventListener("click",function(e){
   if(t.dataset.toxf){st.tox=!st.tox;if(st.tox){st.g="all";st.fav=false;}saveSt();renderList();return;}
   if(t.dataset.favf){st.fav=!st.fav;if(st.fav)st.g="all";saveSt();renderList();return;}
   if(t.dataset.fav){e.preventDefault();var id=t.dataset.fav;if(favs[id])delete favs[id];else favs[id]=1;saveFavs();
-    if(byId[hashKey()])renderDetail(id);else refreshGrid();}
+    if(byId[pathKey()])renderDetail(id);else refreshGrid();}
 });
 
 /* nghiêng 3D theo con trỏ */
