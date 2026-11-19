@@ -399,7 +399,7 @@ main#app .heroTop .big,main#app .card,main#app .card *,main#app .today,main#app 
 }
 
 .heroTop .sub{font-family:"Great Vibes","Brush Script MT","Segoe Script",cursive;font-weight:400;
-  font-size:clamp(40px,10vw,76px);line-height:1.12;letter-spacing:.02em;margin:2px 0 4px;
+  display:block;box-sizing:border-box;max-width:100%;padding:.06em .4em .16em;overflow:visible;font-size:clamp(30px,8.4vw,68px);line-height:1.2;letter-spacing:.01em;margin:2px auto 4px;
   background:linear-gradient(180deg,var(--subc1) 10%,var(--subc2) 120%);-webkit-background-clip:text;background-clip:text;color:transparent;
   filter:drop-shadow(0 2px 8px rgba(255,255,255,.7)) drop-shadow(0 3px 10px rgba(180,120,30,.28));text-shadow:none}
 :root{--subc1:#b8730f;--subc2:#7a4a06}
