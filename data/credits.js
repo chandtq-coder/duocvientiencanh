@@ -1076,5 +1076,145 @@ window.CREDITS={
   "artist": "Johann Werfring",
   "page": "https://commons.wikimedia.org/wiki/File:Chinesische_Zedrat_Zitrone.jpg",
   "note": "Ảnh quả Citrus medica (Phật thủ là biến chủng var. sarcodactylis)"
+ },
+ "cau-tich": {
+  "file": "Cibotium barometz - Hong Kong Park Conservatory - IMG 9844.JPG",
+  "lic": "Public domain",
+  "artist": "Daderot",
+  "page": "https://commons.wikimedia.org/wiki/File:Cibotium_barometz_-_Hong_Kong_Park_Conservatory_-_IMG_9844.JPG",
+  "note": "Ảnh cây Cibotium barometz; phần dùng thuốc là thân rễ phủ lông vàng"
+ },
+ "cot-toai-bo": {
+  "file": "槲蕨.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Dandan0721",
+  "page": "https://commons.wikimedia.org/wiki/File:%E6%A7%B2%E8%95%A8.jpg",
+  "note": "Ảnh Drynaria roosii (Dược điển: Drynaria fortunei, nay đồng nghĩa)"
+ },
+ "ngu-gia-bi": {
+  "file": "Eleutherococcus nodiflorus kz1.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Kenraiz",
+  "page": "https://commons.wikimedia.org/wiki/File:Eleutherococcus_nodiflorus_kz1.JPG",
+  "note": "Ảnh cây Eleutherococcus nodiflorus (= Acanthopanax gracilistylus); phần dùng thuốc là vỏ rễ"
+ },
+ "dia-phu-tu": {
+  "file": "Kochia_aka_Fire_bush_7128.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Rameshng",
+  "page": "https://commons.wikimedia.org/wiki/File:Kochia_aka_Fire_bush_7128.JPG",
+  "note": "Ảnh cây Bassia scoparia; phần dùng thuốc là quả"
+ },
+ "bach-tien-bi": {
+  "file": "Dictamnus dasycarpus (Rutaceae) (34955848314).jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "Alexey Yakovlev",
+  "page": "https://commons.wikimedia.org/wiki/File:Dictamnus_dasycarpus_%28Rutaceae%29_%2834955848314%29.jpg",
+  "note": "Ảnh cây Dictamnus dasycarpus; phần dùng thuốc là vỏ rễ"
+ },
+ "kho-sam": {
+  "file": "Sophora_flavescens.jpg",
+  "lic": "Public domain",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Sophora_flavescens.jpg",
+  "note": ""
+ },
+ "ma-tien-thao": {
+  "file": "Verbena_officinalis_sabliere-morriere-plailly_60_30062008_1.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Olivier Pichard",
+  "page": "https://commons.wikimedia.org/wiki/File:Verbena_officinalis_sabliere-morriere-plailly_60_30062008_1.jpg",
+  "note": ""
+ },
+ "trung-lau": {
+  "file": "Paris_polyphylla_PICT6023.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Alnus",
+  "page": "https://commons.wikimedia.org/wiki/File:Paris_polyphylla_PICT6023.jpg",
+  "note": "Ảnh Paris polyphylla; Dược điển dùng Paris polyphylla var. chinensis hoặc var. yunnanensis"
+ },
+ "bach-dau-ong": {
+  "file": "Pulsatilla_chinensis.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "zhangshen",
+  "page": "https://commons.wikimedia.org/wiki/File:Pulsatilla_chinensis.jpg",
+  "note": "Ảnh cây; phần dùng thuốc là rễ"
+ },
+ "tan-bi": {
+  "file": "Fraxinus_chinensis_kz01.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Krzysztof Ziarnek, Kenraiz",
+  "page": "https://commons.wikimedia.org/wiki/File:Fraxinus_chinensis_kz01.jpg",
+  "note": "Ảnh Fraxinus chinensis (một trong các loài Dược điển nhận); phần dùng thuốc là vỏ cành, vỏ thân"
+ },
+ "dia-cot-bi": {
+  "file": "Lycium_chinense_marnay_25_sept_2008.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Sambuca",
+  "page": "https://commons.wikimedia.org/wiki/File:Lycium_chinense_marnay_25_sept_2008.jpg",
+  "note": "Ảnh cây Lycium chinense; phần dùng thuốc là vỏ rễ"
+ },
+ "trach-lan": {
+  "file": "Lycopus_lucidus_1.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Qwert1234",
+  "page": "https://commons.wikimedia.org/wiki/File:Lycopus_lucidus_1.JPG",
+  "note": ""
+ },
+ "vuong-bat-luu-hanh": {
+  "file": "Illustration_Vaccaria_hispanica0.jpg",
+  "lic": "Public domain",
+  "artist": "Hình vẽ cổ",
+  "page": "https://commons.wikimedia.org/wiki/File:Illustration_Vaccaria_hispanica0.jpg",
+  "note": "Hình vẽ cây Vaccaria hispanica; phần dùng thuốc là hạt"
+ },
+ "hop-hoan-bi": {
+  "file": "2018-07-08_11_10_27_Rosea_Mimosa_blossoms_along_the_ramp_from_southbound_Interstate_95_(New_Jersey_Turnpike_Eastern_Spur)_to_westbound_Interstate_280_(Essex_Freeway)_in_the_New_Jersey_Meadowlands,_within_Kearny,_Hudson_County,_New_Jersey.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Famartin",
+  "page": "https://commons.wikimedia.org/wiki/File:2018-07-08_11_10_27_Rosea_Mimosa_blossoms_along_the_ramp_from_southbound_Interstate_95_%28New_Jersey_Turnpike_Eastern_Spur%29_to_westbound_Interstate_280_%28Essex_Freeway%29_in_the_New_Jersey_Meadowlands%2C_within_Kearny%2C_Hudson_County%2C_New_Jersey.jpg",
+  "note": "Ảnh hoa cây Albizia julibrissin; phần dùng thuốc là vỏ thân"
+ },
+ "ba-tu-nhan": {
+  "file": "Platycladus orientalis seeds - Kunming Botanical Garden - DSC03215.JPG",
+  "lic": "Public domain",
+  "artist": "Daderot",
+  "page": "https://commons.wikimedia.org/wiki/File:Platycladus_orientalis_seeds_-_Kunming_Botanical_Garden_-_DSC03215.JPG",
+  "note": ""
+ },
+ "thach-xuong-bo": {
+  "file": "Acorus gramineus.jpg",
+  "lic": "CC BY 2.0",
+  "artist": "Cliff",
+  "page": "https://commons.wikimedia.org/wiki/File:Acorus_gramineus.jpg",
+  "note": "Ảnh loài cùng chi Acorus gramineus (Kim tiền bồ); Dược điển dùng Acorus tatarinowii"
+ },
+ "tien-ho": {
+  "file": "白花前胡 Peucedanum praeruptorum -香港動植物公園 Hong Kong Botanical Garden- (9240154608).jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "阿橋 HQ",
+  "page": "https://commons.wikimedia.org/wiki/File:%E7%99%BD%E8%8A%B1%E5%89%8D%E8%83%A1_Peucedanum_praeruptorum_-%E9%A6%99%E6%B8%AF%E5%8B%95%E6%A4%8D%E7%89%A9%E5%85%AC%E5%9C%92_Hong_Kong_Botanical_Garden-_%289240154608%29.jpg",
+  "note": "Ảnh cây Peucedanum praeruptorum; phần dùng thuốc là rễ"
+ },
+ "tho-phuc-linh": {
+  "file": "Smilacis_Glabrae_Rhizoma.webp",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Xicheng He và cộng sự",
+  "page": "https://commons.wikimedia.org/wiki/File:Smilacis_Glabrae_Rhizoma.webp",
+  "note": "Ảnh dược liệu Smilax glabra"
+ },
+ "ha-tu": {
+  "file": "Haritaki (Terminalia chebula) fruits.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Salil Kumar Mukherjee",
+  "page": "https://commons.wikimedia.org/wiki/File:Haritaki_%28Terminalia_chebula%29_fruits.jpg",
+  "note": ""
+ },
+ "xich-tieu-dau": {
+  "file": "赤小豆.jpg",
+  "lic": "CC BY-SA 2.5",
+  "artist": "Samuel Wong",
+  "page": "https://commons.wikimedia.org/wiki/File:%E8%B5%A4%E5%B0%8F%E8%B1%86.jpg",
+  "note": "Ảnh hạt Vigna umbellata (đúng dược liệu)"
  }
 };

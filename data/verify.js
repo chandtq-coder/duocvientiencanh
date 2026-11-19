@@ -5,6 +5,7 @@ window.UNVERIFIED={
 "bach-hoa-xa-thiet-thao":"Không có bản quét chuyên luận trong Dược điển 2020 (một); nhiều khả năng vị này không có chuyên luận chính thức nên số liệu theo giáo trình/tiêu chuẩn địa phương.",
 };
 window.FIXED={
+"hop-hoan-bi":"bỏ dòng ‘thai kỳ’ vì Dược điển không ghi",
 "thien-hoa-phan":"thai kỳ: ‘thận trọng’ (慎用) theo Dược điển",
 "tu-uyen":"tính ‘ấm (溫)’ theo Dược điển",
 "phan-ta-diep":"thai kỳ: ‘thận trọng’ (慎用) theo Dược điển",

@@ -75,5 +75,14 @@ window.TOX={
 "tan-lang":{lv:"manh",lab:"ARECOLINE · NGUY CƠ UNG THƯ",txt:"Nhai hạt cau/trầu cau lâu dài làm tăng nguy cơ ung thư khoang miệng, xơ hóa dưới niêm mạc (IARC nhóm 1) và gây nghiện nhẹ. Liều thuốc đúng chỉ định; liều diệt sán (30–60 g) chỉ dùng theo thầy thuốc; người hen, nhịp tim chậm, phụ nữ có thai thận trọng."},
 "nga-truat":{lv:"luu",lab:"CẤM KHI CÓ THAI",txt:"Dược điển ghi 孕妇禁用 (cấm khi có thai). Phá huyết mạnh: người rong kinh, dễ chảy máu, huyết hư không dùng."},
 "thien-hoa-phan":{lv:"luu",lab:"THAI KỲ · KỴ Ô ĐẦU",txt:"Dược điển ghi 孕妇慎用; kỵ Xuyên ô, Phụ tử, Thảo ô. Trichosanthin có thể gây sảy thai, dị ứng nặng. Phụ nữ có thai thận trọng, nên tránh; tỳ vị hư hàn, tiêu chảy không dùng."},
-"thang-ma":{lv:"luu",lab:"LIỀU CAO",txt:"Liều cao gây buồn nôn, chóng mặt, đau đầu; âm hư hỏa vượng, hồi hộp, hen suyễn không dùng. Không nhầm với black cohosh (Cimicifuga racemosa) có báo cáo độc gan."}
+"thang-ma":{lv:"luu",lab:"LIỀU CAO",txt:"Liều cao gây buồn nôn, chóng mặt, đau đầu; âm hư hỏa vượng, hồi hộp, hen suyễn không dùng. Không nhầm với black cohosh (Cimicifuga racemosa) có báo cáo độc gan."},
+"trung-lau":{lv:"doc",lab:"CÓ ĐỘC NHẸ (小毒)",txt:"Saponin steroid (polyphyllin) gây buồn nôn, nôn, tiêu chảy, chóng mặt khi quá liều. Không dùng quá liều hoặc dài ngày; phụ nữ có thai, người tỳ vị hư hàn không dùng. Rắn cắn phải đi cấp cứu, không tự điều trị bằng thảo dược."},
+"bach-tien-bi":{lv:"manh",lab:"CÓ BÁO CÁO TỔN THƯƠNG GAN",txt:"Dictamnine độc gan trên thực nghiệm; có báo cáo tổn thương gan ở người dùng liều cao. Người bệnh gan, đang dùng thuốc độc gan, phụ nữ có thai không dùng; dùng ngắn ngày."},
+"kho-sam":{lv:"luu",lab:"KỴ LÊ LÔ · RẤT ĐẮNG LẠNH",txt:"Không dùng chung với Lê lô. Matrine liều cao gây buồn nôn, chóng mặt, run; tỳ vị hư hàn không dùng. Không nhầm với ‘khổ sâm Bắc Bộ’ (Croton tonkinensis) ở Việt Nam."},
+"bach-dau-ong":{lv:"luu",lab:"CÂY TƯƠI KÍCH ỨNG DA",txt:"Cây tươi chứa anemonin gây phồng rộp da, kích ứng niêm mạc; không giã đắp lâu. Rất đắng lạnh: tỳ vị hư hàn, tiêu chảy không do nhiệt không dùng."},
+"ngu-gia-bi":{lv:"luu",lab:"KHÔNG NHẦM HƯƠNG GIA BÌ",txt:"‘Bắc ngũ gia bì’ (Hương gia bì, Periploca sepium) có độc tim (cardiac glycoside), khác hẳn Ngũ gia bì (Eleutherococcus). Chỉ mua loại có xác định tên khoa học."},
+"xich-tieu-dau":{lv:"luu",lab:"KHÔNG NHẦM TƯƠNG TƯ TỬ",txt:"Xích tiểu đậu (Vigna) ăn được, khác hạt cườm đỏ có chấm đen Tương tư tử (Abrus precatorius) chứa abrin cực độc, có thể gây tử vong dù chỉ nhai vài hạt."},
+"thach-xuong-bo":{lv:"luu",lab:"β-ASARONE · KHÔNG NHẦM THỦY XƯƠNG BỒ",txt:"β-asarone có nguy cơ gây ung thư trên chuột liều cao kéo dài; không dùng liều cao hay dài ngày. Không nhầm với Thủy xương bồ (Acorus calamus) chứa nhiều β-asarone hơn."},
+"ma-tien-thao":{lv:"luu",lab:"THAI KỲ",txt:"Phụ nữ có thai thận trọng; tỳ vị hư hàn, tiêu chảy không dùng; liều cao gây buồn nôn."},
+"vuong-bat-luu-hanh":{lv:"luu",lab:"THAI KỲ",txt:"Kích thích co tử cung nhẹ: phụ nữ có thai thận trọng; người huyết hư, rong kinh không dùng."}
 };
