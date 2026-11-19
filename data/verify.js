@@ -6,6 +6,8 @@ window.UNVERIFIED={
 "bach-hoa-xa-thiet-thao":"Không có bản quét chuyên luận trong Dược điển 2020 (một); nhiều khả năng vị này không có chuyên luận chính thức nên số liệu theo giáo trình/tiêu chuẩn địa phương.",
 };
 window.FIXED={
+"bach-gioi-tu":"Dược điển đặt chuyên luận là ‘芥子’ (Bạch giới tử – Sinapis alba và Hoàng giới tử – Brassica juncea)",
+"tat-le":"bỏ dòng ‘thai kỳ’ vì Dược điển chỉ ghi ‘có độc nhẹ’",
 "duong-kim-hoa":"ghi rõ dạng cuốn hút theo Dược điển (≤1,5 g/ngày, chỉ do thầy thuốc)",
 "hop-hoan-bi":"bỏ dòng ‘thai kỳ’ vì Dược điển không ghi",
 "thien-hoa-phan":"thai kỳ: ‘thận trọng’ (慎用) theo Dược điển",

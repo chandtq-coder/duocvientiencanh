@@ -96,5 +96,15 @@ window.TOX={
 "ho-lo-ba":{lv:"luu",lab:"THAI KỲ · THUỐC ĐÁI THÁO ĐƯỜNG",txt:"Phụ nữ có thai không dùng liều thuốc; có thể hạ đường huyết, tương tác với thuốc đái tháo đường, chống đông; có thể gây tiêu chảy, đầy hơi."},
 "hong-canh-thien":{lv:"luu",lab:"MẤT NGỦ · RỐI LOẠN LƯỠNG CỰC",txt:"Có thể gây mất ngủ, hồi hộp nếu dùng buổi tối hoặc liều cao; người rối loạn lưỡng cực, đang dùng thuốc chống trầm cảm hoặc ức chế miễn dịch cần hỏi thầy thuốc."},
 "ho-tieu":{lv:"luu",lab:"PIPERINE · TƯƠNG TÁC THUỐC",txt:"Piperine làm thay đổi chuyển hóa nhiều thuốc (phenytoin, propranolol, theophylline…). Ăn nhiều gây kích ứng dạ dày; trĩ chảy máu, viêm loét dạ dày không dùng nhiều."},
-"dai-hoi":{lv:"luu",lab:"KHÔNG NHẦM MÃNG THẢO",txt:"Illicium anisatum (Mãng thảo, Nhật) chứa anisatin độc thần kinh, từng bị trộn vào Đại hồi gây ngộ độc. Chỉ mua loại có xác định loài; Đại hồi thật có 8 cánh (thường 7–9)."}
+"dai-hoi":{lv:"luu",lab:"KHÔNG NHẦM MÃNG THẢO",txt:"Illicium anisatum (Mãng thảo, Nhật) chứa anisatin độc thần kinh, từng bị trộn vào Đại hồi gây ngộ độc. Chỉ mua loại có xác định loài; Đại hồi thật có 8 cánh (thường 7–9)."},
+"tat-le":{lv:"doc",lab:"CÓ ĐỘC NHẸ (小毒)",txt:"Dược điển ghi ‘có độc nhẹ’. Không dùng quá liều; thận trọng khi dùng chế phẩm ‘tăng testosterone’ liều cao vì có báo cáo ngộ độc; phụ nữ có thai thận trọng."},
+"bach-gioi-tu":{lv:"luu",lab:"KÍCH ỨNG DA KHI ĐẮP",txt:"Isothiocyanate cay nồng gây phồng rộp nếu đắp lâu; da nhạy cảm, mụn nhọt đã vỡ không đắp; phế nhiệt ho không dùng."},
+"hai-tao":{lv:"luu",lab:"KỴ CAM THẢO · IOD · ARSENIC",txt:"Dược điển ghi không dùng chung với Cam thảo. Nhiều iod: người cường giáp, bệnh tuyến giáp tự miễn không dùng nhiều; hijiki (Sargassum fusiforme) có thể chứa arsenic vô cơ cao."},
+"qua-lau":{lv:"luu",lab:"KỴ Ô ĐẦU",txt:"Dược điển ghi không dùng chung nhóm Ô đầu, Phụ tử, Thảo ô. Tính hàn: tỳ vị hư hàn, đại tiện lỏng không dùng."},
+"bach-liem":{lv:"luu",lab:"KỴ Ô ĐẦU",txt:"Dược điển ghi không dùng chung với Xuyên ô, Thảo ô, Phụ tử."},
+"moc-thong":{lv:"manh",lab:"KHÔNG NHẦM QUAN MỘC THÔNG",txt:"Quan mộc thông, Quảng phòng kỷ, Thanh mộc hương (Aristolochia) chứa aristolochic acid gây suy thận, ung thư; đã bị loại khỏi Dược điển. Chỉ mua loại Akebia có xác định loài; phụ nữ có thai không dùng."},
+"nhu-huong":{lv:"luu",lab:"THAI KỲ · DẠ DÀY YẾU",txt:"Dược điển ghi: phụ nữ có thai và người vị yếu thận trọng. Dễ gây buồn nôn, kích ứng dạ dày."},
+"to-moc":{lv:"luu",lab:"THAI KỲ",txt:"Dược điển ghi 孕妇慎用 (thận trọng khi có thai)."},
+"ban-bien-lien":{lv:"luu",lab:"LOBELINE · RẮN CẮN",txt:"Lobeline liều cao gây buồn nôn, nôn. Rắn cắn phải đi cấp cứu, không tự điều trị bằng thảo dược; phụ nữ có thai thận trọng."},
+"ban-chi-lien":{lv:"luu",lab:"KHÔNG THAY ĐIỀU TRỊ UNG THƯ",txt:"Thường dùng bổ trợ ung thư trong Đông y nhưng chưa có chứng cứ lâm sàng mạnh; không thay điều trị y khoa. Tính lạnh: tỳ vị hư hàn, phụ nữ có thai thận trọng."}
 };

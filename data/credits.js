@@ -1356,5 +1356,145 @@ window.CREDITS={
   "artist": "Susan Slater",
   "page": "https://commons.wikimedia.org/wiki/File:Thai_cardamom.jpg",
   "note": "Ảnh Amomum kravanh (Bạch đậu khấu Thái)"
+ },
+ "bach-gioi-tu": {
+  "file": "Sinapis_alba_-_Köhler–s_Medizinal-Pflanzen-265.jpg",
+  "lic": "Public domain",
+  "artist": "Franz Eugen Köhler (hình vẽ)",
+  "page": "https://commons.wikimedia.org/wiki/File:Sinapis_alba_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-265.jpg",
+  "note": "Hình vẽ Sinapis alba; Dược điển dùng Sinapis alba hoặc Brassica juncea (hạt)"
+ },
+ "qua-lau": {
+  "file": "Trichosanthes_kirilowii.jpg",
+  "lic": "CC BY 2.5",
+  "artist": "Michael Wolf",
+  "page": "https://commons.wikimedia.org/wiki/File:Trichosanthes_kirilowii.jpg",
+  "note": "Ảnh hoa/lá cây Trichosanthes kirilowii; phần dùng thuốc là quả chín"
+ },
+ "hai-tao": {
+  "file": "Icones_of_Japanese_algae_(Pl._CXXVIII)_(8006311177).jpg",
+  "lic": "Public domain",
+  "artist": "Kintaro Okamura (hình vẽ)",
+  "page": "https://commons.wikimedia.org/wiki/File:Icones_of_Japanese_algae_%28Pl._CXXVIII%29_%288006311177%29.jpg",
+  "note": "Hình vẽ rong biển Sargassum; Dược điển dùng S. pallidum và S. fusiforme"
+ },
+ "da-cuc-hoa": {
+  "file": "Chrysanthemum_indicum1.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "KENPEI",
+  "page": "https://commons.wikimedia.org/wiki/File:Chrysanthemum_indicum1.jpg",
+  "note": ""
+ },
+ "ban-bien-lien": {
+  "file": "Lobelia_chinensis_01.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Lokionly",
+  "page": "https://commons.wikimedia.org/wiki/File:Lobelia_chinensis_01.jpg",
+  "note": ""
+ },
+ "ban-chi-lien": {
+  "file": "半枝蓮_Scutellaria_barbata_-香港花展_Hong_Kong_Flower_Show-_(9200913840).jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "阿橋 HQ",
+  "page": "https://commons.wikimedia.org/wiki/File:%E5%8D%8A%E6%9E%9D%E8%93%AE_Scutellaria_barbata_-%E9%A6%99%E6%B8%AF%E8%8A%B1%E5%B1%95_Hong_Kong_Flower_Show-_%289200913840%29.jpg",
+  "note": ""
+ },
+ "thuy-bon-thao": {
+  "file": "Dolnamul_(stringy_stonecrop)_(Sedum_sarmentosum)_flower.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "이태수",
+  "page": "https://commons.wikimedia.org/wiki/File:Dolnamul_%28stringy_stonecrop%29_%28Sedum_sarmentosum%29_flower.jpg",
+  "note": ""
+ },
+ "tich-tuyet-thao": {
+  "file": "Centella_asiatica_(থানকুনি)_(3).jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Shahidul Hasan Roman",
+  "page": "https://commons.wikimedia.org/wiki/File:Centella_asiatica_%28%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%81%E0%A6%A8%E0%A6%BF%29_%283%29.jpg",
+  "note": ""
+ },
+ "hai-kim-sa": {
+  "file": "Japanese_Climbing_Fern_(Lygodium_japonicum)_(16328738786).jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "harum.koh",
+  "page": "https://commons.wikimedia.org/wiki/File:Japanese_Climbing_Fern_%28Lygodium_japonicum%29_%2816328738786%29.jpg",
+  "note": "Ảnh cây Lygodium japonicum; phần dùng thuốc là bào tử"
+ },
+ "bien-suc": {
+  "file": "Polygonum_aviculare_4.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Dalgial",
+  "page": "https://commons.wikimedia.org/wiki/File:Polygonum_aviculare_4.JPG",
+  "note": ""
+ },
+ "moc-thong": {
+  "file": "Akebia_quinata02.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Akebia_quinata02.jpg",
+  "note": "Ảnh cây Akebia quinata; phần dùng thuốc là thân dây"
+ },
+ "dang-tam-thao": {
+  "file": "Juncus_effuses.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Meggar (English Wikipedia)",
+  "page": "https://commons.wikimedia.org/wiki/File:Juncus_effuses.jpg",
+  "note": "Ảnh cây Juncus effusus; phần dùng thuốc là ruột thân (tủy)"
+ },
+ "thien-thao": {
+  "file": "Rubia_cordifolia.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Vinayaraj",
+  "page": "https://commons.wikimedia.org/wiki/File:Rubia_cordifolia.jpg",
+  "note": "Ảnh cây Rubia cordifolia; phần dùng thuốc là rễ và thân rễ"
+ },
+ "nhu-huong": {
+  "file": "Boswellia_sacra.jpg",
+  "lic": "CC BY 2.0",
+  "artist": "Scott Zona",
+  "page": "https://commons.wikimedia.org/wiki/File:Boswellia_sacra.jpg",
+  "note": "Ảnh cây Boswellia sacra (= B. carterii); phần dùng thuốc là nhựa"
+ },
+ "to-moc": {
+  "file": "Caesalpinia_sappan1.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Vinayaraj",
+  "page": "https://commons.wikimedia.org/wiki/File:Caesalpinia_sappan1.jpg",
+  "note": "Ảnh cây Biancaea sappan (= Caesalpinia sappan); phần dùng thuốc là lõi gỗ"
+ },
+ "tat-le": {
+  "file": "Tribulus_terrestris_(Family_Zygophyllaceae).jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Juan Carlos Fonseca Mata",
+  "page": "https://commons.wikimedia.org/wiki/File:Tribulus_terrestris_%28Family_Zygophyllaceae%29.jpg",
+  "note": ""
+ },
+ "toan-phuc-hoa": {
+  "file": "Inula japonica 48818030.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "Repina Tatyana",
+  "page": "https://commons.wikimedia.org/wiki/File:Inula_japonica_48818030.jpg",
+  "note": ""
+ },
+ "tu-hoa-dia-dinh": {
+  "file": "Viola yedoensis 3.JPG",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Qwert1234",
+  "page": "https://commons.wikimedia.org/wiki/File:Viola_yedoensis_3.JPG",
+  "note": ""
+ },
+ "tu-thao": {
+  "file": "Arnebia euchroma (GBIF 1064686599).jpg",
+  "lic": "CC0",
+  "artist": "Royal Botanic Garden Edinburgh",
+  "page": "https://commons.wikimedia.org/wiki/File:Arnebia_euchroma_%28GBIF_1064686599%29.jpg",
+  "note": "Ảnh cây Arnebia euchroma (mẫu tiêu bản); phần dùng thuốc là rễ"
+ },
+ "bach-liem": {
+  "file": "Ampelopsis japonica kz04.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Krzysztof Ziarnek, Kenraiz",
+  "page": "https://commons.wikimedia.org/wiki/File:Ampelopsis_japonica_kz04.jpg",
+  "note": "Ảnh cây; phần dùng thuốc là rễ củ"
  }
 };
