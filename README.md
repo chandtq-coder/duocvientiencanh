@@ -14,7 +14,7 @@ python -m http.server 8770
 
 ## Cấu trúc
 - `index.html`, `style.css`, `app.js`, `scene.js` — giao diện và cảnh nền
-- `data/h1..h23.js, data/n1..n36.js` — dữ liệu dược liệu; `data/toxic.js` — độc tính; `data/verify.js` — đối chiếu Dược điển; `data/credits.js` — ghi công ảnh
+- `data/h1..h23.js, data/n1..n45.js` — dữ liệu dược liệu; `data/toxic.js` — độc tính; `data/verify.js` — đối chiếu Dược điển; `data/credits.js` — ghi công ảnh
 - `img/` — ảnh WebP đã nén; `sw.js`, `manifest.webmanifest`, `icons/` — PWA
 
 ## Lưu ý

@@ -3575,5 +3575,68 @@ window.CREDITS={
   "artist": "阿橋 HQ",
   "page": "https://commons.wikimedia.org/wiki/File:%E6%B7%AB%E7%BE%8A%E8%97%BF_Epimedium_brevicornu_-%E6%AF%94%E5%88%A9%E6%99%82_Ghent_University_Botanical_Garden,_Belgium-_(9227116763).jpg",
   "note": "Dùng chung ảnh với vị gốc (dam-duong-hoac); đây là dạng chế hoặc bộ phận khác của cùng loài"
+ },
+ "vu-chau-lau-lo": {
+  "file": "Echinops latifolius 89893520.jpg",
+  "lic": "CC0",
+  "artist": "Yurii Basov",
+  "page": "https://commons.wikimedia.org/wiki/File:Echinops_latifolius_89893520.jpg",
+  "note": "Ảnh Echinops latifolius (loài nguồn); phần dùng thuốc là rễ"
+ },
+ "xuyen-xa-can": {
+  "file": "Iris tectorum 01.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "清水五月",
+  "page": "https://commons.wikimedia.org/wiki/File:Iris_tectorum_01.JPG",
+  "note": "Ảnh hoa; phần dùng thuốc là thân rễ"
+ },
+ "chu-sa-can": {
+  "file": "Ardisia crenata 342476445.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "Alex Abair",
+  "page": "https://commons.wikimedia.org/wiki/File:Ardisia_crenata_342476445.jpg",
+  "note": "Ảnh cây; phần dùng thuốc là rễ"
+ },
+ "tieu-diep-lien": {
+  "file": "Podophyllum hexandrum W IMG 7315.jpg",
+  "lic": "CC BY 3.0",
+  "artist": "J.M.Garg",
+  "page": "https://commons.wikimedia.org/wiki/File:Podophyllum_hexandrum_W_IMG_7315.jpg",
+  "note": "Ảnh Podophyllum hexandrum (tên đồng nghĩa); phần dùng thuốc là quả"
+ },
+ "dien-ke-huyet-dang": {
+  "file": "(Kadsura japonica close-up in Koishikawa Botanical Garden, Japan) - DPLA - 224e78b4061fe00ef51483d014b1907d.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "Carlquist, Sherwin John, 1930-2021",
+  "page": "https://commons.wikimedia.org/wiki/File:(Kadsura_japonica_close-up_in_Koishikawa_Botanical_Garden,_Japan)_-_DPLA_-_224e78b4061fe00ef51483d014b1907d.jpg",
+  "note": "Ảnh Kadsura japonica (cùng chi); phần dùng thuốc là thân dây"
+ },
+ "dai-diep-tu-chau": {
+  "file": "Callicarpa macrophylla.jpg",
+  "lic": "CC BY 2.0",
+  "artist": "Jayesh Patil",
+  "page": "https://commons.wikimedia.org/wiki/File:Callicarpa_macrophylla.jpg",
+  "note": "Ảnh hoa; phần dùng thuốc là lá"
+ },
+ "dai-toan": {
+  "file": "Allium sativum Woodwill 1793.jpg",
+  "lic": "Public domain",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Allium_sativum_Woodwill_1793.jpg",
+  "note": "Tranh thực vật; phần dùng thuốc là củ"
+ },
+ "tieu-chi-tu": {
+  "file": "Gardenia_jasminoides_flower_Argentina.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Adriel anv00",
+  "page": "https://commons.wikimedia.org/wiki/File:Gardenia_jasminoides_flower_Argentina.jpg",
+  "note": "Dùng chung ảnh với vị gốc (chi-tu); đây là dạng sao cháy của cùng vị"
+ },
+ "tieu-tan-lang": {
+  "file": "Whole and sliced Areca nut with other betel nut chewing components from Bangladesh.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Sm faysal",
+  "page": "https://commons.wikimedia.org/wiki/File:Whole_and_sliced_Areca_nut_with_other_betel_nut_chewing_components_from_Bangladesh.jpg",
+  "note": "Dùng chung ảnh với vị gốc (tan-lang); đây là dạng sao cháy của cùng vị"
  }
 };
