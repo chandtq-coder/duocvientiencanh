@@ -2,9 +2,11 @@
    Chỉ đối chiếu: loài gốc, tính, vị, quy kinh, liều, cách dùng đặc biệt, nhãn độc, câu kiêng kỵ. Chưa đối chiếu với sách in. */
 window.VERIFY_SRC="Dược điển Trung Quốc 2020 (một)";
 window.UNVERIFIED={
+"dai-hoi":"Không tìm được bản quét chuyên luận trong kho đã dùng (nhiều tên tệp đều 404); số liệu theo giáo trình Trung dược học. Cần đối chiếu lại.",
 "bach-hoa-xa-thiet-thao":"Không có bản quét chuyên luận trong Dược điển 2020 (một); nhiều khả năng vị này không có chuyên luận chính thức nên số liệu theo giáo trình/tiêu chuẩn địa phương.",
 };
 window.FIXED={
+"duong-kim-hoa":"ghi rõ dạng cuốn hút theo Dược điển (≤1,5 g/ngày, chỉ do thầy thuốc)",
 "hop-hoan-bi":"bỏ dòng ‘thai kỳ’ vì Dược điển không ghi",
 "thien-hoa-phan":"thai kỳ: ‘thận trọng’ (慎用) theo Dược điển",
 "tu-uyen":"tính ‘ấm (溫)’ theo Dược điển",

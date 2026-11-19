@@ -84,5 +84,17 @@ window.TOX={
 "xich-tieu-dau":{lv:"luu",lab:"KHÔNG NHẦM TƯƠNG TƯ TỬ",txt:"Xích tiểu đậu (Vigna) ăn được, khác hạt cườm đỏ có chấm đen Tương tư tử (Abrus precatorius) chứa abrin cực độc, có thể gây tử vong dù chỉ nhai vài hạt."},
 "thach-xuong-bo":{lv:"luu",lab:"β-ASARONE · KHÔNG NHẦM THỦY XƯƠNG BỒ",txt:"β-asarone có nguy cơ gây ung thư trên chuột liều cao kéo dài; không dùng liều cao hay dài ngày. Không nhầm với Thủy xương bồ (Acorus calamus) chứa nhiều β-asarone hơn."},
 "ma-tien-thao":{lv:"luu",lab:"THAI KỲ",txt:"Phụ nữ có thai thận trọng; tỳ vị hư hàn, tiêu chảy không dùng; liều cao gây buồn nôn."},
-"vuong-bat-luu-hanh":{lv:"luu",lab:"THAI KỲ",txt:"Kích thích co tử cung nhẹ: phụ nữ có thai thận trọng; người huyết hư, rong kinh không dùng."}
+"vuong-bat-luu-hanh":{lv:"luu",lab:"THAI KỲ",txt:"Kích thích co tử cung nhẹ: phụ nữ có thai thận trọng; người huyết hư, rong kinh không dùng."},
+"thao-o":{lv:"doc",lab:"ĐỘC MẠNH (大毒)",txt:"Chứa aconitine độc tim, độc thần kinh cực mạnh, vài miligam có thể gây tử vong. Tuyệt đối không dùng sống, không ngâm rượu uống. Chỉ dùng loại đã chế do thầy thuốc kê, sắc trước và lâu. Cấm khi có thai; kỵ Bán hạ, Qua lâu, Bối mẫu, Bạch liễm, Bạch cập, Thiên hoa phấn. Ngộ độc: tê môi lưỡi, buồn nôn, loạn nhịp tim — cấp cứu ngay."},
+"duong-kim-hoa":{lv:"doc",lab:"CÓ ĐỘC",txt:"Alkaloid tropane (scopolamine, hyoscyamine, atropine) gây khô miệng, giãn đồng tử, tim nhanh, lú lẫn, ảo giác, sốt, có thể hôn mê và ngưng thở. Chỉ do thầy thuốc kê, liều rất hẹp, vào hoàn tán; cấm khi có thai, glôcôm, cao huyết áp, tim nhanh; không tự dùng làm thuốc hút (Dược điển có dạng cuốn hút ≤1,5 g/ngày nhưng chỉ do thầy thuốc chỉ định); để xa tầm tay trẻ em."},
+"thanh-tuong-tu":{lv:"luu",lab:"GIÃN ĐỒNG TỬ · GLÔCÔM",txt:"Hạt có tác dụng giãn đồng tử: người bị glôcôm (tăng nhãn áp) không dùng. Tỳ vị hư hàn không dùng nhiều; phụ nữ có thai thận trọng."},
+"tram-huong":{lv:"luu",lab:"CITES · HÀNG GIẢ",txt:"Các loài Aquilaria thuộc Phụ lục II CITES: chỉ dùng nguồn hợp pháp. Nhiều hàng giả (gỗ tẩm hóa chất). Âm hư hỏa vượng không dùng."},
+"dan-huong":{lv:"luu",lab:"HÀNG GIẢ · ÂM HƯ",txt:"Nhiều hàng giả (gỗ tẩm tinh dầu). Âm hư hỏa vượng, đang chảy máu cam hoặc ho ra máu không dùng."},
+"moc-tac":{lv:"luu",lab:"THIẾU VITAMIN B1 NẾU DÙNG DÀI",txt:"Chứa thiaminase: dùng liều cao kéo dài có thể gây thiếu vitamin B1. Dùng ngắn ngày, đúng liều."},
+"bo-hoang":{lv:"luu",lab:"BỌC VẢI · THAI KỲ",txt:"Phải bọc vải khi sắc; sống kích thích co tử cung nên phụ nữ có thai thận trọng; sao than dùng cầm máu."},
+"le-chi-hach":{lv:"luu",lab:"HẠ ĐƯỜNG HUYẾT Ở TRẺ",txt:"Hạt vải chứa chất tương tự hypoglycin: không để trẻ nhỏ ăn hạt hoặc ăn nhiều vải lúc đói (nguy cơ hạ đường huyết, bệnh não cấp)."},
+"ho-lo-ba":{lv:"luu",lab:"THAI KỲ · THUỐC ĐÁI THÁO ĐƯỜNG",txt:"Phụ nữ có thai không dùng liều thuốc; có thể hạ đường huyết, tương tác với thuốc đái tháo đường, chống đông; có thể gây tiêu chảy, đầy hơi."},
+"hong-canh-thien":{lv:"luu",lab:"MẤT NGỦ · RỐI LOẠN LƯỠNG CỰC",txt:"Có thể gây mất ngủ, hồi hộp nếu dùng buổi tối hoặc liều cao; người rối loạn lưỡng cực, đang dùng thuốc chống trầm cảm hoặc ức chế miễn dịch cần hỏi thầy thuốc."},
+"ho-tieu":{lv:"luu",lab:"PIPERINE · TƯƠNG TÁC THUỐC",txt:"Piperine làm thay đổi chuyển hóa nhiều thuốc (phenytoin, propranolol, theophylline…). Ăn nhiều gây kích ứng dạ dày; trĩ chảy máu, viêm loét dạ dày không dùng nhiều."},
+"dai-hoi":{lv:"luu",lab:"KHÔNG NHẦM MÃNG THẢO",txt:"Illicium anisatum (Mãng thảo, Nhật) chứa anisatin độc thần kinh, từng bị trộn vào Đại hồi gây ngộ độc. Chỉ mua loại có xác định loài; Đại hồi thật có 8 cánh (thường 7–9)."}
 };

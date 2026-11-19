@@ -1216,5 +1216,145 @@ window.CREDITS={
   "artist": "Samuel Wong",
   "page": "https://commons.wikimedia.org/wiki/File:%E8%B5%A4%E5%B0%8F%E8%B1%86.jpg",
   "note": "Ảnh hạt Vigna umbellata (đúng dược liệu)"
+ },
+ "duong-kim-hoa": {
+  "file": "Datura_metel_Blanco1.34-cropped.jpg",
+  "lic": "Public domain",
+  "artist": "Francisco Manuel Blanco (hình vẽ)",
+  "page": "https://commons.wikimedia.org/wiki/File:Datura_metel_Blanco1.34-cropped.jpg",
+  "note": "Hình vẽ cổ Datura metel"
+ },
+ "hy-thiem": {
+  "file": "Sigesbeckia_orientalis_flowers_03.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Allthingsnative",
+  "page": "https://commons.wikimedia.org/wiki/File:Sigesbeckia_orientalis_flowers_03.jpg",
+  "note": ""
+ },
+ "lac-thach-dang": {
+  "file": "Trachelospermum_jasminoides1215878198.jpg",
+  "lic": "CC BY 2.0",
+  "artist": "Scott Zona",
+  "page": "https://commons.wikimedia.org/wiki/File:Trachelospermum_jasminoides1215878198.jpg",
+  "note": "Ảnh cây Trachelospermum jasminoides; phần dùng thuốc là thân cành mang lá"
+ },
+ "moc-tac": {
+  "file": "Rough_Horsetail_(Equisetum_hyemale)_-_Bærum,_Norway_2021-10-15.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Ryan Hodnett",
+  "page": "https://commons.wikimedia.org/wiki/File:Rough_Horsetail_%28Equisetum_hyemale%29_-_B%C3%A6rum%2C_Norway_2021-10-15.jpg",
+  "note": ""
+ },
+ "mat-mong-hoa": {
+  "file": "Buddleja_officinalis_with_Red_Admiral.jpg",
+  "lic": "CC0",
+  "artist": "Ptelea",
+  "page": "https://commons.wikimedia.org/wiki/File:Buddleja_officinalis_with_Red_Admiral.jpg",
+  "note": ""
+ },
+ "thanh-tuong-tu": {
+  "file": "Celosia_argentea_flowering_q1.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Quadell",
+  "page": "https://commons.wikimedia.org/wiki/File:Celosia_argentea_flowering_q1.jpg",
+  "note": "Ảnh cây Celosia argentea; phần dùng thuốc là hạt"
+ },
+ "gioi-bach": {
+  "file": "Allium_macrostemon_1.JPG",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Qwert1234",
+  "page": "https://commons.wikimedia.org/wiki/File:Allium_macrostemon_1.JPG",
+  "note": "Ảnh cây Allium macrostemon; phần dùng thuốc là thân hành"
+ },
+ "tram-huong": {
+  "file": "Agarwood top grade.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Hafizmuar",
+  "page": "https://commons.wikimedia.org/wiki/File:Agarwood_top_grade.jpg",
+  "note": "Ảnh gỗ trầm (agarwood) thương phẩm"
+ },
+ "dan-huong": {
+  "file": "Santalum_album_-_Köhler–s_Medizinal-Pflanzen-128.jpg",
+  "lic": "Public domain",
+  "artist": "Franz Eugen Köhler (hình vẽ)",
+  "page": "https://commons.wikimedia.org/wiki/File:Santalum_album_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-128.jpg",
+  "note": "Hình vẽ Santalum album; phần dùng thuốc là lõi gỗ"
+ },
+ "mai-khoi-hoa": {
+  "file": "Rosa_rugosa_Tokyo.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Qwert1234",
+  "page": "https://commons.wikimedia.org/wiki/File:Rosa_rugosa_Tokyo.JPG",
+  "note": "Ảnh hoa Rosa rugosa"
+ },
+ "le-chi-hach": {
+  "file": "Litchi_chinensis_fruits.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "B.navez",
+  "page": "https://commons.wikimedia.org/wiki/File:Litchi_chinensis_fruits.JPG",
+  "note": "Ảnh quả vải; phần dùng thuốc là hạt"
+ },
+ "bo-hoang": {
+  "file": "2014-06-22_Lesser_Bulrush,_Northumberland_1.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "MPF",
+  "page": "https://commons.wikimedia.org/wiki/File:2014-06-22_Lesser_Bulrush%2C_Northumberland_1.jpg",
+  "note": "Ảnh cây Typha angustifolia; phần dùng thuốc là phấn hoa"
+ },
+ "toa-duong": {
+  "file": "Dried suoyang slices.jpg",
+  "lic": "CC0",
+  "artist": "Fumikas Sagisavas",
+  "page": "https://commons.wikimedia.org/wiki/File:Dried_suoyang_slices.jpg",
+  "note": "Ảnh lát dược liệu Tỏa dương khô (đúng dược liệu)"
+ },
+ "ho-lo-ba": {
+  "file": "Illustration_Trigonella_foenum-graecum0_clean.jpg",
+  "lic": "Public domain",
+  "artist": "Otto Wilhelm Thomé (hình vẽ)",
+  "page": "https://commons.wikimedia.org/wiki/File:Illustration_Trigonella_foenum-graecum0_clean.jpg",
+  "note": "Hình vẽ Trigonella foenum-graecum; phần dùng thuốc là hạt"
+ },
+ "thao-qua": {
+  "file": "Lanxangia_tsao-ko_imported_from_iNaturalist_photo_111001922_on_29_January_2024.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Jan Vršovský (iNaturalist)",
+  "page": "https://commons.wikimedia.org/wiki/File:Lanxangia_tsao-ko_imported_from_iNaturalist_photo_111001922_on_29_January_2024.jpg",
+  "note": "Ảnh cây Lanxangia tsao-ko (= Amomum tsao-ko)"
+ },
+ "ho-tieu": {
+  "file": "Piper_nigrum_-_Köhler–s_Medizinal-Pflanzen-107.jpg",
+  "lic": "Public domain",
+  "artist": "Franz Eugen Köhler (hình vẽ)",
+  "page": "https://commons.wikimedia.org/wiki/File:Piper_nigrum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-107.jpg",
+  "note": ""
+ },
+ "dai-hoi": {
+  "file": "Illicium_verum_1zz.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "David J. Stang",
+  "page": "https://commons.wikimedia.org/wiki/File:Illicium_verum_1zz.jpg",
+  "note": ""
+ },
+ "thao-o": {
+  "file": "Aconitum kusnezoffii illustration de H.G.L. Reichenbach.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "H.G.L. Reichenbach (hình vẽ)",
+  "page": "https://commons.wikimedia.org/wiki/File:Aconitum_kusnezoffii_illustration_de_H.G.L._Reichenbach.jpg",
+  "note": "Hình vẽ cây Aconitum kusnezoffii; phần dùng thuốc là rễ củ"
+ },
+ "hong-canh-thien": {
+  "file": "Rhodiola rosea kz02.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Krzysztof Ziarnek, Kenraiz",
+  "page": "https://commons.wikimedia.org/wiki/File:Rhodiola_rosea_kz02.jpg",
+  "note": "Ảnh loài cùng chi Rhodiola rosea; Dược điển dùng Rhodiola crenulata"
+ },
+ "bach-dau-khau": {
+  "file": "Thai cardamom.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Susan Slater",
+  "page": "https://commons.wikimedia.org/wiki/File:Thai_cardamom.jpg",
+  "note": "Ảnh Amomum kravanh (Bạch đậu khấu Thái)"
  }
 };
