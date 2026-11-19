@@ -101,7 +101,7 @@ main.enter>*{animation:rise .55s cubic-bezier(.2,.8,.2,1) both}
 .lantern{position:absolute;top:6px;width:56px;height:82px;border-radius:44% 44% 40% 40%;background:radial-gradient(circle at 50% 40%,#ffe9a0,#f0902f 70%,#c4402a);box-shadow:0 0 30px 10px rgba(255,170,70,.5);animation:sway 5s ease-in-out infinite;transform-origin:50% -30px}
 .lantern::before{content:"";position:absolute;left:50%;top:-30px;width:1.5px;height:30px;background:var(--gold)}
 .lantern::after{content:"康";position:absolute;inset:0;display:grid;place-items:center;color:#6e1608;font:700 36px var(--serif);text-shadow:0 0 6px rgba(255,236,170,.9),0 0 2px rgba(255,240,190,1)}
-.lantern.l1{left:6%}.lantern.l2{right:6%;animation-delay:-2.2s;top:22px;transform:scale(.8)}
+.lantern.l1{left:6%}.lantern.l2{right:2.2%;animation-delay:-2.2s;top:22px;transform:scale(.8)}
 @keyframes sway{50%{transform:rotate(7deg)}}
 @media (max-width:640px){.lantern{display:none}}
 
@@ -420,3 +420,8 @@ main#app .heroTop .big,main#app .card,main#app .card *,main#app .today,main#app 
 
 /* chữ 天 trên đỉnh chòi đảo tiên */
 .isl-svg .pchar{font:700 44px var(--serif);fill:var(--roof);stroke:#fff;stroke-width:4.5px;paint-order:stroke fill;stroke-linejoin:round}
+/* chữ 光 (Quang) ở tâm mặt trời / trăng */
+.orb::after{content:"光";position:absolute;inset:0;display:grid;place-items:center;font:700 clamp(42px,7.4vw,92px) var(--serif);
+  color:#c2540e;text-shadow:0 0 10px rgba(255,248,214,.95),0 0 3px rgba(255,255,255,.9);line-height:1;pointer-events:none}
+:root[data-theme="dark"] .orb::after{color:#8a3f9b;text-shadow:0 0 10px rgba(255,244,250,.95),0 0 3px rgba(255,255,255,.9)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .orb::after{color:#8a3f9b;text-shadow:0 0 10px rgba(255,244,250,.95),0 0 3px rgba(255,255,255,.9)}}
