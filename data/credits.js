@@ -3330,5 +3330,250 @@ window.CREDITS={
   "artist": "Khoshhat",
   "page": "https://commons.wikimedia.org/wiki/File:Ferula_field1.jpg",
   "note": "Ảnh cánh đồng Ferula (cùng chi); phần dùng thuốc là nhựa"
+ },
+ "truc-tiet-sam": {
+  "file": "Panax japonicus (Montage s3).jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Alpsdake",
+  "page": "https://commons.wikimedia.org/wiki/File:Panax_japonicus_(Montage_s3).jpg",
+  "note": "Ảnh Panax japonicus; phần dùng thuốc là thân rễ"
+ },
+ "chau-tu-sam": {
+  "file": "Panax japonicus (Montage s3).jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Alpsdake",
+  "page": "https://commons.wikimedia.org/wiki/File:Panax_japonicus_(Montage_s3).jpg",
+  "note": "Ảnh Panax japonicus; phần dùng thuốc là thân rễ dạng hạt"
+ },
+ "khai-dang-tu": {
+  "file": "Entada phaseoloides MHNT.BOT.2007.26.55.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Didier Descouens",
+  "page": "https://commons.wikimedia.org/wiki/File:Entada_phaseoloides_MHNT.BOT.2007.26.55.jpg",
+  "note": "Ảnh quả đậu; phần dùng thuốc là hạt"
+ },
+ "hac-chung-thao-tu": {
+  "file": "Nsativa001Wien.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "AndreHolz at English Wikipedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Nsativa001Wien.jpg",
+  "note": "Ảnh hoa Nigella sativa (cùng chi); phần dùng thuốc là hạt"
+ },
+ "nhuy-nhan": {
+  "file": "Prinsepia uniflora a1.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Jerzy Opioła",
+  "page": "https://commons.wikimedia.org/wiki/File:Prinsepia_uniflora_a1.jpg",
+  "note": "Ảnh hoa; phần dùng thuốc là nhân hạt"
+ },
+ "duc-thu-thao": {
+  "file": "Scabiosa hookeri 144-8774.jpg",
+  "lic": "Public domain",
+  "artist": "M.S. del., J.N.Fitch lith.",
+  "page": "https://commons.wikimedia.org/wiki/File:Scabiosa_hookeri_144-8774.jpg",
+  "note": "Tranh thực vật Scabiosa hookeri (tên đồng nghĩa)"
+ },
+ "tich-minh": {
+  "file": "Thlaspi arvense.jpeg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Kristian Peters -- Fabelfroh 07:58, 7 September 2006 (UTC)",
+  "page": "https://commons.wikimedia.org/wiki/File:Thlaspi_arvense.jpeg",
+  "note": "Ảnh cây; phần dùng thuốc là phần trên mặt đất"
+ },
+ "thuy-phi-ke": {
+  "file": "Silybum marianum (1).JPG",
+  "lic": "CC BY 3.0",
+  "artist": "Chmee2",
+  "page": "https://commons.wikimedia.org/wiki/File:Silybum_marianum_(1).JPG",
+  "note": "Ảnh hoa; phần dùng thuốc là quả"
+ },
+ "cuc-cu": {
+  "file": "Illustration Cichorium intybus0 clean.jpg",
+  "lic": "Public domain",
+  "artist": "Original book source: Prof. Dr. Otto Wilhelm Thomé Flora von Deutschland, Österreich und der Schweiz",
+  "page": "https://commons.wikimedia.org/wiki/File:Illustration_Cichorium_intybus0_clean.jpg",
+  "note": "Tranh thực vật; phần dùng thuốc là phần trên mặt đất và rễ"
+ },
+ "tam-bach-thao": {
+  "file": "Saururus chinensis (4749142278).jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "石川 Shihchuan from 台北市 (Taipei City), 台灣 (Taiwan)",
+  "page": "https://commons.wikimedia.org/wiki/File:Saururus_chinensis_(4749142278).jpg",
+  "note": "Ảnh cây; phần dùng thuốc là phần trên mặt đất"
+ },
+ "hat-lanh": {
+  "file": "Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 16) BHL303594.jpg",
+  "lic": "Public domain",
+  "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max.",
+  "page": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_16)_BHL303594.jpg",
+  "note": "Tranh thực vật; phần dùng thuốc là hạt"
+ },
+ "qua-tu-kim": {
+  "file": "Polygala japonica 12.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Qwert1234",
+  "page": "https://commons.wikimedia.org/wiki/File:Polygala_japonica_12.JPG",
+  "note": "Ảnh hoa; phần dùng thuốc là toàn cây"
+ },
+ "da-ma-truy": {
+  "file": "Eupatorium lindleyanum (21922425868).jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "harum.koh from Kobe city, Japan",
+  "page": "https://commons.wikimedia.org/wiki/File:Eupatorium_lindleyanum_(21922425868).jpg",
+  "note": "Ảnh quần thể cây; phần dùng thuốc là phần trên mặt đất"
+ },
+ "bao-ma-tu-bi": {
+  "file": "Syringa reticulata USDA1.jpg",
+  "lic": "Public domain",
+  "artist": "Herman, D. E., et al. (1996). North Dakota tree handbook.",
+  "page": "https://commons.wikimedia.org/wiki/File:Syringa_reticulata_USDA1.jpg",
+  "note": "Ảnh Syringa reticulata (cây gần); phần dùng thuốc là vỏ thân"
+ },
+ "thien-truc-hoang": {
+  "file": "Starr 070906-8504 Bambusa textilis.jpg",
+  "lic": "CC BY 3.0",
+  "artist": "Forest & Kim Starr",
+  "page": "https://commons.wikimedia.org/wiki/File:Starr_070906-8504_Bambusa_textilis.jpg",
+  "note": "Ảnh Bambusa textilis; phần dùng thuốc là dịch tiết khô trong thân tre"
+ },
+ "tri-chu-huong": {
+  "file": "Valeriana jatamansi - Kunming Botanical Garden - DSC03047.JPG",
+  "lic": "Public domain",
+  "artist": "Daderot",
+  "page": "https://commons.wikimedia.org/wiki/File:Valeriana_jatamansi_-_Kunming_Botanical_Garden_-_DSC03047.JPG",
+  "note": "Ảnh cây; phần dùng thuốc là rễ và thân rễ"
+ },
+ "ngai-phien": {
+  "file": "Blumea balsamifera Blanco2.403-cropped.jpg",
+  "lic": "Public domain",
+  "artist": "Francisco Manuel Blanco (O.S.A.)",
+  "page": "https://commons.wikimedia.org/wiki/File:Blumea_balsamifera_Blanco2.403-cropped.jpg",
+  "note": "Tranh thực vật; phần dùng thuốc là tinh thể chiết từ lá"
+ },
+ "thien-nhien-bang-phien": {
+  "file": "Cinnamomum camphora20050314.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Cinnamomum_camphora20050314.jpg",
+  "note": "Ảnh cây long não; phần dùng thuốc là tinh thể chiết từ cây"
+ },
+ "xu-linh-dan-thao": {
+  "file": "Laggera alata, Paithalmala.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Nativeplants garden",
+  "page": "https://commons.wikimedia.org/wiki/File:Laggera_alata,_Paithalmala.jpg",
+  "note": "Ảnh Laggera alata (cùng chi); phần dùng thuốc là phần trên mặt đất"
+ },
+ "ba-dau-suong": {
+  "file": "Croton tiglium - Köhler–s Medizinal-Pflanzen-197.jpg",
+  "lic": "Public domain",
+  "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "page": "https://commons.wikimedia.org/wiki/File:Croton_tiglium_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-197.jpg",
+  "note": "Dùng chung ảnh với vị gốc (ba-dau); đây là dạng chế hoặc bộ phận khác của cùng loài"
+ },
+ "thien-kim-tu-suong": {
+  "file": "Euphorbia lathyris Sturm33.jpg",
+  "lic": "Public domain",
+  "artist": "Johann Georg Sturm (Painter: Jacob Sturm)",
+  "page": "https://commons.wikimedia.org/wiki/File:Euphorbia_lathyris_Sturm33.jpg",
+  "note": "Dùng chung ảnh với vị gốc (thien-kim-tu); đây là dạng chế hoặc bộ phận khác của cùng loài"
+ },
+ "che-xuyen-o": {
+  "file": "Aconitum_carmichaelli_'arendsii'_27-10-2005_16.09.36.JPG",
+  "lic": "CC BY 2.5",
+  "artist": "TeunSpaans (giả định)",
+  "page": "https://commons.wikimedia.org/wiki/File:Aconitum_carmichaelli_%27arendsii%27_27-10-2005_16.09.36.JPG",
+  "note": "Dùng chung ảnh với vị gốc (xuyen-o); đây là dạng chế hoặc bộ phận khác của cùng loài"
+ },
+ "che-thao-o": {
+  "file": "Aconitum kusnezoffii illustration de H.G.L. Reichenbach.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "H.G.L. Reichenbach (hình vẽ)",
+  "page": "https://commons.wikimedia.org/wiki/File:Aconitum_kusnezoffii_illustration_de_H.G.L._Reichenbach.jpg",
+  "note": "Dùng chung ảnh với vị gốc (thao-o); đây là dạng chế hoặc bộ phận khác của cùng loài"
+ },
+ "thao-o-diep": {
+  "file": "Aconitum kusnezoffii illustration de H.G.L. Reichenbach.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "H.G.L. Reichenbach (hình vẽ)",
+  "page": "https://commons.wikimedia.org/wiki/File:Aconitum_kusnezoffii_illustration_de_H.G.L._Reichenbach.jpg",
+  "note": "Dùng chung ảnh với vị gốc (thao-o); đây là dạng chế hoặc bộ phận khác của cùng loài"
+ },
+ "dai-ke-than": {
+  "file": "Flower_of_Japanese_thistle_01.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "小石川人晃",
+  "page": "https://commons.wikimedia.org/wiki/File:Flower_of_Japanese_thistle_01.jpg",
+  "note": "Dùng chung ảnh với vị gốc (dai-ke); đây là dạng chế hoặc bộ phận khác của cùng loài"
+ },
+ "kinh-gioi-than": {
+  "file": "Schizonepeta_multifida_1.jpg",
+  "lic": "CC BY 2.5",
+  "artist": "Doronenko",
+  "page": "https://commons.wikimedia.org/wiki/File:Schizonepeta_multifida_1.jpg",
+  "note": "Dùng chung ảnh với vị gốc (kinh-gioi); đây là dạng chế hoặc bộ phận khác của cùng loài"
+ },
+ "kinh-gioi-tuy-than": {
+  "file": "Schizonepeta multifida 1.jpg",
+  "lic": "CC BY 2.5",
+  "artist": "Doronenko",
+  "page": "https://commons.wikimedia.org/wiki/File:Schizonepeta_multifida_1.jpg",
+  "note": "Dùng chung ảnh với vị gốc (kinh-gioi-tuy); đây là dạng chế hoặc bộ phận khác của cùng loài"
+ },
+ "che-thien-nam-tinh": {
+  "file": "Arisaema_erubescens_Arizema_2019-06-09_14.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Agnieszka Kwiecień",
+  "page": "https://commons.wikimedia.org/wiki/File:Arisaema_erubescens_Arizema_2019-06-09_14.jpg",
+  "note": "Dùng chung ảnh với vị gốc (thien-nam-tinh); đây là dạng chế hoặc bộ phận khác của cùng loài"
+ },
+ "dam-nam-tinh": {
+  "file": "Arisaema_erubescens_Arizema_2019-06-09_14.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Agnieszka Kwiecień",
+  "page": "https://commons.wikimedia.org/wiki/File:Arisaema_erubescens_Arizema_2019-06-09_14.jpg",
+  "note": "Dùng chung ảnh với vị gốc (thien-nam-tinh); đây là dạng chế hoặc bộ phận khác của cùng loài"
+ },
+ "phap-ban-ha": {
+  "file": "Pinellia ternata total.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Sun Jiao (Interaccoonale)",
+  "page": "https://commons.wikimedia.org/wiki/File:Pinellia_ternata_total.jpg",
+  "note": "Dùng chung ảnh với vị gốc (ban-ha); đây là dạng chế hoặc bộ phận khác của cùng loài"
+ },
+ "khuong-ban-ha": {
+  "file": "Pinellia ternata total.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Sun Jiao (Interaccoonale)",
+  "page": "https://commons.wikimedia.org/wiki/File:Pinellia_ternata_total.jpg",
+  "note": "Dùng chung ảnh với vị gốc (ban-ha); đây là dạng chế hoặc bộ phận khác của cùng loài"
+ },
+ "thanh-ban-ha": {
+  "file": "Pinellia ternata total.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Sun Jiao (Interaccoonale)",
+  "page": "https://commons.wikimedia.org/wiki/File:Pinellia_ternata_total.jpg",
+  "note": "Dùng chung ảnh với vị gốc (ban-ha); đây là dạng chế hoặc bộ phận khác của cùng loài"
+ },
+ "chich-cam-thao": {
+  "file": "Glycyrrhizauralensis.jpg",
+  "lic": "Public domain",
+  "artist": "Stickpen",
+  "page": "https://commons.wikimedia.org/wiki/File:Glycyrrhizauralensis.jpg",
+  "note": "Dùng chung ảnh với vị gốc (cam-thao); đây là dạng chế hoặc bộ phận khác của cùng loài"
+ },
+ "ma-tien-tu-phan": {
+  "file": "Strychnos_nux-vomica_-_Köhler–s_Medizinal-Pflanzen-266.jpg",
+  "lic": "Public domain",
+  "artist": "Franz Eugen Köhler (hình vẽ)",
+  "page": "https://commons.wikimedia.org/wiki/File:Strychnos_nux-vomica_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-266.jpg",
+  "note": "Dùng chung ảnh với vị gốc (ma-tien-tu); đây là dạng chế hoặc bộ phận khác của cùng loài"
+ },
+ "vu-son-dam-duong-hoac": {
+  "file": "淫羊藿 Epimedium brevicornu -比利時 Ghent University Botanical Garden, Belgium- (9227116763).jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "阿橋 HQ",
+  "page": "https://commons.wikimedia.org/wiki/File:%E6%B7%AB%E7%BE%8A%E8%97%BF_Epimedium_brevicornu_-%E6%AF%94%E5%88%A9%E6%99%82_Ghent_University_Botanical_Garden,_Belgium-_(9227116763).jpg",
+  "note": "Dùng chung ảnh với vị gốc (dam-duong-hoac); đây là dạng chế hoặc bộ phận khác của cùng loài"
  }
 };
