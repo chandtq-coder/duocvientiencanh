@@ -113,7 +113,7 @@ function renderDetail(id){
    '<div class="vn"><dt>Chữ Việt (Hán Việt)</dt><dd>'+esc(h.vi)+'</dd></div></dl>'+
    '<div class="tags"><span class="tag '+tc+'">'+esc(h.tinh.split(".")[0].split(";")[0])+'</span><span class="tag plain">Vị: '+esc(h.vj)+'</span><span class="tag plain">'+esc(GNAME[h.g]||"")+'</span>'+
    '<button class="chip" data-fav="'+h.id+'" aria-pressed="'+(!!favs[h.id])+'">'+(favs[h.id]?"♥ Đã lưu":"♡ Lưu")+'</button></div>'+
-   (TOX[h.id]?'<div class="toxic toxic-'+TOX[h.id].lv+'" role="note"><b>'+TOXICON[TOX[h.id].lv]+' '+TOXLBL[TOX[h.id].lv]+' — '+esc(TOX[h.id].lab)+'</b><br>'+esc(TOX[h.id].txt)+'</div>':'<div class="toxic toxic-ok">Không có cảnh báo độc tính riêng ở liều thông thường, nhưng vẫn cần tuân liều và hỏi thầy thuốc khi có bệnh nền, có thai, hay đang dùng thuốc.</div>')+
+   (TOX[h.id]?'<div class="toxic toxic-'+TOX[h.id].lv+'" role="note"><b>'+TOXICON[TOX[h.id].lv]+' '+(TOX[h.id].lab.indexOf(TOXLBL[TOX[h.id].lv])===0?'':TOXLBL[TOX[h.id].lv]+' — ')+esc(TOX[h.id].lab)+'</b><br>'+esc(TOX[h.id].txt)+'</div>':'<div class="toxic toxic-ok">Không có cảnh báo độc tính riêng ở liều thông thường, nhưng vẫn cần tuân liều và hỏi thầy thuốc khi có bệnh nền, có thai, hay đang dùng thuốc.</div>')+
    '</div></div>'+
    '<dl class="meta">'+
    '<div><dt>Tên khoa học</dt><dd><i>'+esc(h.la)+'</i></dd></div>'+
