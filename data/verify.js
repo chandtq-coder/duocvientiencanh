@@ -2,6 +2,13 @@
    Chỉ đối chiếu: loài gốc, tính, vị, quy kinh, liều, cách dùng đặc biệt, nhãn độc, câu kiêng kỵ. Chưa đối chiếu với sách in. */
 window.VERIFY_SRC="Dược điển Trung Quốc 2020 (một)";
 window.UNVERIFIED={
+"hai-dong-bi":"Không tìm thấy chuyên luận Hải đồng bì trong bản quét Dược điển 2020 (HTTP 404, đã thử thêm tên khác một lần); nội dung theo giáo trình/y văn, cần đối chiếu nguồn khác. Cần đối chiếu lại.",
+"to-su-ma":"Không tìm thấy chuyên luận Tổ sư ma trong bản quét Dược điển 2020 (HTTP 404, đã thử thêm một tên khác); nội dung theo y văn/tiêu chuẩn địa phương, cần đối chiếu. Cần đối chiếu lại.",
+"dang-trac-te-tan":"Không có PDF tên 灯盏细辛 (HTTP 404) và biến thể 灯盏花 cũng 404; các trường 来源/性味/用量 theo y văn, chưa đối chiếu được bản quét. Cần đối chiếu lại.",
+"luu-ky-no":"Không có PDF tên 刘寄奴 (HTTP 404; biến thể 劉寄奴 hết thời gian chờ), không đối chiếu được bản quét; các trường 性味/用量 theo y văn. Cần đối chiếu lại.",
+"thiet-bi-thach-hoc":"Hai lần 404 trên kho PDF Dược điển 2020 (铁皮石斛 và 铁皮石斛(铁皮枫斗)); phần tính vị, liều, nguồn gốc ghi theo trí nhớ giáo trình, chưa đối chiếu được bản quét, cần kiểm lại. Cần đối chiếu lại.",
+"dang-hoang":"Không tìm thấy tệp quét Dược điển 2020 (HTTP 404 cho cả bản giản thể 藤黄 và phồn thể 藤黃); thông tin theo y văn, chưa đối chiếu Dược điển. Cần đối chiếu lại.",
+"hong-dai-kich":"Không tìm thấy tệp quét Dược điển 2020 (HTTP 404 cho 红大戟; biến thể 紅大戟 một lần timeout, một lần 404); thông tin theo y văn và giáo trình, chưa đối chiếu Dược điển. Cần đối chiếu lại.",
 "cat-hoa":"Không có chuyên luận Cát hoa trong bản quét Dược điển 2020 (URL 葛花.pdf trả về 404); số liệu về tính vị, quy kinh, liều theo giáo trình/y văn, cần đối chiếu lại. Cần đối chiếu lại.",
 "dien-co-hoang":"Không có chuyên luận Điền cơ hoàng trong bản quét Dược điển 2020 (田基黄.pdf và 地耳草.pdf đều 404); tính vị, quy kinh, liều theo giáo trình/y văn nên ghi chưa thống nhất, cần đối chiếu lại. Cần đối chiếu lại.",
 "bai-tuong":"Không tìm thấy bản quét chuyên luận Bại tương trong kho Dược điển 2020 (cả tên 败酱草 và 败酱 đều 404; Dược điển 2020 mục một có vẻ không thu nhận). Số liệu tính vị, quy kinh, liều lấy theo giáo trình Trung dược học, cần đối chiếu sách in. Cần đối chiếu lại.",

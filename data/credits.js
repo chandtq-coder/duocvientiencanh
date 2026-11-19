@@ -2329,5 +2329,691 @@ window.CREDITS={
   "artist": "Vengolis",
   "page": "https://commons.wikimedia.org/wiki/File:Abrus_precatorius_8354.jpg",
   "note": "Ảnh Abrus precatorius (cùng chi)"
+ },
+ "cao-bon": {
+  "file": "Ligusticum sinense 'Chuanxiong' slices.jpg",
+  "lic": "CC0",
+  "artist": "Fumikas Sagisavas",
+  "page": "https://commons.wikimedia.org/wiki/File:Ligusticum_sinense_%27Chuanxiong%27_slices.jpg",
+  "note": "Ảnh dược liệu khô"
+ },
+ "kinh-gioi-tuy": {
+  "file": "Schizonepeta multifida 1.jpg",
+  "lic": "CC BY 2.5",
+  "artist": "Doronenko",
+  "page": "https://commons.wikimedia.org/wiki/File:Schizonepeta_multifida_1.jpg",
+  "note": ""
+ },
+ "tay-ha-lieu": {
+  "file": "Tamarix chinensis 03.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Dalgial",
+  "page": "https://commons.wikimedia.org/wiki/File:Tamarix_chinensis_03.JPG",
+  "note": "Ảnh cây; phần dùng thuốc là cành"
+ },
+ "te-tan": {
+  "file": "Asarum heterotropoides 2.JPG",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Qwert1234",
+  "page": "https://commons.wikimedia.org/wiki/File:Asarum_heterotropoides_2.JPG",
+  "note": ""
+ },
+ "tu-to-canh": {
+  "file": "Perilla frutescens frutescens 732814283.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "Alex Abair",
+  "page": "https://commons.wikimedia.org/wiki/File:Perilla_frutescens_frutescens_732814283.jpg",
+  "note": ""
+ },
+ "thien-quy-tu": {
+  "file": "Semiaquilegia adoxoides a4.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Alpsdake",
+  "page": "https://commons.wikimedia.org/wiki/File:Semiaquilegia_adoxoides_a4.JPG",
+  "note": ""
+ },
+ "cong-lao-moc": {
+  "file": "(MHNT) Berberis bealei - Infructescence - Boileau, Bouloc, France.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Didier Descouens",
+  "page": "https://commons.wikimedia.org/wiki/File:(MHNT)_Berberis_bealei_-_Infructescence_-_Boileau,_Bouloc,_France.jpg",
+  "note": ""
+ },
+ "nhan-dong-dang": {
+  "file": "Honeysuckle-2.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Aftabbanoori",
+  "page": "https://commons.wikimedia.org/wiki/File:Honeysuckle-2.jpg",
+  "note": ""
+ },
+ "bac-dau-can": {
+  "file": "Menispermum dauricum leaves.jpg",
+  "lic": "Public domain",
+  "artist": "Borealis55",
+  "page": "https://commons.wikimedia.org/wiki/File:Menispermum_dauricum_leaves.jpg",
+  "note": ""
+ },
+ "quan-hoang-ba": {
+  "file": "Phellodendron amurense Morton.jpg",
+  "lic": "CC BY 3.0",
+  "artist": "Bruce Marlin",
+  "page": "https://commons.wikimedia.org/wiki/File:Phellodendron_amurense_Morton.jpg",
+  "note": ""
+ },
+ "kho-moc": {
+  "file": "Picrasma quassioides .jpg",
+  "lic": "CC BY-SA 2.5",
+  "artist": "Bruce Marlin",
+  "page": "https://commons.wikimedia.org/wiki/File:Picrasma_quassioides_.jpg",
+  "note": ""
+ },
+ "dam-dau-xi": {
+  "file": "Soybean.USDA.jpg",
+  "lic": "Public domain",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Soybean.USDA.jpg",
+  "note": ""
+ },
+ "thung-tiet-phong": {
+  "file": "Sarcandra glabra1.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "KENPEI",
+  "page": "https://commons.wikimedia.org/wiki/File:Sarcandra_glabra1.jpg",
+  "note": ""
+ },
+ "phuc-linh-bi": {
+  "file": "Tuckahoe.jpg",
+  "lic": "Public domain",
+  "artist": "Trappem at English Wikipedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Tuckahoe.jpg",
+  "note": "Ảnh hạch nấm phục linh"
+ },
+ "thong-thao": {
+  "file": "Rice Paper Plant-Fitch.jpg",
+  "lic": "Public domain",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Rice_Paper_Plant-Fitch.jpg",
+  "note": "Tranh thực vật; phần dùng thuốc là lõi thân"
+ },
+ "thach-vi": {
+  "file": "PyrrosiaLingua.jpg",
+  "lic": "Public domain",
+  "artist": "Chhe (talk)",
+  "page": "https://commons.wikimedia.org/wiki/File:PyrrosiaLingua.jpg",
+  "note": ""
+ },
+ "xa-tien-thao": {
+  "file": "Plantago asiatica.jpg",
+  "lic": "CC BY 3.0",
+  "artist": "Shizhao",
+  "page": "https://commons.wikimedia.org/wiki/File:Plantago_asiatica.jpg",
+  "note": ""
+ },
+ "dong-quy-qua": {
+  "file": "Malva verticillata (USDA).jpg",
+  "lic": "Public domain",
+  "artist": "Nathaniel Lord Britton (1859-1934), and A. Brown",
+  "page": "https://commons.wikimedia.org/wiki/File:Malva_verticillata_(USDA).jpg",
+  "note": "Tranh vẽ nét cây"
+ },
+ "lieu-dai-thanh-diep": {
+  "file": "Persicaria tinctoria bergianska.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Udo Schröter",
+  "page": "https://commons.wikimedia.org/wiki/File:Persicaria_tinctoria_bergianska.JPG",
+  "note": ""
+ },
+ "bat-khiet": {
+  "file": "Smilax china (Montage s3).jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Alpsdake",
+  "page": "https://commons.wikimedia.org/wiki/File:Smilax_china_(Montage_s3).jpg",
+  "note": ""
+ },
+ "hai-dong-bi": {
+  "file": "Indian coral tree Munnar Kerala Erythrina variegata.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Sanu N",
+  "page": "https://commons.wikimedia.org/wiki/File:Indian_coral_tree_Munnar_Kerala_Erythrina_variegata.jpg",
+  "note": ""
+ },
+ "du-tung-tiet": {
+  "file": "PinusTabulaeformis4.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Taken by  Fanghong",
+  "page": "https://commons.wikimedia.org/wiki/File:PinusTabulaeformis4.jpg",
+  "note": "Ảnh cây; phần dùng thuốc là mắt gỗ"
+ },
+ "ty-qua-lac": {
+  "file": "Luffa aegyptiaca compose.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Uploaded by User:Tomas nevado (right photo), Jerry Crimson Mann (upper left photo), Rik Schuiling / ",
+  "page": "https://commons.wikimedia.org/wiki/File:Luffa_aegyptiaca_compose.jpg",
+  "note": "Ảnh mướp; phần dùng thuốc là xơ mướp"
+ },
+ "nao-duong-hoa": {
+  "file": "Chinese Azalea - Flickr - treegrow.jpg",
+  "lic": "CC BY 2.0",
+  "artist": "Katja Schulz from Washington, D. C., USA",
+  "page": "https://commons.wikimedia.org/wiki/File:Chinese_Azalea_-_Flickr_-_treegrow.jpg",
+  "note": ""
+ },
+ "to-su-ma": {
+  "file": "Daphne giraldii 02.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Averater",
+  "page": "https://commons.wikimedia.org/wiki/File:Daphne_giraldii_02.jpg",
+  "note": ""
+ },
+ "luong-dien-cham": {
+  "file": "Zanthoxylum nitidum.jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "石川 Shihchuan on Flickr",
+  "page": "https://commons.wikimedia.org/wiki/File:Zanthoxylum_nitidum.jpg",
+  "note": ""
+ },
+ "cuu-ly-huong": {
+  "file": "Murraya paniculata 05.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Michael Wolf",
+  "page": "https://commons.wikimedia.org/wiki/File:Murraya_paniculata_05.jpg",
+  "note": ""
+ },
+ "dia-phong-bi": {
+  "file": "Young Illicium difengpi.webp",
+  "lic": "CC BY 4.0",
+  "artist": "Chao Wu, Huiling Liang, Beibei Qi, Baoyu Liu, Manlian Wang, Hui Tang, Dianpeng Li, Shah Fahad",
+  "page": "https://commons.wikimedia.org/wiki/File:Young_Illicium_difengpi.webp",
+  "note": ""
+ },
+ "luong-dau-tiem": {
+  "file": "Anemone raddeana 1.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Qwert1234",
+  "page": "https://commons.wikimedia.org/wiki/File:Anemone_raddeana_1.JPG",
+  "note": ""
+ },
+ "man-son-hong": {
+  "file": "Rhododendron dauricum Dahurianalppiruusu IM7354 C.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Anneli Salo",
+  "page": "https://commons.wikimedia.org/wiki/File:Rhododendron_dauricum_Dahurianalppiruusu_IM7354_C.JPG",
+  "note": ""
+ },
+ "anh-tuc-xac": {
+  "file": "Papaver somniferum flowers.jpg",
+  "lic": "CC BY 2.0",
+  "artist": "tanja niggendijker from apeldoorn, the netherlands",
+  "page": "https://commons.wikimedia.org/wiki/File:Papaver_somniferum_flowers.jpg",
+  "note": "Ảnh hoa; phần dùng thuốc là vỏ quả"
+ },
+ "con-bo": {
+  "file": "Dasima 2.jpg",
+  "lic": "CC0",
+  "artist": "freddy an",
+  "page": "https://commons.wikimedia.org/wiki/File:Dasima_2.jpg",
+  "note": "Ảnh tảo khô"
+ },
+ "hoa-quat-hong": {
+  "file": "Pomelo fruit.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Ivar Leidus",
+  "page": "https://commons.wikimedia.org/wiki/File:Pomelo_fruit.jpg",
+  "note": "Ảnh quả; phần dùng thuốc là vỏ quả"
+ },
+ "ai-dia-tra": {
+  "file": "Ardisia japonica 01.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Hamachidori",
+  "page": "https://commons.wikimedia.org/wiki/File:Ardisia_japonica_01.jpg",
+  "note": ""
+ },
+ "cam-tung": {
+  "file": "Nardostachys grandiflora.jpg",
+  "lic": "Public domain",
+  "artist": "Joseph Dalton Hooker (1817-1911)",
+  "page": "https://commons.wikimedia.org/wiki/File:Nardostachys_grandiflora.jpg",
+  "note": "Tranh thực vật"
+ },
+ "dao-dau": {
+  "file": "Canavalia gladiata2.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "KENPEI",
+  "page": "https://commons.wikimedia.org/wiki/File:Canavalia_gladiata2.jpg",
+  "note": ""
+ },
+ "sa-la-tu": {
+  "file": "AesculusChinensisLeaf.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:AesculusChinensisLeaf.jpg",
+  "note": ""
+ },
+ "dao-nha": {
+  "file": "Mature Rice (India) by Augustus Binu.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Augustus Binu : flickr : Instagram",
+  "page": "https://commons.wikimedia.org/wiki/File:Mature_Rice_(India)_by_Augustus_Binu.jpg",
+  "note": "Ảnh lúa; phần dùng thuốc là mầm hạt"
+ },
+ "son-tra-diep": {
+  "file": "HawthornFruit.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Yongxinge",
+  "page": "https://commons.wikimedia.org/wiki/File:HawthornFruit.JPG",
+  "note": ""
+ },
+ "hoe-giac": {
+  "file": "Sophora japonica JPG2Aa.jpg",
+  "lic": "CC BY 3.0",
+  "artist": "Jean-Pol GRANDMONT",
+  "page": "https://commons.wikimedia.org/wiki/File:Sophora_japonica_JPG2Aa.jpg",
+  "note": ""
+ },
+ "tu-chau-diep": {
+  "file": "Callicarpa pedunculata fruits.jpg",
+  "lic": "CC BY 2.0",
+  "artist": "Tatiana Gerus",
+  "page": "https://commons.wikimedia.org/wiki/File:Callicarpa_pedunculata_fruits.jpg",
+  "note": ""
+ },
+ "dang-trac-te-tan": {
+  "file": "Erigeron breviscapus.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "Jing Yang, Guanghui Zhang, Jing Zhang, Hui Liu, Wei Chen, Xiao Wang, Yahe Li, Yang Dong, Shengchao Y",
+  "page": "https://commons.wikimedia.org/wiki/File:Erigeron_breviscapus.jpg",
+  "note": ""
+ },
+ "ngau-tiet": {
+  "file": "Sacred lotus Nelumbo nucifera.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "T.Voekler",
+  "page": "https://commons.wikimedia.org/wiki/File:Sacred_lotus_Nelumbo_nucifera.jpg",
+  "note": "Ảnh hoa sen; phần dùng thuốc là đốt ngó sen"
+ },
+ "ke-quan-hoa": {
+  "file": "03092jfCelosia argentea var. cristata Bulacanfvf 02.jpg",
+  "lic": "CC0",
+  "artist": "Judgefloro",
+  "page": "https://commons.wikimedia.org/wiki/File:03092jfCelosia_argentea_var._cristata_Bulacanfvf_02.jpg",
+  "note": ""
+ },
+ "tam-lang": {
+  "file": "Sparganium simplex hoffm ag1.jpg",
+  "lic": "Public domain",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Sparganium_simplex_hoffm_ag1.jpg",
+  "note": "Tranh thực vật"
+ },
+ "luu-ky-no": {
+  "file": "Artemisia vulgaris RF.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "Robert Flogaus-Faust",
+  "page": "https://commons.wikimedia.org/wiki/File:Artemisia_vulgaris_RF.jpg",
+  "note": "Ảnh Artemisia vulgaris (cùng chi)"
+ },
+ "phong-huong-chi": {
+  "file": "Liquidambar formosana 01.jpg",
+  "lic": "Public domain",
+  "artist": "Yoiyoi_kancho",
+  "page": "https://commons.wikimedia.org/wiki/File:Liquidambar_formosana_01.jpg",
+  "note": ""
+ },
+ "hong-sam": {
+  "file": "Ginsengpflanze.jpg",
+  "lic": "CC BY 3.0",
+  "artist": "FloraFarm GmbH / Katharina Lohrie",
+  "page": "https://commons.wikimedia.org/wiki/File:Ginsengpflanze.jpg",
+  "note": "Ảnh cây nhân sâm tươi"
+ },
+ "do-trong-diep": {
+  "file": "Eucommia-ulmoides.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Sten Porse",
+  "page": "https://commons.wikimedia.org/wiki/File:Eucommia-ulmoides.JPG",
+  "note": ""
+ },
+ "thiet-bi-thach-hoc": {
+  "file": "Dendrobium officinale (colored stem type) Kimura & Migo, J. Shanghai Sci. Inst. 3 122 (1936), nom. cons (46810867685).jpg",
+  "lic": "CC BY 2.0",
+  "artist": "sunoochi from Sapporo, Hokkaido, Japan",
+  "page": "https://commons.wikimedia.org/wiki/File:Dendrobium_officinale_(colored_stem_type)_Kimura_%26_Migo,_J._Shanghai_Sci._Inst._3_122_(1936),_nom._cons_(46810867685).jpg",
+  "note": ""
+ },
+ "thuc-dia-hoang": {
+  "file": "Rehmannia.JPG",
+  "lic": "CC BY 2.5",
+  "artist": "Shizhao",
+  "page": "https://commons.wikimedia.org/wiki/File:Rehmannia.JPG",
+  "note": ""
+ },
+ "son-mach-mon-dong": {
+  "file": "Liriope spicata 2016-07-23 04.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Agnieszka Kwiecień, Nova",
+  "page": "https://commons.wikimedia.org/wiki/File:Liriope_spicata_2016-07-23_04.jpg",
+  "note": ""
+ },
+ "xuan-bi": {
+  "file": "Götterbaum (Ailanthus altissima).jpg",
+  "lic": "CC BY-SA 2.5",
+  "artist": "Darkone (talk · contribs)",
+  "page": "https://commons.wikimedia.org/wiki/File:G%C3%B6tterbaum_(Ailanthus_altissima).jpg",
+  "note": ""
+ },
+ "to-hop-huong": {
+  "file": "Liquidambar orientalis - Köhler–s Medizinal-Pflanzen-089.jpg",
+  "lic": "Public domain",
+  "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "page": "https://commons.wikimedia.org/wiki/File:Liquidambar_orientalis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-089.jpg",
+  "note": "Tranh thực vật; phần dùng thuốc là nhựa"
+ },
+ "an-tuc-huong": {
+  "file": "Cách mọc lá Styrax tonkinensis.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Gió Đông",
+  "page": "https://commons.wikimedia.org/wiki/File:C%C3%A1ch_m%E1%BB%8Dc_l%C3%A1_Styrax_tonkinensis.jpg",
+  "note": ""
+ },
+ "lien-phong": {
+  "file": "Sacred lotus Nelumbo nucifera.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "T.Voekler",
+  "page": "https://commons.wikimedia.org/wiki/File:Sacred_lotus_Nelumbo_nucifera.jpg",
+  "note": "Ảnh hoa sen; phần dùng thuốc là đài sen"
+ },
+ "tung-hoa-phan": {
+  "file": "Pinus massoniana1.jpg",
+  "lic": "Public domain",
+  "artist": "Aylmer Bourke Lambert (1761—1842)",
+  "page": "https://commons.wikimedia.org/wiki/File:Pinus_massoniana1.jpg",
+  "note": "Tranh thực vật; phần dùng thuốc là phấn hoa"
+ },
+ "nam-ngu-vi-tu": {
+  "file": "Schisandra sphenanthera Rehder and E.H.Wilson (AM AK300841-1).jpg",
+  "lic": "CC BY 4.0",
+  "artist": "Hobbs, John",
+  "page": "https://commons.wikimedia.org/wiki/File:Schisandra_sphenanthera_Rehder_and_E.H.Wilson_(AM_AK300841-1).jpg",
+  "note": ""
+ },
+ "du-cam-tu": {
+  "file": "Phyllanthus officinalis.jpg",
+  "lic": "CC BY 2.5",
+  "artist": "L. Shyamal",
+  "page": "https://commons.wikimedia.org/wiki/File:Phyllanthus_officinalis.jpg",
+  "note": ""
+ },
+ "mao-kha-tu": {
+  "file": "Terminalia bellirica.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Jan Ainali",
+  "page": "https://commons.wikimedia.org/wiki/File:Terminalia_bellirica.jpg",
+  "note": ""
+ },
+ "sa-cuc": {
+  "file": "Hippophae rhamnoides-01 (xndr).JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "No machine-readable author provided. Svdmolen assumed (based on copyright claims).",
+  "page": "https://commons.wikimedia.org/wiki/File:Hippophae_rhamnoides-01_(xndr).JPG",
+  "note": ""
+ },
+ "ngan-hanh-diep": {
+  "file": "GINKGOBAUM-2.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "EecherplazGinkgo06.jpg: Cayambe\nderivative work: Ginkgotree (talk)",
+  "page": "https://commons.wikimedia.org/wiki/File:GINKGOBAUM-2.jpg",
+  "note": ""
+ },
+ "cau-cot-diep": {
+  "file": "Ilexcornuta.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Casliber",
+  "page": "https://commons.wikimedia.org/wiki/File:Ilexcornuta.JPG",
+  "note": ""
+ },
+ "xa-sang-tu": {
+  "file": "Cnidium dubium kz09.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Krzysztof Ziarnek, Kenraiz",
+  "page": "https://commons.wikimedia.org/wiki/File:Cnidium_dubium_kz09.jpg",
+  "note": "Ảnh Cnidium dubium (cùng chi)"
+ },
+ "thuy-hong-hoa-tu": {
+  "file": "Persicaria orientalis 01.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Dalgial",
+  "page": "https://commons.wikimedia.org/wiki/File:Persicaria_orientalis_01.JPG",
+  "note": ""
+ },
+ "du-tri-tu": {
+  "file": "Akebia quinata02.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Akebia_quinata02.jpg",
+  "note": ""
+ },
+ "moc-biet-tu": {
+  "file": "Qua Gac.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Qoheletal",
+  "page": "https://commons.wikimedia.org/wiki/File:Qua_Gac.JPG",
+  "note": ""
+ },
+ "tho-kinh-bi": {
+  "file": "Pseudolarix amabilis 2.jpg",
+  "lic": "CC BY 2.5",
+  "artist": "Eric Hunt",
+  "page": "https://commons.wikimedia.org/wiki/File:Pseudolarix_amabilis_2.jpg",
+  "note": ""
+ },
+ "dang-hoang": {
+  "file": "Gardenology.org-IMG 8100 qsbg11mar.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Raffi Kojian",
+  "page": "https://commons.wikimedia.org/wiki/File:Gardenology.org-IMG_8100_qsbg11mar.jpg",
+  "note": ""
+ },
+ "thien-tien-tu": {
+  "file": "Hyoscyamus niger - Köhler–s Medizinal-Pflanzen-073.jpg",
+  "lic": "Public domain",
+  "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "page": "https://commons.wikimedia.org/wiki/File:Hyoscyamus_niger_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-073.jpg",
+  "note": "Tranh thực vật"
+ },
+ "hoa-son-sam": {
+  "file": "Physochlaina infundibularis single flower image brightened.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Flobbadob",
+  "page": "https://commons.wikimedia.org/wiki/File:Physochlaina_infundibularis_single_flower_image_brightened.jpg",
+  "note": "Hình phác họa tay của một nhà thực vật"
+ },
+ "dai-tao-giac": {
+  "file": "Gleditsia sinensis1.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Kurt Stüber [1]",
+  "page": "https://commons.wikimedia.org/wiki/File:Gleditsia_sinensis1.jpg",
+  "note": "Ảnh thân cây có gai; phần dùng thuốc là quả"
+ },
+ "tru-nha-tao": {
+  "file": "Gleditsia sinensis1.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Kurt Stüber [1]",
+  "page": "https://commons.wikimedia.org/wiki/File:Gleditsia_sinensis1.jpg",
+  "note": "Ảnh thân cây có gai; phần dùng thuốc là quả"
+ },
+ "loi-hoan": {
+  "file": "Ming herbal (painting); Omphalia lapidescens Schroet.) Wellcome L0039429.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Ming_herbal_(painting);_Omphalia_lapidescens_Schroet.)_Wellcome_L0039429.jpg",
+  "note": "Tranh cổ thời Minh vẽ đúng loài (nấm lôi hoàn)"
+ },
+ "hac-sat": {
+  "file": "Carpesium abrotanoides yabutabako02.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Keisotyo",
+  "page": "https://commons.wikimedia.org/wiki/File:Carpesium_abrotanoides_yabutabako02.jpg",
+  "note": ""
+ },
+ "lien-tien-thao": {
+  "file": "活血丹 Glechoma longituba -香港動植物公園 Hong Kong Botanical Garden- (9200926876).jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "阿橋 HQ",
+  "page": "https://commons.wikimedia.org/wiki/File:%E6%B4%BB%E8%A1%80%E4%B8%B9_Glechoma_longituba_-%E9%A6%99%E6%B8%AF%E5%8B%95%E6%A4%8D%E7%89%A9%E5%85%AC%E5%9C%92_Hong_Kong_Botanical_Garden-_(9200926876).jpg",
+  "note": ""
+ },
+ "thach-dieu-lan": {
+  "file": "Lysionotus pauciflorus 24587540.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "Cheng-Tao Lin",
+  "page": "https://commons.wikimedia.org/wiki/File:Lysionotus_pauciflorus_24587540.jpg",
+  "note": ""
+ },
+ "nhat-chi-hoang-hoa": {
+  "file": "一枝黃花 Solidago decurrens (Solidago virgaurea v leiocarpa) -香港西貢獅子會自然教育中心 Saikung, Hong Kong- (9213291945).jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "阿橋 HQ",
+  "page": "https://commons.wikimedia.org/wiki/File:%E4%B8%80%E6%9E%9D%E9%BB%83%E8%8A%B1_Solidago_decurrens_(Solidago_virgaurea_v_leiocarpa)_-%E9%A6%99%E6%B8%AF%E8%A5%BF%E8%B2%A2%E7%8D%85%E5%AD%90%E6%9C%83%E8%87%AA%E7%84%B6%E6%95%99%E8%82%B2%E4%B8%AD%E5%BF%83_Saikung,_Hong_Kong-_(9213291945).jpg",
+  "note": ""
+ },
+ "nga-bat-thuc-thao": {
+  "file": "Centipeda minima.JPG",
+  "lic": "CC BY 3.0",
+  "artist": "Dalgial",
+  "page": "https://commons.wikimedia.org/wiki/File:Centipeda_minima.JPG",
+  "note": ""
+ },
+ "can-cot-thao": {
+  "file": "Ajuga decumbens Japan.jpg",
+  "lic": "Public domain",
+  "artist": "Mason Brock (Masebrock)",
+  "page": "https://commons.wikimedia.org/wiki/File:Ajuga_decumbens_Japan.jpg",
+  "note": ""
+ },
+ "kim-phat-thao": {
+  "file": "Inula japonica 48818030.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "Repina Tatyana",
+  "page": "https://commons.wikimedia.org/wiki/File:Inula_japonica_48818030.jpg",
+  "note": ""
+ },
+ "ngoa-tung": {
+  "file": "Orostachys fimbriata 01.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Michael Wolf",
+  "page": "https://commons.wikimedia.org/wiki/File:Orostachys_fimbriata_01.jpg",
+  "note": ""
+ },
+ "bach-khuat-thai": {
+  "file": "Chelidonium majus - Köhler–s Medizinal-Pflanzen-033.jpg",
+  "lic": "Public domain",
+  "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "page": "https://commons.wikimedia.org/wiki/File:Chelidonium_majus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-033.jpg",
+  "note": ""
+ },
+ "moc-mien-hoa": {
+  "file": "Bombax Ceiba in Shatin.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "VintageHygrometer",
+  "page": "https://commons.wikimedia.org/wiki/File:Bombax_Ceiba_in_Shatin.jpg",
+  "note": ""
+ },
+ "kim-qua-lam": {
+  "file": "Tinospora cordifolia.jpg",
+  "lic": "Public domain",
+  "artist": "Tmd at Thai Wikipedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Tinospora_cordifolia.jpg",
+  "note": "Ảnh Tinospora cordifolia (cùng chi)"
+ },
+ "hoang-dang": {
+  "file": "Fibraurea tinctoria 186873029.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "Samuel Lee",
+  "page": "https://commons.wikimedia.org/wiki/File:Fibraurea_tinctoria_186873029.jpg",
+  "note": "Ảnh Fibraurea tinctoria (cùng chi)"
+ },
+ "son-ngan-hoa": {
+  "file": "山銀花(華南忍冬) Lonicera confusa -香港嘉道理農場 Kadoorie Farm, Hong Kong- (9255175456).jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "阿橋 HQ",
+  "page": "https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E9%8A%80%E8%8A%B1(%E8%8F%AF%E5%8D%97%E5%BF%8D%E5%86%AC)_Lonicera_confusa_-%E9%A6%99%E6%B8%AF%E5%98%89%E9%81%93%E7%90%86%E8%BE%B2%E5%A0%B4_Kadoorie_Farm,_Hong_Kong-_(9255175456).jpg",
+  "note": "Ảnh Lonicera confusa (một trong các loài nguồn)"
+ },
+ "thanh-dai": {
+  "file": "馬藍 Strobilanthes cusia -香港嘉道理農場 Kadoorie Farm, Hong Kong- (9240156784).jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "阿橋 HQ",
+  "page": "https://commons.wikimedia.org/wiki/File:%E9%A6%AC%E8%97%8D_Strobilanthes_cusia_-%E9%A6%99%E6%B8%AF%E5%98%89%E9%81%93%E7%90%86%E8%BE%B2%E5%A0%B4_Kadoorie_Farm,_Hong_Kong-_(9240156784).jpg",
+  "note": ""
+ },
+ "tam-khoa-cham": {
+  "file": "Berberis vulgaris 2 RF.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "Robert Flogaus-Faust",
+  "page": "https://commons.wikimedia.org/wiki/File:Berberis_vulgaris_2_RF.jpg",
+  "note": "Ảnh Berberis vulgaris (cùng chi)"
+ },
+ "tieu-thong-thao": {
+  "file": "Helwingia japonica (Montage s3).jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Alpsdake",
+  "page": "https://commons.wikimedia.org/wiki/File:Helwingia_japonica_(Montage_s3).jpg",
+  "note": "Ảnh Helwingia japonica (một trong các loài nguồn của vị này)"
+ },
+ "mien-ty-giai": {
+  "file": "Dioscorea sp 2.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Nativeplants garden",
+  "page": "https://commons.wikimedia.org/wiki/File:Dioscorea_sp_2.jpg",
+  "note": "Ảnh Dioscorea sp. (cùng chi)"
+ },
+ "loc-ham-thao": {
+  "file": "Pyrola minor 190605.jpg",
+  "lic": "CC BY-SA 2.5",
+  "artist": "Bernd Haynold",
+  "page": "https://commons.wikimedia.org/wiki/File:Pyrola_minor_190605.jpg",
+  "note": "Ảnh Pyrola minor (cùng chi)"
+ },
+ "phien-khuong-hoang": {
+  "file": "Curcuma longa roots.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Simon A. Eugster",
+  "page": "https://commons.wikimedia.org/wiki/File:Curcuma_longa_roots.jpg",
+  "note": "Ảnh củ Curcuma longa (cùng chi)"
+ },
+ "hong-dai-kich": {
+  "file": "Knoxia hookeriana 66801 580 360.jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "Keystone Foundation",
+  "page": "https://commons.wikimedia.org/wiki/File:Knoxia_hookeriana_66801_580_360.jpg",
+  "note": "Ảnh Knoxia hookeriana (cùng chi)"
+ },
+ "thanh-diep-dam": {
+  "file": "Swertia angustifolia - Narrow-Leaved Swertia at Tadiandamol, Tadiyantamol during GRV2019 (2).jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Vinayaraj",
+  "page": "https://commons.wikimedia.org/wiki/File:Swertia_angustifolia_-_Narrow-Leaved_Swertia_at_Tadiandamol,_Tadiyantamol_during_GRV2019_(2).jpg",
+  "note": "Ảnh Swertia angustifolia (cùng chi)"
+ },
+ "phan-ty-giai": {
+  "file": "Dioscorea balcanica BotGardBln310505.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Dioscorea_balcanica_BotGardBln310505.jpg",
+  "note": "Ảnh Dioscorea balcanica (cùng chi)"
+ },
+ "khuong-hoat": {
+  "file": "Ligusticum scoticum.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Stemonitis",
+  "page": "https://commons.wikimedia.org/wiki/File:Ligusticum_scoticum.jpg",
+  "note": "Ảnh Ligusticum scoticum (cùng họ Hoa tán, không phải loài dùng làm thuốc)"
+ },
+ "tho-boi-mau": {
+  "file": "Thladiantha dubia R.H (22).jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Rob Hille",
+  "page": "https://commons.wikimedia.org/wiki/File:Thladiantha_dubia_R.H_(22).jpg",
+  "note": "Ảnh Thladiantha dubia (cùng họ Bầu bí)"
  }
 };
