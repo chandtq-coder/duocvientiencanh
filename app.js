@@ -77,7 +77,7 @@ function renderList(){
   var d=new Date(),td=H[(Math.floor((d-new Date(d.getFullYear(),0,0))/864e5))%H.length];
   app.innerHTML=
    '<div class="heroTop"><span class="lantern l1"></span><span class="lantern l2"></span><h1 class="big">藥園仙境</h1><p class="sub">DƯỢC VIÊN TIÊN CẢNH</p>'+
-   '<p class="lead">Lạc vào khu vườn thuốc: '+H.length+' vị dược liệu Trung Hoa với chữ phồn thể, giản thể, pinyin và tên Việt — từ sinh trưởng đến công dụng, độc tính.</p></div>'+
+   '<p class="lead">Dược Viên gồm: '+H.length+' vị dược liệu được chia thành '+GROUPS.length+' khu như: '+GROUPS.slice(0,4).map(function(g){return g[1].replace(/\s*[一-鿿]+$/,"");}).join(", ")+"…"+'</p></div>'+
    '<a class="today" href="'+BASE+td.id+'"><div class="ph">'+img(td)+'</div><div class="tx"><div class="eyebrow">✦ Vị thuốc hôm nay</div><div class="zh han">'+esc(td.t)+'</div><div class="py" style="color:var(--lotus)">'+esc(td.py)+'</div><div class="vi">'+esc(td.vi)+'</div><p>'+esc(td.cat)+' · '+esc(td.tinh.split(".")[0].split(";")[0])+'</p></div></a>'+
    '<div class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>'+
    '<input id="q" type="search" inputmode="search" autocomplete="off" placeholder="Tìm: 人參, 人参, rénshēn, nhân sâm, bổ khí…" value="'+esc(st.q)+'" aria-label="Tìm dược liệu">'+
