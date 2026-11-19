@@ -13,11 +13,15 @@ var GROUPS = [
 var GICON={bo:"🌱",giaibieu:"🍃",thanhnhiet:"❄️",taha:"🌊",loithuy:"💧",only:"🔥",hoathuyet:"🌸",hoadam:"🍵",thusap:"🍇",khuphong:"🦴",lykhi:"🍊",khutrung:"🐛",congdoc:"☠️"};
 var GNAME = {}; GROUPS.forEach(function(g){GNAME[g[0]]=g[1];});
 var TOX = window.TOX || {}, UNV = window.UNVERIFIED || {}, FIX = window.FIXED || {};
-/* Nguồn tham khảo cho vị chưa đối chiếu được Dược điển: sách cổ ghi trong `src` + giáo trình + y văn */
+/* Nguồn tham khảo cho vị chưa đối chiếu được Dược điển: ưu tiên nguồn cụ thể đã tìm thấy (REFS), nếu thiếu thì ghi giáo trình + y văn */
 function refSrc(h){
-  var r=[],s=h.src||"";
-  if(s.indexOf("神農本草經")>=0)r.push("《神農本草經》"+(h.kinh?" (có trích dẫn nguyên văn ở mục Nguồn cổ)":""));
-  else if(s.indexOf("《")===0){var m=/《[^》]+》(?:\s*\([^)]*\))?/.exec(s);if(m)r.push(m[0]);}
+  var R=(window.REFS||{})[h.id],r=[];
+  if(R&&R.length){
+    R.forEach(function(x){r.push(x[0]+(x[1]==="m"?" (một nguồn)":""));});
+    return esc(r.join("; "));
+  }
+  var s=h.src||"";
+  if(s.indexOf("神農本草經")>=0)r.push("《神農本草經》");
   r.push("giáo trình 《中药学》 (Trung dược học)");
   r.push("y văn Trung thảo dược 中草藥");
   return esc(r.join("; "));
