@@ -412,3 +412,8 @@ main#app .heroTop .big,main#app .card,main#app .card *,main#app .today,main#app 
 :root{--subs:#9a6208}
 :root[data-theme="dark"]{--subs:#ffd27a}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--subs:#ffd27a}}
+/* chữ Hán ở nền tối: xanh lá, viền trắng cho nổi */
+:root[data-theme="dark"] .heroTop .big{background:none;-webkit-background-clip:border-box;background-clip:border-box;color:#2fd49a;
+  -webkit-text-stroke:6px #fff;paint-order:stroke fill;filter:drop-shadow(0 4px 14px rgba(24,12,70,.6))}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .heroTop .big{background:none;-webkit-background-clip:border-box;background-clip:border-box;color:#2fd49a;
+  -webkit-text-stroke:6px #fff;paint-order:stroke fill;filter:drop-shadow(0 4px 14px rgba(24,12,70,.6))}}
