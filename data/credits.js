@@ -1496,5 +1496,138 @@ window.CREDITS={
   "artist": "Krzysztof Ziarnek, Kenraiz",
   "page": "https://commons.wikimedia.org/wiki/File:Ampelopsis_japonica_kz04.jpg",
   "note": "Ảnh cây; phần dùng thuốc là rễ củ"
+ },
+ "khien-nguu-tu": {
+  "file": "Ipomoea nil Akatsukinoumi1.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "KENPEI",
+  "page": "https://commons.wikimedia.org/wiki/File:Ipomoea_nil_Akatsukinoumi1.jpg",
+  "note": ""
+ },
+ "ba-dau": {
+  "file": "Croton tiglium - Köhler–s Medizinal-Pflanzen-197.jpg",
+  "lic": "Public domain",
+  "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "page": "https://commons.wikimedia.org/wiki/File:Croton_tiglium_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-197.jpg",
+  "note": ""
+ },
+ "kinh-dai-kich": {
+  "file": "Euphorbia pekinensis 4.JPG",
+  "lic": "CC BY 3.0",
+  "artist": "Dalgial",
+  "page": "https://commons.wikimedia.org/wiki/File:Euphorbia_pekinensis_4.JPG",
+  "note": ""
+ },
+ "nguyen-hoa": {
+  "file": "Daphne genkwa01.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Daphne_genkwa01.jpg",
+  "note": ""
+ },
+ "thuong-luc": {
+  "file": "Phytolacca acinosa 24180995.jpg",
+  "lic": "CC0",
+  "artist": "Andra Waagmeester",
+  "page": "https://commons.wikimedia.org/wiki/File:Phytolacca_acinosa_24180995.jpg",
+  "note": ""
+ },
+ "thien-kim-tu": {
+  "file": "Euphorbia lathyris Sturm33.jpg",
+  "lic": "Public domain",
+  "artist": "Johann Georg Sturm (Painter: Jacob Sturm)",
+  "page": "https://commons.wikimedia.org/wiki/File:Euphorbia_lathyris_Sturm33.jpg",
+  "note": ""
+ },
+ "lo-hoi": {
+  "file": "Aloe vera flower inset.png",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Collage by en:User:MidgleyDJ, original images from Wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Aloe_vera_flower_inset.png",
+  "note": ""
+ },
+ "uc-ly-nhan": {
+  "file": "Prunus japonica SZ90.jpg",
+  "lic": "Public domain",
+  "artist": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Prunus_japonica_SZ90.jpg",
+  "note": ""
+ },
+ "le-lo": {
+  "file": "Veratrum nigrum Ciemiężyca czarna flowers 01.jpg",
+  "lic": "CC BY 3.0",
+  "artist": "Agnieszka Kwiecień (Nova)",
+  "page": "https://commons.wikimedia.org/wiki/File:Veratrum_nigrum_Ciemi%C4%99%C5%BCyca_czarna_flowers_01.jpg",
+  "note": ""
+ },
+ "thuong-son": {
+  "file": "Dichroa febrifuga Glasgow.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Keith Edkins",
+  "page": "https://commons.wikimedia.org/wiki/File:Dichroa_febrifuga_Glasgow.jpg",
+  "note": ""
+ },
+ "thau-dau": {
+  "file": "Ricinus March 2010-1.jpg",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Alvesgaspar",
+  "page": "https://commons.wikimedia.org/wiki/File:Ricinus_March_2010-1.jpg",
+  "note": ""
+ },
+ "kho-luyen-bi": {
+  "file": "Cinamomo (Melia azedarach) em Bagé, RS, Brasil, final de outono, frutificado e com folhas já caídas - 55336704649.jpg",
+  "lic": "CC BY 4.0",
+  "artist": "O Tupinólogo",
+  "page": "https://commons.wikimedia.org/wiki/File:Cinamomo_(Melia_azedarach)_em_Bag%C3%A9,_RS,_Brasil,_final_de_outono,_frutificado_e_com_folhas_j%C3%A1_ca%C3%ADdas_-_55336704649.jpg",
+  "note": ""
+ },
+ "su-quan-tu": {
+  "file": "Combretum indicum 01.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Prenn",
+  "page": "https://commons.wikimedia.org/wiki/File:Combretum_indicum_01.JPG",
+  "note": ""
+ },
+ "phi-tu": {
+  "file": "Torreya grandis.jpg",
+  "lic": "CC BY 3.0",
+  "artist": "Farm",
+  "page": "https://commons.wikimedia.org/wiki/File:Torreya_grandis.jpg",
+  "note": ""
+ },
+ "nam-qua-tu": {
+  "file": "Cucurbita moschata Butternut 2012 G2.jpg",
+  "lic": "Public domain",
+  "artist": "George Chernilevsky",
+  "page": "https://commons.wikimedia.org/wiki/File:Cucurbita_moschata_Butternut_2012_G2.jpg",
+  "note": ""
+ },
+ "quan-chung": {
+  "file": "Dryopteris crassirhizoma.JPG",
+  "lic": "CC BY-SA 3.0",
+  "artist": "Dalgial",
+  "page": "https://commons.wikimedia.org/wiki/File:Dryopteris_crassirhizoma.JPG",
+  "note": ""
+ },
+ "tang-tham": {
+  "file": "Rosales - Morus alba - 3.jpg",
+  "lic": "CC BY-SA 4.0",
+  "artist": "Emőke Dénes",
+  "page": "https://commons.wikimedia.org/wiki/File:Rosales_-_Morus_alba_-_3.jpg",
+  "note": ""
+ },
+ "hac-chi-ma": {
+  "file": "Sesamum indicum - Köhler–s Medizinal-Pflanzen-129.jpg",
+  "lic": "Public domain",
+  "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "page": "https://commons.wikimedia.org/wiki/File:Sesamum_indicum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-129.jpg",
+  "note": ""
+ },
+ "bach-phu-tu": {
+  "file": "Typhonium giganteum - Flickr - peganum.jpg",
+  "lic": "CC BY-SA 2.0",
+  "artist": "peganum (Flickr)",
+  "page": "https://commons.wikimedia.org/wiki/File:Typhonium_giganteum_-_Flickr_-_peganum.jpg",
+  "note": "Ảnh cây; phần dùng thuốc là củ"
  }
 };

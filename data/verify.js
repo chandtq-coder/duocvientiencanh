@@ -2,6 +2,9 @@
    Chỉ đối chiếu: loài gốc, tính, vị, quy kinh, liều, cách dùng đặc biệt, nhãn độc, câu kiêng kỵ. Chưa đối chiếu với sách in. */
 window.VERIFY_SRC="Dược điển Trung Quốc 2020 (một)";
 window.UNVERIFIED={
+"nguyen-hoa":"Không có bản quét chuyên luận Nguyên hoa trong kho đã dùng (nhiều tên tệp đều 404); số liệu theo giáo trình Trung dược học. Cần đối chiếu lại.",
+"le-lo":"Không có bản quét chuyên luận Lê lô trong kho đã dùng (404); số liệu theo giáo trình Trung dược học. Cần đối chiếu lại.",
+"nam-qua-tu":"Không có bản quét chuyên luận Nam qua tử trong kho đã dùng (404), có thể không thu trong Dược điển 2020 phần Một; số liệu theo giáo trình. Cần đối chiếu lại.",
 "dai-hoi":"Không tìm được bản quét chuyên luận trong kho đã dùng (nhiều tên tệp đều 404); số liệu theo giáo trình Trung dược học. Cần đối chiếu lại.",
 "bach-hoa-xa-thiet-thao":"Không có bản quét chuyên luận trong Dược điển 2020 (một); nhiều khả năng vị này không có chuyên luận chính thức nên số liệu theo giáo trình/tiêu chuẩn địa phương.",
 };

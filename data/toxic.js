@@ -106,5 +106,20 @@ window.TOX={
 "nhu-huong":{lv:"luu",lab:"THAI KỲ · DẠ DÀY YẾU",txt:"Dược điển ghi: phụ nữ có thai và người vị yếu thận trọng. Dễ gây buồn nôn, kích ứng dạ dày."},
 "to-moc":{lv:"luu",lab:"THAI KỲ",txt:"Dược điển ghi 孕妇慎用 (thận trọng khi có thai)."},
 "ban-bien-lien":{lv:"luu",lab:"LOBELINE · RẮN CẮN",txt:"Lobeline liều cao gây buồn nôn, nôn. Rắn cắn phải đi cấp cứu, không tự điều trị bằng thảo dược; phụ nữ có thai thận trọng."},
-"ban-chi-lien":{lv:"luu",lab:"KHÔNG THAY ĐIỀU TRỊ UNG THƯ",txt:"Thường dùng bổ trợ ung thư trong Đông y nhưng chưa có chứng cứ lâm sàng mạnh; không thay điều trị y khoa. Tính lạnh: tỳ vị hư hàn, phụ nữ có thai thận trọng."}
+"ban-chi-lien":{lv:"luu",lab:"KHÔNG THAY ĐIỀU TRỊ UNG THƯ",txt:"Thường dùng bổ trợ ung thư trong Đông y nhưng chưa có chứng cứ lâm sàng mạnh; không thay điều trị y khoa. Tính lạnh: tỳ vị hư hàn, phụ nữ có thai thận trọng."},
+"khien-nguu-tu":{"lv": "doc", "lab": "CÓ ĐỘC · CẤM KHI CÓ THAI", "txt": "Dược điển ghi 有毒 (có độc). Xổ mạnh, liều cao gây đau bụng, nôn, tổn thương thận. Phụ nữ có thai CẤM dùng; không dùng chung với Ba đậu, Ba đậu sương."},
+"ba-dau":{"lv": "doc", "lab": "ĐỘC MẠNH · CẤM KHI CÓ THAI", "txt": "Dược điển ghi 有大毒 (độc mạnh). Dầu ba đậu gây phồng rộp da, kích ứng niêm mạc, xổ dữ dội; chỉ dùng ngoài hoặc dạng Ba đậu sương theo chỉ định. Phụ nữ có thai CẤM dùng; không dùng chung với Khiên ngưu tử."},
+"kinh-dai-kich":{"lv": "doc", "lab": "CÓ ĐỘC · KỴ CAM THẢO", "txt": "Dược điển ghi 有毒 (có độc). Xổ nước mạnh, nhựa mủ kích ứng da mắt. Phụ nữ có thai CẤM dùng; không dùng chung với Cam thảo; chỉ dùng loại đã chế giấm khi uống."},
+"nguyen-hoa":{"lv": "doc", "lab": "CÓ ĐỘC · CẤM KHI CÓ THAI", "txt": "Theo giáo trình: có độc, xổ nước mạnh, kích ứng tiêu hóa; phụ nữ có thai cấm dùng, không dùng chung với Cam thảo. Chưa đối chiếu được với Dược điển."},
+"thuong-luc":{"lv": "doc", "lab": "CÓ ĐỘC · DỄ NHẦM NHÂN SÂM", "txt": "Dược điển ghi 有毒 (có độc). Quá liều gây nôn, tiêu chảy, mê sảng, co giật; rễ từng bị nhầm với Nhân sâm gây ngộ độc. Quả cũng độc. Phụ nữ có thai CẤM dùng."},
+"thien-kim-tu":{"lv": "doc", "lab": "CÓ ĐỘC · CẤM KHI CÓ THAI", "txt": "Dược điển ghi 有毒 (có độc) và ‘phụ nữ có thai cấm dùng, để tránh ngộ độc’. Xổ mạnh, nhựa kích ứng mắt da; dùng dạng đã bỏ vỏ ép bớt dầu."},
+"lo-hoi":{"lv": "luu", "lab": "THAI KỲ · XỔ", "txt": "Dược điển ghi: phụ nữ có thai thận trọng. Nhựa lô hội xổ mạnh, khác với gel làm mỹ phẩm; không dùng khi xuất huyết trực tràng, tiêu chảy do hư hàn."},
+"uc-ly-nhan":{"lv": "luu", "lab": "THAI KỲ", "txt": "Dược điển ghi: phụ nữ có thai thận trọng. Nhân hạt chứa amygdalin, không dùng liều cao kéo dài."},
+"bach-phu-tu":{"lv": "doc", "lab": "CÓ ĐỘC · KHÔNG UỐNG SỐNG", "txt": "Dược điển ghi 有毒 (có độc). Phụ nữ có thai thận trọng; củ sống uống phải thận trọng, chỉ dùng loại đã chế. Không nhầm với ‘Quan bạch phụ’ (Aconitum coreanum, loài khác)."},
+"thuong-son":{"lv": "doc", "lab": "CÓ ĐỘC · GÂY NÔN", "txt": "Dược điển ghi 有毒 (có độc), gây nôn, không dùng liều lớn; phụ nữ có thai thận trọng. Người tỳ vị yếu không dùng."},
+"thau-dau":{"lv": "doc", "lab": "HẠT RẤT ĐỘC · RICIN", "txt": "Dược điển ghi 有毒 (có độc). Hạt chứa ricin, vài hạt nhai nát có thể gây tử vong; trẻ em tuyệt đối tránh ăn nhầm. Chỉ dùng ngoài hoặc theo chỉ định."},
+"kho-luyen-bi":{"lv": "doc", "lab": "CÓ ĐỘC · GAN THẬN", "txt": "Dược điển ghi 有毒 (có độc): phụ nữ có thai và người chức năng gan thận kém thận trọng. Không dùng quá liều hoặc kéo dài."},
+"quan-chung":{"lv": "luu", "lab": "TIỂU ĐỘC", "txt": "Chuyên luận Miên mã quán chúng trong Dược điển ghi 有小毒 (có độc nhẹ). Theo y văn: phụ nữ có thai không dùng; dùng liều cao gây tổn hại thị giác, gan thận."},
+"le-lo":{"lv": "doc", "lab": "ĐỘC MẠNH · THẬP BÁT PHẢN", "txt": "Độc mạnh với tim và thần kinh (alkaloid steroid), gây nôn dữ dội, hạ huyết áp, chậm nhịp tim. Không dùng chung với Nhân sâm, Sa sâm, Đan sâm, Huyền sâm, Khổ sâm, Tế tân, Thược dược; phụ nữ có thai cấm dùng. Chưa đối chiếu được với Dược điển."},
+"su-quan-tu":{"lv": "luu", "lab": "KIÊNG TRÀ ĐẶC · TRẺ EM", "txt": "Dược điển ghi: khi dùng thuốc kiêng uống trà đặc; trẻ em mỗi tuổi 1–1,5 hạt, tối đa 20 hạt/ngày. Quá liều gây nấc cụt, nôn, chóng mặt."}
 };
