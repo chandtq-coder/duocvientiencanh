@@ -407,3 +407,8 @@ main#app .heroTop .big,main#app .card,main#app .card *,main#app .today,main#app 
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--subc1:#fff0b5;--subc2:#ffc46a}}
 :root[data-theme="dark"] .heroTop .sub{filter:drop-shadow(0 2px 10px rgba(30,16,80,.8)) drop-shadow(0 0 14px rgba(255,200,120,.35))}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .heroTop .sub{filter:drop-shadow(0 2px 10px rgba(30,16,80,.8)) drop-shadow(0 0 14px rgba(255,200,120,.35))}}
+/* tiêu đề phụ đậm hơn */
+.heroTop .sub{-webkit-text-stroke:1.1px var(--subs);paint-order:stroke fill;font-weight:400}
+:root{--subs:#9a6208}
+:root[data-theme="dark"]{--subs:#ffd27a}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--subs:#ffd27a}}
