@@ -109,7 +109,17 @@ function refreshGrid(){
   reveal(document.getElementById("grid"));
 }
 
-function sec(ic,title,txt,cls){return txt?'<section class="s '+(cls||"")+'"><h2><span aria-hidden="true">'+ic+'</span>'+title+'</h2><p>'+esc(txt)+'</p></section>':"";}
+function sec(ic,title,txt,cls,key){return txt?'<section class="s '+(cls||"")+'"><h2><span aria-hidden="true">'+ic+'</span>'+title+'</h2><p>'+esc(txt)+'</p>'+(key?'<div class="ext" data-ext="'+key+'"></div>':"")+'</section>':"";}
+/* Phần mở rộng chi tiết: tải theo từng vị khi mở trang (data/ext/<id>.json) và gắn vào đúng mục */
+function loadExt(id){
+  fetch(BASE+"data/ext/"+id+".json").then(function(r){return r.ok?r.json():null;}).then(function(x){
+    if(!x||pathKey()!==id)return;
+    ["grow","sci","folk","use","avoid"].forEach(function(k){
+      var box=app.querySelector('.ext[data-ext="'+k+'"]');if(!box||!x[k])return;
+      box.innerHTML=x[k].map(function(p){return '<h3>'+esc(p[0])+'</h3><p>'+esc(p[1])+'</p>';}).join("");
+    });
+  }).catch(function(){});
+}
 
 function renderDetail(id){
   var h=byId[id]; if(!h){history.replaceState(null,"",BASE);renderList();return;}
@@ -141,13 +151,13 @@ function renderDetail(id){
    '<div><dt>Nguồn cổ</dt><dd>'+esc(h.src)+'</dd></div>'+
    '<div><dt>Đối chiếu Dược điển</dt><dd>'+(UNV[h.id]?'<span class="vf vf-no">⚠ Chưa đối chiếu được</span> '+esc(UNV[h.id])+'<br><small>Nguồn tham khảo: '+refSrc(h)+'.</small>':'<span class="vf vf-ok">✔ Đã đối chiếu Dược điển TQ 2020</span> (tính, vị, quy kinh, liều, loài gốc)'+(FIX[h.id]?'<br><small>Đã chỉnh theo đối chiếu: '+esc(FIX[h.id])+'.</small>':''))+'</dd></div></dl>'+
    (h.kinh?'<div class="kinh"><div class="lbl">Trích cổ thư · 《神農本草經》</div><p class="z">'+esc(h.kinh)+'</p><p class="v">'+esc(h.kv)+'</p><p class="note">Trích theo bản lưu hành phổ biến; các bản chép có dị bản chữ. Bản dịch tiếng Việt chỉ mang tính tham khảo.</p></div>':'')+
-   sec("生","Sinh trưởng &amp; thu hái".replace("&amp;","&"),h.grow)+
-   sec("科","Công dụng theo khoa học hiện đại",h.sci)+
-   sec("民","Công dụng dân gian &amp; y học cổ truyền".replace("&amp;","&"),h.folk)+
-   sec("用","Cách dùng",h.use+(h.dose?" Liều tham khảo: "+h.dose+".":""))+
-   sec("慎","Kiêng kỵ &amp; thận trọng".replace("&amp;","&"),h.avoid,"warn")+
+   sec("生","Sinh trưởng &amp; thu hái".replace("&amp;","&"),h.grow,"","grow")+
+   sec("科","Công dụng theo khoa học hiện đại",h.sci,"","sci")+
+   sec("民","Công dụng dân gian &amp; y học cổ truyền".replace("&amp;","&"),h.folk,"","folk")+
+   sec("用","Cách dùng",h.use+(h.dose?" Liều tham khảo: "+h.dose+".":""),"","use")+
+   sec("慎","Kiêng kỵ &amp; thận trọng".replace("&amp;","&"),h.avoid,"warn","avoid")+
    '<div class="pager"><a href="'+BASE+p.id+'"><small>← Trước</small>'+esc(p.vi)+' '+esc(p.t)+'</a><a href="'+BASE+n.id+'"><small>Sau →</small>'+esc(n.vi)+' '+esc(n.t)+'</a></div>';
-  window.scrollTo({top:0,behavior:"instant"});enter();reveal(app);if(window.TTD_chime)TTD_chime();
+  window.scrollTo({top:0,behavior:"instant"});enter();reveal(app);if(window.TTD_chime)TTD_chime();loadExt(h.id);
 }
 
 function renderAbout(){

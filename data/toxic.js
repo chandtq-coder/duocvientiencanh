@@ -15,7 +15,7 @@ window.TOX={
 "hong-hoa":{lv:"luu",lab:"CHỐNG CHỈ ĐỊNH THAI KỲ · CHẢY MÁU",txt:"Hoạt huyết mạnh: có thể gây sảy thai, tăng nguy cơ chảy máu. Phụ nữ có thai thận trọng, nên tránh (Dược điển: 孕妇慎用); người dễ chảy máu, loét dạ dày, đang dùng thuốc chống đông không dùng."},
 "ich-mau":{lv:"luu",lab:"CHỐNG CHỈ ĐỊNH THAI KỲ",txt:"Kích thích co bóp tử cung. Dược điển ghi 孕妇慎用; hoạt chất kích thích co bóp tử cung nên tốt nhất tránh khi mang thai; thận trọng khi rong kinh, huyết áp thấp."},
 "nguu-tat":{lv:"luu",lab:"CHỐNG CHỈ ĐỊNH THAI KỲ",txt:"Hoạt huyết, dẫn huyết đi xuống, cổ thư ghi có thể gây sảy thai. Phụ nữ có thai thận trọng, nên tránh (Dược điển: 孕妇慎用); kinh nguyệt nhiều không dùng."},
-"tam-that":{lv:"luu",lab:"ĐÔNG MÁU · THAI KỲ",txt:"Tác dụng hai chiều lên đông máu; người đang dùng thuốc chống đông/chống kết tập tiểu cầu hỏi thầy thuốc. Phụ nữ có thai không dùng."},
+"tam-that":{lv:"luu",lab:"ĐÔNG MÁU · THAI KỲ",txt:"Tác dụng hai chiều lên đông máu; người đang dùng thuốc chống đông/chống kết tập tiểu cầu hỏi thầy thuốc. Phụ nữ có thai thận trọng (Dược điển ghi 孕妇慎用)."},
 "dan-sam":{lv:"luu",lab:"TƯƠNG TÁC THUỐC CHỐNG ĐÔNG",txt:"Tương tác rõ với warfarin và thuốc chống kết tập tiểu cầu, làm tăng nguy cơ chảy máu. Người sắp phẫu thuật nên ngưng theo chỉ dẫn."},
 "nhan-sam":{lv:"luu",lab:"TƯƠNG TÁC THUỐC",txt:"Có thể tương tác với warfarin, thuốc đái tháo đường, thuốc chống trầm cảm (MAO); gây mất ngủ, tăng huyết áp khi dùng liều cao. Kỵ Lê lô."},
 "linh-chi":{lv:"luu",lab:"LƯU Ý CHẢY MÁU",txt:"Dùng lâu có thể gây khô miệng, rối loạn tiêu hóa, chảy máu cam; thận trọng với thuốc chống đông, thuốc hạ áp, trước phẫu thuật."},

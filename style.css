@@ -441,3 +441,9 @@ main#app .heroTop .big,main#app .card,main#app .card *,main#app .today,main#app 
 @keyframes frsway{0%,100%{transform:skewY(-5deg) scaleX(1)}50%{transform:skewY(6deg) scaleX(.9)}}
 @media (max-width:640px){.fairies{font-size:34px}.fairy:nth-child(n+6){display:none}}
 @media (prefers-reduced-motion:reduce){.fairies{display:none}}
+/* phần mở rộng chi tiết trong từng mục */
+.s .ext{margin-top:6px}
+.s .ext h3{margin:16px 0 4px;font-size:15px;font-weight:700;letter-spacing:.01em;color:var(--jade2);display:flex;align-items:center;gap:8px}
+.s .ext h3::before{content:"";flex:none;width:6px;height:6px;border-radius:50%;background:var(--gold)}
+.s .ext p{margin:0 0 6px}
+.s.warn .ext h3{color:var(--red)}
